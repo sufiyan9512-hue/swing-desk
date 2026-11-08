@@ -1,0 +1,56 @@
+stocks loaded: 220
+Din har market haal me (F&O universe breadth): {'MIXED': 62, 'WEAK': 27, 'VWEAK': 40, 'STRONG': 56}
+split/bade gap wale windows skip: 0
+Test period: 2026-01-09 se 2026-10-30 (aadha: 2026-06-01)
+
+Base = har liquid stock har din (koi setup nahi), wahi exit: market ka apna asar.
+  base 3:15     MIXED   n= 13599 avgR -0.068
+  base 3:15     STRONG  n= 12320 avgR -0.140
+  base 3:15     VWEAK   n=  8781 avgR -0.015
+  base 3:15     WEAK    n=  5713 avgR -0.142
+  base Kal open MIXED   n= 12934 avgR -0.073
+  base Kal open STRONG  n= 11897 avgR -0.158
+  base Kal open VWEAK   n=  7821 avgR -0.057
+  base Kal open WEAK    n=  5334 avgR -0.187
+
+setup                entry    market      n jeet%    avgR   pehla  doosra    base  pass?
+BOUNCE               3:15     MIXED      73    33  -0.218  -0.271  -0.141  -0.068  
+BOUNCE               Kal open MIXED      67    27  -0.237  -0.361  -0.092  -0.073  
+BOUNCE               3:15     STRONG     24    46  -0.155  -0.153  -0.156  -0.140  
+BOUNCE               Kal open STRONG     20    30  -0.318  -0.311  -0.320  -0.158  
+BOUNCE               3:15     VWEAK      85    45  -0.008  +0.216  -0.207  -0.015  
+BOUNCE               Kal open VWEAK      58    36  -0.155  -0.046  -0.197  -0.057  
+BOUNCE               3:15     WEAK       43    49  -0.027  +0.063  -0.489  -0.142  
+BOUNCE               Kal open WEAK       39    33  -0.215  -0.177  -0.421  -0.187  
+BREAKOUT             3:15     MIXED     148    44  -0.090  -0.095  -0.082  -0.068  
+BREAKOUT             Kal open MIXED     132    45  -0.053  -0.030  -0.086  -0.073  
+BREAKOUT             3:15     STRONG    203    43  -0.119  -0.132  -0.107  -0.140  
+BREAKOUT             Kal open STRONG    201    41  -0.183  -0.244  -0.120  -0.158  
+BREAKOUT             3:15     VWEAK      37    51  +0.085  +0.190  +0.040  -0.015  
+BREAKOUT             Kal open VWEAK      36    39  -0.164  -0.348  -0.060  -0.057  
+BREAKOUT             3:15     WEAK       43    28  -0.390  -0.508  -0.170  -0.142  
+BREAKOUT             Kal open WEAK       29    41  -0.160  -0.333  +0.123  -0.187  
+DIP_A                3:15     MIXED       7    43  -0.023  -0.319  +0.372  -0.068  
+DIP_A                Kal open MIXED       6    50  -0.121  -0.535  +0.709  -0.073  
+DIP_A                3:15     STRONG      3    33  -0.468  -0.356  -0.691  -0.140  
+DIP_A                Kal open STRONG      2     0  -0.830  -1.077  -0.583  -0.158  
+DIP_A                3:15     WEAK        4    50  -0.203  -0.428  +0.472  -0.142  
+DIP_A                Kal open WEAK        3    33  -0.199  -0.410  +0.224  -0.187  
+REVERSAL_DOWNTREND   3:15     MIXED      34    38  -0.183  -0.265  -0.013  -0.068  
+REVERSAL_DOWNTREND   Kal open MIXED      37    35  -0.336  -0.378  -0.236  -0.073  
+REVERSAL_DOWNTREND   3:15     STRONG     13    31  -0.291  +0.129  -0.326  -0.140  
+REVERSAL_DOWNTREND   Kal open STRONG     14    14  -0.505  -0.311  -0.519  -0.158  
+REVERSAL_DOWNTREND   3:15     VWEAK      21    57  -0.073  +0.310  -0.264  -0.015  
+REVERSAL_DOWNTREND   Kal open VWEAK      19    47  -0.077  +0.377  -0.286  -0.057  
+REVERSAL_DOWNTREND   3:15     WEAK       22    27  -0.412  -0.342  -0.854  -0.142  
+REVERSAL_DOWNTREND   Kal open WEAK       21    38  -0.290  -0.252  -0.524  -0.187  
+REVERSAL_UP          3:15     MIXED      24    29  -0.467  -0.853  +0.178  -0.068  
+REVERSAL_UP          Kal open MIXED      26    38  -0.244  -0.293  -0.153  -0.073  
+REVERSAL_UP          3:15     STRONG     20    30  -0.268  +0.101  -0.569  -0.140  
+REVERSAL_UP          Kal open STRONG     20    25  -0.379  -0.242  -0.492  -0.158  
+REVERSAL_UP          3:15     VWEAK       9    67  +0.249  +0.199  +0.311  -0.015  
+REVERSAL_UP          Kal open VWEAK       7    57  +0.342  +0.346  +0.337  -0.057  
+REVERSAL_UP          3:15     WEAK        9    56  +0.037  +0.009  +0.266  -0.142  
+REVERSAL_UP          Kal open WEAK        7    71  +0.216  +0.216  +0.214  -0.187  
+
+PASS rule: n>=40, avgR>=+0.05, dono aadhe plus, aur base se 0.05R+ behtar. Data ~1 saal (F&O stocks), isliye nateeja kachha hai.

@@ -1,0 +1,33 @@
+name: daily-screen
+on:
+  schedule:
+    - cron: "30 12 * * 1-5"   # 18:00 IST
+    - cron: "0 14 * * 1-5"    # 19:30 IST (retry if NSE file was late)
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download bhavcopy
+        run: python fetch.py
+      - name: Run screen
+        run: python screen.py data out
+      - name: Commit result
+        run: |
+          git config user.name "swing-bot"
+          git config user.email "swing-bot@users.noreply.github.com"
+          cp out/screen_latest.csv docs/screen_latest.csv   # app ko turant naye picks
+          git add out/ docs/screen_latest.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "screen $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

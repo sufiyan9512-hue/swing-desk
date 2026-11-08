@@ -1,0 +1,51 @@
+name: app
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "50 12 * * 1-5"   # 18:20 IST
+    - cron: "20 14 * * 1-5"   # 19:50 IST (dobara: NSE file ya screen late ho to)
+permissions:
+  contents: write
+jobs:
+  app:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download bhavcopy
+        run: python fetch.py
+        env:
+          DAYS: "380"
+      - name: Build stock data
+        run: python stock_report.py data docs
+      - name: Copy latest reports for the app
+        run: |
+          for f in screen_latest.csv gap_check.csv picks_review.csv; do   # news_events.* news workflow khud copy karta hai
+            [ -f out/$f ] && cp out/$f docs/$f || true
+          done
+      - name: Chart candles (kaam ke stocks, ~1 saal daily)
+        run: python candles.py data || true
+        env:
+          CANDLE_DAYS: "250"
+      - name: Intraday 15-min candles (chart ke 15m / 1H timeframe)
+        run: python intraday.py || true
+        env:
+          ANGEL_API_KEY: ${{ secrets.ANGEL_API_KEY }}
+          ANGEL_CLIENT_ID: ${{ secrets.ANGEL_CLIENT_ID }}
+          ANGEL_PIN: ${{ secrets.ANGEL_PIN }}
+          ANGEL_TOTP_SECRET: ${{ secrets.ANGEL_TOTP_SECRET }}
+      - name: Commit
+        run: |
+          git config user.name "swing-bot"
+          git config user.email "swing-bot@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet && exit 0
+          git commit -m "app data $(date -u +%F)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

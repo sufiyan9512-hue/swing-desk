@@ -1,0 +1,34 @@
+name: live
+# Market ke time (9:10 - 15:32 IST) har ~25 sec me live prices Google Sheet me bhejta hai. main me kuch commit nahi karta;
+# chart ke live 1-min candles alag 'live-data' branch par force-push (ek hi commit) hote hain.
+on:
+  workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Sirf ek TEST Telegram alert bhejo (market band ho tab bhi), live feed mat chalao"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: ${{ inputs.test_alert && 'live-test' || 'live-feed' }}
+  cancel-in-progress: false
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run live feed
+        run: python live.py
+        env:
+          LIVE_END_IST: '15:32'
+          TEST_ALERT: ${{ inputs.test_alert && '1' || '' }}
+          ANGEL_API_KEY: ${{ secrets.ANGEL_API_KEY }}
+          ANGEL_CLIENT_ID: ${{ secrets.ANGEL_CLIENT_ID }}
+          ANGEL_PIN: ${{ secrets.ANGEL_PIN }}
+          ANGEL_TOTP_SECRET: ${{ secrets.ANGEL_TOTP_SECRET }}
+          GITHUB_TOKEN: ${{ github.token }}

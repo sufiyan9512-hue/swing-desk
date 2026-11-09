@@ -1,3 +1,7 @@
-ANGEL TEST 2026-11-09 04:11 UTC
-secrets present: key=True client=True pin=True totp=False
-FAIL: one or more secrets missing
+ANGEL TEST 2026-11-09 04:29 UTC
+secrets present: key=True client=True pin=True totp=True
+LOGIN OK
+RELIANCE FAIL: Invalid API Key (code None)
+TCS FAIL: Invalid API Key (code None)
+INFY FAIL: Invalid API Key (code None)
+RESULT: 3 failed

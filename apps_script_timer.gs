@@ -29,7 +29,7 @@ function kickWorkflows() {
     var res = UrlFetchApp.fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/' + k[0] + '/dispatches', {
       method: 'post', contentType: 'application/json', muteHttpExceptions: true,
       headers: { Authorization: 'Bearer ' + token, Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' },
-      payload: JSON.stringify({ ref: 'main' })
+      payload: JSON.stringify({ ref: 'claude/handsoff-documents-swing-trade-ocnb25' })
     });
     var code = res.getResponseCode();
     console.log(hm + ' ' + k[0] + ' -> ' + code + ' ' + res.getContentText().slice(0, 200));
@@ -60,7 +60,7 @@ function watchdog(props, token, hm, day) {
   var res = UrlFetchApp.fetch('https://api.github.com/repos/' + GH_REPO + '/actions/workflows/live.yml/dispatches', {
     method: 'post', contentType: 'application/json', muteHttpExceptions: true,
     headers: { Authorization: 'Bearer ' + token, Accept: 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28' },
-    payload: JSON.stringify({ ref: 'main' })
+    payload: JSON.stringify({ ref: 'claude/handsoff-documents-swing-trade-ocnb25' })
   });
   props.setProperty('wd_last', String(Date.now()));
   console.log(hm + ' watchdog: live ' + Math.round(age) + ' sec purana -> live.yml dispatch ' + res.getResponseCode());

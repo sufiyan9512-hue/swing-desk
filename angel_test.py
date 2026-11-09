@@ -20,6 +20,8 @@ def finish(code):
 
 def totp(secret):
     s = secret.upper()
+    bad = sorted(set(ch for ch in s if ch not in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ234567='))
+    print('totp check: length %d, sirf-number %s, galat akshar ki kism: %s' % (len(s), s.isdigit(), ''.join('0189' if c in '0189' else '?' for c in bad)[:8] or 'koi nahi'))
     s += '=' * (-len(s) % 8)
     k = base64.b32decode(s)
     c = struct.pack('>Q', int(time.time() // 30))

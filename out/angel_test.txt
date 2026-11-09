@@ -1,7 +1,7 @@
-ANGEL TEST 2026-11-09 04:29 UTC
+ANGEL TEST 2026-11-09 04:32 UTC
 secrets present: key=True client=True pin=True totp=True
 LOGIN OK
-RELIANCE FAIL: Invalid API Key (code None)
-TCS FAIL: Invalid API Key (code None)
-INFY FAIL: Invalid API Key (code None)
-RESULT: 3 failed
+RELIANCE: 59 candles, last = ['2026-11-09T10:00:00+05:30', 1311.8, 1312.7, 1311.0, 1311.6, 166515]
+TCS: 59 candles, last = ['2026-11-09T10:00:00+05:30', 2474.2, 2476.8, 2473.4, 2476.6, 9417]
+INFY FAIL: HTTP 403 Access denied because of exceeding access rate (code None)
+RESULT: 1 failed

@@ -1,66 +1,80 @@
-NEWS/EVENTS CHECK 2026-11-09 16:51 IST
-screen data date: 2026-11-06 | candidates: 45
+NEWS/EVENTS CHECK 2026-11-10 07:53 IST
+screen data date: 2026-11-09 | candidates: 47
 NSE event calendar FAIL: HTTP Error 403: Forbidden
-NSE event calendar (symbol-wise): OK for 69 symbols
-locked stocks added for announcements: PASHUPATI,AURUM,PIIND,SUPRIYA,EBGNG,VIDYAWIRES,APTUS,THERMAX,KINGFA,RATEGAIN,UNIVCABLES,IONEXCHANG,KRN,AIAENG,WSTCSTPAPR,RPTECH,RICOAUTO,OPTIEMUS,MARINE,AEROFLEX,PREMEXPLN,NACLIND
-NSE announcements fetched for 67 of 67 symbols
-BSE announcement FAIL (WSTCSTPAPR): HTTP Error 400: Bad Request
-BSE announcements: 65 symbols checked, 10 naye (NSE me nahi the)
+NSE event calendar (symbol-wise): OK for 73 symbols
+locked stocks added for announcements: PASHUPATI,AURUM,SUPRIYA,PIIND,APTUS,RAIN,AUGMONT,GERMAN,AJMERA,PREMEXPLN,TATVA,RAINBOW,BHEL,JYOTICNC,METROPOLIS,ADVAIT,WEWORK,NATIONALUM,NYKAA,IEX,CCL,PFIZER,NSLNISP,VAML,GHCLTEXTIL
+NSE announcements fetched for 72 of 72 symbols
+BSE announcement FAIL (SHILPAMED): Expecting value: line 3 column 1 (char 4)
+BSE announcements: 71 symbols checked, 4 naye (NSE me nahi the)
 RSS ET Markets: OK, 50 items
 RSS Business Standard: OK, 35 items
 RSS Moneycontrol: OK, 15 items
 RSS Moneycontrol: OK, 4 items
 RSS Mint: OK, 35 items
-Google News: 71 of 71 symbols, 184 headlines
-PDF saar: 29 naye bane, 5 nahi bane, 2 pehle ke reuse (AI key: nahi)
-announcements.json: 40 symbols with announcements in last 3 days
-BHARTIARTL   BREAKOUT   IN_NEWS                            |  |  | Bharti Airtel Share Price Live Updates: Bharti Airtel's Stock Performance | Bharti Airtel shares: Rs 20,000 crore m-cap gone amid target revisions by Morgan Stanley, 
-LT           BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-09 Bagging/Receiving of orders/contracts | Larsen & Toubro NSE:LT Bags Noida Metro Aqua Line Order
-ENTERO       BREAKOUT   IN_NEWS                            |  |  | Pharmacy retail stock Entero Healthcare zooms 33% in 1 week; hits new high
-MOTILALOFS   BREAKOUT   IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | Motilal Oswal to host analyst meetings on Nov 16 and 26, 2026 | Buy National Stock Exchange Ltd For Target Rs.2,300 by Motilal Oswal Financial Services Lt
-MAHABANK     BREAKOUT   IN_NEWS                            |  |  | SBI, PNB, Bank of Baroda: NIFTY PSU Bank index rallies up to 2.5% amid weak market; what’s | Commonwealth Bank of Australia (CBA.AX) Stock Price, News, Quote & History
-SHYAMMETL    BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-09 Press Release | Shyam Metalics Q2FY27 results: Net profit rises 96% YoY to ₹511 crore
+Google News: 77 of 77 symbols, 188 headlines
+PDF saar: 10 naye bane, 0 nahi bane, 3 pehle ke reuse (AI key: nahi)
+announcements.json: 25 symbols with announcements in last 3 days
+HDFCBANK     BREAKOUT   IN_NEWS                            |  |  | Sensex, Nifty rebound in early trade led by IT firms, HDFC Bank
 ICICIBANK    BREAKOUT   IN_NEWS                            |  | 2026-11-09 General Updates | ICICI Bank, Divi's among 14 NSE 500 stocks hit new highs in Muhurat session | ICICI Bank schedules seven investor meets for Nov 16-19, 2026
-HDFCBANK     BREAKOUT   IN_NEWS                            |  |  | NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's | Diwali Stock Picks 2026: Tata Steel, BEL, HDFC Bank - 25 brokerages reveal 187 shares to b
 SAILIFE      BREAKOUT   IN_NEWS                            |  |  | Multibagger stock: Sai Life Sciences surges 9% to record high after Q2 nos | Sai Life Sciences shares jump 9%, multibagger stock rallies 19% in 3 days after Q2 results
+AARTIDRUGS   BREAKOUT   IN_NEWS                            |  |  | Aarti Drugs shares defy weak market sentiment; skyrocket 11% today | Here's why; stock ret | Aarti Drugs Share Price and Technical Analysis
+LAURUSLABS   BREAKOUT   IN_NEWS                            |  |  | Top 3 stocks to buy this week: Union Bank, Ather Energy, Laurus Labs by market expert; che
+GLAND        BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-09 Appointment | Gland Pharma shares rally 8% to hit 4-year-high post strong Q2; what brokerages say, check | Gland Pharma shares hit 52-week high; jump 7% despite market sell-off | Will rally continu
 SYMBIOTEC    BREAKOUT   IN_NEWS                            |  |  | Buy Symbiotec Pharmalab; target of Rs 1800: Motilal Oswal
-INFY         PREBREAK   IN_NEWS                            |  |  | Infosys Share Price Live Updates: Infosys Price Movement Analysis | Stock Radar: Infosys stocks showing signs of bottoming out after falling over 30% from hig
-COFORGE      PREBREAK   IN_NEWS                            |  |  | BHEL, Coforge, JSW Infra, Meesho among top funda-stock picks; check price targets & more
-WIPRO        PREBREAK   IN_NEWS                            |  |  | Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahi | Wipro (WIPRO) Share Price Today (NSE), Market News
-UNIONBANK    PREBREAK   IN_NEWS                            |  |  | City Union Bank Ltd. Futures Price: Live NSE/BSE Futures Chart & Updates | SBI, Wipro, IOCL, Union Bank among top stocks to buy for short-term gains; check price tar
-TRENT        PREBREAK   IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | Will Trent: Ramón Rodríguez Directing Season 5 Opener, Posts BTS Looks
-MANKIND      PREBREAK   IN_NEWS                            |  |  | Mankind Pharma Share Price - Live NSE: MANKIND Stock Price & Chart | Mankind Pharma Sees Sharp Open Interest Surge Amid Bullish Momentum
-ITCHOTELS    PREBREAK   IN_NEWS                            |  |  | Arihant Superstructures unit signs hotel management agreement with ITC Hotels for 227-room
-SALSTEEL     PREBREAK   NEW_ANNOUNCEMENT                   |  | 2026-11-09 Updates | 
-MANOMAY      PREBREAK   EVENT_7D                           | 2026-11-13 Financial Results |  | 
-MRPL         PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-07 Action(s) taken or orders passed | Mangalore Refinery & Petrochemicals Ltd. Share Price, Stock Price - NSE/BSE Live | Mangalore Refinery & Petrochemicals Ltd. Hits Intraday Low Amid Price Pressure
-SHILPAMED    PULLBACK   IN_NEWS                            |  |  | Shilpa Medicare Ltd is Rated Hold by MarketsMOJO
+SANSERA      BREAKOUT   IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | Sansera Engineering to host analyst investor meet in Mumbai on Nov 16 | Sansera Engineering shares rise up to 7%; Nomura, Goldman Sachs on future outlook
+MAHABANK     BREAKOUT   IN_NEWS                            |  |  | Berkshire Hathaway May Have Sold More Bank of America Stock in the Third Quarter | SBI, PNB, Bank of Baroda: NIFTY PSU Bank index rallies up to 3.7% amid weak market; what’s
+UNOMINDA     BREAKOUT   IN_NEWS                            |  |  | Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month | Uno Minda zooms 26% in November, stock nears record high; here's why
+STYLEBAAZA   BREAKOUT   EVENT_7D IN_NEWS                   | 2026-11-14 Financial Results |  | Baazar Style Retail board meeting rescheduled to Nov 14 for Q2FY27 results
+KPL          BREAKOUT   IN_NEWS                            |  | 2026-11-09 Analyst / Investor Meet | Broad-Based Technical Strength Lifts Kwality Pharmaceuticals Ltd to 52-Week High of Rs 388
+PNB          BREAKOUT   IN_NEWS                            |  |  | PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3% | SBI, PNB, Bank of Baroda: NIFTY PSU Bank index rallies up to 3.7% amid weak market; what’s
+BANKBARODA   BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-09 General Updates | Berkshire Hathaway May Have Sold More Bank of America Stock in the Third Quarter | SBI, PNB, Bank of Baroda: NIFTY PSU Bank index rallies up to 3.7% amid weak market; what’s
+AUROPHARMA   BREAKOUT   IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | Aurobindo Pharma - Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a mo | Aurobindo Pharma to host investor meets on Nov 16 and 17 in Mumbai
+MANKIND      BREAKOUT   IN_NEWS                            |  |  | Mankind Pharma Share Price - Live NSE: MANKIND Stock Price & Chart | Mankind Pharma - Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a mont
+CHEMPLASTS   BREAKOUT   IN_NEWS                            |  |  | Chemplast Sanmar shares jump over 11% in biggest single-day gain in 10 months as Q2 rally 
+INDIANB      BREAKOUT   IN_NEWS                            |  |  | PSU Banks in focus; SBI, BOI, PNB, Indian Bank, Canara, UBI gain up to 3% | Stock of the day - Indian Bank Ltd Target Rs.953 - Religare Broking Ltd
+ENTERO       BREAKOUT   IN_NEWS                            |  |  | Pharmacy retail stock Entero Healthcare zooms 33% in 1 week; hits new high | Entero Healthcare Solutions rises 29.4% from October close
+MAHLOG       PREBREAK   IN_NEWS                            |  |  | Mahindra Logistics falls 1.4% on Rs 11.9 crore net loss in Q4 | Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahi
+MPHASIS      PULLBACK   IN_NEWS                            |  | 2026-11-08 ESOP/ESOS/ESPS | Mphasis eyes double-digit FY27 growth on strong deal pipeline, AI demand | Mphasis broker-dealer deal uses recurring revenue sharing
 INDUSTOWER   PULLBACK   IN_NEWS                            |  |  | Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO | Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO
-PWL          PULLBACK   IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | PhysicsWallah Q2FY27: Standalone profit up 21%, EBITDA margin hits 22.2% | PhysicsWallah Ltd Q2 revenue reaches ₹1,242 crore, PAT doubles
-WHIRLPOOL    PULLBACK   RESULTS_SOON NEW_ANNOUNCEMENT IN_NEWS | 2026-11-09 Financial Results | 2026-11-09 Outcome of Board Meeting | Women of Van Between the Whirlpool of Violence and the Obstacles to Achieving Justice | Q2 Results, Nov 9: Whirlpool of India, Olectra Greentech, RM Drip Sprinklers Systems, Nicc
-SUPRIYA      DIP        IN_NEWS                            |  | 2026-11-07 Copy of Newspaper Publication | Supriya Lifescience Sales & Marketing GM Sreekant Sreedharan Granted Bail in NDPS Act Case
-SUPRIYA      DIP        IN_NEWS                            |  | 2026-11-07 Copy of Newspaper Publication | Supriya Lifescience Sales & Marketing GM Sreekant Sreedharan Granted Bail in NDPS Act Case
-EBGNG        DIP        IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | GNG Electronics Q2 Revenue Rises 42% to ₹624.8 Crore | GNG Electronics EBGNG Q2 FY27 Earnings Call Key Highlights
-THERMAX      DIP        IN_NEWS                            |  |  | Thermax shares extend Friday's losses; JPMorgan upgrades on attractive risk-reward | Thermax Q2 Review Review: JPMorgan Upgrades To Overweight, Kotak, UBS Maintain Buy | Check
-THERMAX      DIP        IN_NEWS                            |  |  | Thermax shares extend Friday's losses; JPMorgan upgrades on attractive risk-reward | Thermax Q2 Review Review: JPMorgan Upgrades To Overweight, Kotak, UBS Maintain Buy | Check
-AIAENG       DIP        IN_NEWS                            |  |  | AIA Engineering Ltd. Share Price, Stock Price - NSE/BSE Live
-WSTCSTPAPR   DIP        IN_NEWS                            |  | 2026-11-07 Copy of Newspaper Publication | Huskers sharp in West Coast swing, clinch share of Big Ten title | #1 Nebraska Finishes Off the Weekend With a West Coast Sweep, Nebraska 3- Washington 0
-PREMEXPLN    DIP        EVENT_7D IN_NEWS                   | 2026-11-12 Financial Results |  | Premier Explosives Ltd Downgraded to Strong Sell Amid Technical and Financial Weakness
-PASHUPATI    LOCKED     NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-07 General Updates | Pashupati Cotspin shareholders approve 3:2 bonus issue via postal ballot
-Symbols with no flags: 36. Top market headlines:
+BLUESTARCO   PULLBACK   IN_NEWS                            |  |  | BLUE STAR DELOS takes over from BLUE STAR NAXOS
+FCL          PULLBACK   EVENT_7D IN_NEWS                   | 2026-11-13 Financial Results |  | Fineotex Chemical Q2 FY27 Results Board Meet Set November 13
+LALITHAA     PULLBACK   RESULTS_SOON IN_NEWS               | 2026-11-11 Financial Results/Other business matters |  | LALITHAA JEWELLERY MART L Share Price | Lalithaa Jewellery Mart Ltd. Share Price Live Today
+SHILPAMED    PULLBACK   IN_NEWS                            |  |  | Shilpa Medicare Ltd is Rated Hold by MarketsMOJO
+BEML         PULLBACK   IN_NEWS                            |  |  | BEML Limited Just Recorded A 16% Revenue Beat: Here's What Analysts Think | Bengaluru Bullet Train Takes Shape at BEML
+MOLBIO       PULLBACK   IN_NEWS                            |  | 2026-11-09 Copy of Newspaper Publication | 1,743,861 Equity Shares of Molbio Diagnostics Limited are subject to a Lock-Up Agreement E | Molbio Diagnostics Q2FY27 net profit falls 92.5% to ₹8 crore
+CENTUM       PULLBACK   IN_NEWS                            |  | 2026-11-09 Shareholders meeting | Centum Electronics Announces Postal Ballot for Shareholder Approvals
+ONEPOINT     PULLBACK   IN_NEWS                            |  |  | One Point One Solutions Limited (ONEPOINT.BO) stock price, news, quote and history | CoGrader’s Texas STAAR AI Grader Scores Essays Within One Point of TEA Raters 98.3% of the
+JAYKAY       PULLBACK   EVENT_7D                           | 2026-11-13 Financial Results |  | 
+NPST         PULLBACK   RESULTS_SOON                       | 2026-11-11 Financial Results/Other business matters |  | 
+KOLTEPATIL   PULLBACK   IN_NEWS                            |  |  | Kolte Patil Developers Ltd is Rated Sell | KOLTE - PATIL DEVELOPERS LIMITE (KOLTEPATIL-EQ.NS) Seasonal returns chart - Yahoo Finance
+JINDALPOLY   PULLBACK   EVENT_7D NEW_ANNOUNCEMENT          | 2026-11-14 Financial Results | 2026-11-09 Board Meeting | 
+PASHUPATI    DIP        IN_NEWS                            |  |  | Pashupati Cotspin shareholders approve 3:2 bonus issue via postal ballot
+APTUS        DIP        IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | Aptus Value Housing Finance seeks shareholder nod for ESOS 2026
+RAIN         DIP        IN_NEWS                            |  |  | Rain Industries shares fall 9% after Q3 results; revenue jumps 23% | Rain Industries Ltd is Rated Buy by MarketsMOJO
+RAIN         DIP        IN_NEWS                            |  |  | Rain Industries shares fall 9% after Q3 results; revenue jumps 23% | Rain Industries Ltd is Rated Buy by MarketsMOJO
+AUGMONT      DIP        IN_NEWS                            |  |  | AUGMONT ENTERPRISES LTD Share Price | Augmont Enterprises Ltd (AUGMONT) Share Price
+AJMERA       DIP        IN_NEWS                            |  |  | Ajmera Realty seeks shareholder nod for ₹500 crore NCD issuance
+PREMEXPLN    DIP        RESULTS_SOON                       | 2026-11-12 Financial Results |  | 
+RAINBOW      DIP        IN_NEWS                            |  |  | Rainbow Childrens Q2FY27 Results: Revenue up 23% YoY, PAT rises 11%
+BHEL         DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-09 Action(s) taken or orders passed | Bharat Heavy Electricals Ltd. is Rated Buy | Bharat Heavy Electricals Secures Up to INR9 Billion Power Grid Order
+NATIONALUM   DIP        IN_NEWS                            |  | 2026-11-09 Analysts/Institutional Investor Meet/Con. Call Updates | National Aluminium NATIONALUM Q2 FY27 Earnings Call Key Updates
+PFIZER       DIP        IN_NEWS                            |  |  | Pfizer (PFE) Stock Looks Overvalued On Its 29% One Year Gain | What Happens To Pfizer Stock If Patent Losses Outpace New Drugs?
+NSLNISP      DIP        RESULTS_SOON                       | 2026-11-12 Financial Results |  | 
+VAML         DIP        IN_NEWS                            |  |  | Vedanta Aluminium Metal among 5 stocks showing bullish RSI upswing | Vedanta Aluminium Metal Ltd. Share Price Today - Vedanta Aluminium Metal Ltd. Stock Price 
+Symbols with no flags: 26. Top market headlines:
+  [ET Markets] Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month
   [ET Markets] FIIs cut stake in 10 smallcap stocks for 3 consecutive quarters; shares fall up to 70% in CY26
   [ET Markets] Explained: Why Nvidia shares dropped 4% in overnight trade and what analysts warn can trigger a bloodbath?
   [ET Markets] Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore
   [ET Markets] Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027
-  [ET Markets] Coal India Share Price Live Updates: Coal India  Market Performance
-  [ET Markets] BPCL Share Price Live Updates: BPCL Price Movement Analysis
-  [ET Markets] IndusInd Bank Share Price Live Updates: IndusInd Bank  Closes Lower Amid Market Fluctuations
-  [ET Markets] Jio Financial Services Share Price Live Updates: Jio Financial Services Sees Minor Decline
-  [ET Markets] Bajaj Finserv Share Price Live Updates: Bajaj Finserv's Market Performance Overview
+  [ET Markets] Coal India Share Price Highlights: Coal India Ltd Stock Price History
+  [ET Markets] BPCL Share Price Highlights: BPCL Stock Price History
+  [ET Markets] IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History
+  [ET Markets] Jio Financial Services Share Price Highlights: Jio Financial Services Stock Price History
+  [ET Markets] Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History
   [ET Markets] MTAR Technologies among 3 stocks showing White Marubozu pattern
-  [ET Markets] HUL Share Price Live Updates: HUL's Performance Overview
+  [ET Markets] HUL Share Price Highlights: HUL Stock Price History
   [ET Markets] Vedanta Aluminium Metal among 5 stocks showing bullish RSI upswing
   [ET Markets] L&amp;T Finance among 6 stocks that dropped below their VWAPs
-  [ET Markets] Divis Labs Share Price Live Updates: Divis Labs Trading Insights
-  [ET Markets] NTPC Share Price Live Updates: NTPC's Price Analysis
+  [ET Markets] Divis Labs Share Price Highlights: Divis Labs Stock Price History
 Note: flags come from public feeds and can be incomplete. Verify before acting. Not financial advice.

@@ -1,49 +1,51 @@
-GAP CHECK 2026-11-09 10:15 IST (screen data date from screen_latest.csv)
-screen data date: 2026-11-06 | candidates: 45
+GAP CHECK 2026-11-10 10:05 IST (screen data date from screen_latest.csv)
+screen data date: 2026-11-09 | candidates: 47
 setup      symbol         status          trigger      open     gap%     ltp      vwap  note
-PULLBACK   ARFIN          TRIGGERED          97.0     96.88      2.9    96.3     96.36  below VWAP
-BREAKOUT   ASAHIINDIA     TRIGGERED       1040.74    1040.0     0.54  1044.0   1040.31  
-PULLBACK   DHANBANK       TRIGGERED         33.41      33.2     1.28   33.09     33.18  below VWAP
-BREAKOUT   GLENMARK       TRIGGERED       2685.18    2590.0      0.0  2706.3   2641.57  
-BREAKOUT   HDFCBANK       TRIGGERED        789.04     797.0     1.11   791.7    792.79  below VWAP
-BREAKOUT   ICICIBANK      TRIGGERED       1572.77    1577.0     0.37  1580.4   1579.12  
-PREBREAK   ITCHOTELS      TRIGGERED        178.18    177.79     1.94  176.08    176.74  below VWAP
-BREAKOUT   LT             TRIGGERED       4121.82    4145.0     0.66  4115.8   4113.91  
-BREAKOUT   LUMAXTECH      TRIGGERED       2344.84    2320.0    -0.32  2334.0   2429.32  below VWAP
-BREAKOUT   MAHABANK       TRIGGERED          87.0      86.0    -1.05   87.22      87.0  
-PULLBACK   MRPL           TRIGGERED        177.08     177.0     0.76  177.15    176.56  
-PULLBACK   SHILPAMED      TRIGGERED        970.77    953.65      1.2  958.35    957.62  
-BREAKOUT   SHYAMMETL      TRIGGERED        1306.3    1324.8     1.86  1321.7   1320.75  
-PULLBACK   SUNTV          TRIGGERED        607.31    601.05     0.94  604.85    609.32  below VWAP
-PULLBACK   TARIL          TRIGGERED        312.91     313.0      2.1  310.05    310.54  below VWAP
-PREBREAK   UNIONBANK      TRIGGERED        189.09     187.0      0.0  190.08    190.13  below VWAP
-PULLBACK   WHIRLPOOL      TRIGGERED        832.98     835.0      1.0  828.05     823.7  
-PULLBACK   63MOONS        WAIT             959.46     902.0     0.67   896.0    892.74  7.08% below trigger
-PREBREAK   APLAPOLLO      WAIT            2241.24    2187.0     0.08  2182.2   2185.09  2.71% below trigger; below VWAP
-PULLBACK   APOLLO         WAIT             428.63    422.95     2.25   409.9    411.86  4.57% below trigger; below VWAP
-BREAKOUT   BHARTIARTL     WAIT            2122.12    2086.0    -1.01  2048.4   2058.89  3.60% below trigger; below VWAP
-PULLBACK   BLUESTARCO     WAIT            1581.58    1572.0    -0.19  1551.8   1556.13  1.92% below trigger; below VWAP
-PREBREAK   COFORGE        WAIT            2130.03    2062.0    -0.67  2041.6   2041.95  4.33% below trigger; below VWAP
-PULLBACK   HLEGLAS        WAIT             433.98    420.05     1.29   418.8    420.89  3.62% below trigger; below VWAP
-PULLBACK   INDUSTOWER     WAIT             384.03    383.75     0.17   380.0    379.48  1.06% below trigger
-PREBREAK   INFY           WAIT             1200.0    1167.9    -1.14  1150.7   1155.18  4.28% below trigger; below VWAP
-PULLBACK   IPCALAB        WAIT            1996.99    1931.0    -0.56  1974.5   1969.05  1.14% below trigger
-PULLBACK   JAIBALAJI      WAIT              69.37      67.3     0.01   66.71     66.82  3.99% below trigger; below VWAP
-PULLBACK   MOLBIO         WAIT            1379.38    1357.3     1.34  1349.2   1358.19  2.24% below trigger; below VWAP
-BREAKOUT   NIFTY1         WAIT             279.99    277.72     0.34  276.72    276.83  1.18% below trigger; below VWAP
-PULLBACK   PWL            WAIT             132.33     130.0      0.0  128.56     129.3  2.93% below trigger; below VWAP
-PREBREAK   TRENT          WAIT            3133.13    3085.0     0.19  3036.1   3040.38  3.20% below trigger; below VWAP
-PREBREAK   WIPRO          WAIT              201.9     197.0    -0.51   196.7    196.34  2.64% below trigger
-PREBREAK   MANKIND        RUNAWAY         2563.76    2600.0     2.36  2676.5   2668.68  LTP >1.5% above trigger
-BREAKOUT   APLLTD         SKIP_GAPUP       985.98    1015.1     5.18 1047.45   1040.13  opened >1.5% above trigger
-PULLBACK   CEIGALL        API_BUSY         388.84                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
-BREAKOUT   ENTERO         SKIP_GAPUP      1938.54    2049.0     7.82  2015.1   2012.55  opened >1.5% above trigger
-PREBREAK   MANOMAY        SKIP_GAPUP       253.25     265.0     7.01  263.05    264.27  opened >1.5% above trigger; below VWAP
-PULLBACK   MONQ50         SKIP_GAPUP       230.23    237.69     4.44   233.0    233.56  opened >1.5% above trigger; below VWAP
-BREAKOUT   MOTILALOFS     SKIP_GAPUP       1106.1   1144.05     3.82  1144.8   1139.89  opened >1.5% above trigger
-BREAKOUT   SAILIFE        SKIP_GAPDOWN    1816.71    1738.8    -2.59  1850.7   1836.05  gap down
-PREBREAK   SALSTEEL       SKIP_GAPUP        92.59      95.4      5.5   91.49     93.26  opened >1.5% above trigger; below VWAP
-PREBREAK   SONACOMS       API_BUSY         919.62                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
-BREAKOUT   SYMBIOTEC      SKIP_GAPUP      1527.33    1572.0     3.86  1567.2   1562.04  opened >1.5% above trigger
-PREBREAK   SYNGENE        SKIP_GAPUP       427.13    433.65     3.92  438.35     433.7  opened >1.5% above trigger
+PULLBACK   63MOONS        NO_DATA          908.26                                       no candles yet
+BREAKOUT   AARTIDRUGS     NO_DATA          513.51                                       no candles yet
+BREAKOUT   ANTHEM         NO_DATA          990.09                                       no candles yet
+PREBREAK   APLAPOLLO      NO_DATA         2241.24                                       no candles yet
+BREAKOUT   APLLTD         NO_DATA         1056.76                                       no candles yet
+PULLBACK   APOLLO         NO_DATA          423.37                                       no candles yet
+BREAKOUT   AUROPHARMA     NO_DATA         1857.96                                       no candles yet
+BREAKOUT   BANKBARODA     NO_DATA          260.27                                       no candles yet
+BREAKOUT   BANKNIFTY1     NO_DATA           62.21                                       no candles yet
+BREAKOUT   BBL            NO_DATA         2732.73                                       no candles yet
+PULLBACK   BEML           NO_DATA          2003.6                                       no candles yet
+PULLBACK   BLUESTARCO     NO_DATA         1583.58                                       no candles yet
+PULLBACK   CENTUM         NO_DATA         4285.28                                       no candles yet
+BREAKOUT   CHEMPLASTS     NO_DATA          255.25                                       no candles yet
+BREAKOUT   ENTERO         NO_DATA         2139.74                                       no candles yet
+PULLBACK   FCL            NO_DATA           54.34                                       no candles yet
+BREAKOUT   GLAND          NO_DATA         3377.37                                       no candles yet
+PULLBACK   HBLENGINE      NO_DATA          835.68                                       no candles yet
+BREAKOUT   HDFCBANK       NO_DATA           802.7                                       no candles yet
+BREAKOUT   ICICIBANK      NO_DATA         1593.59                                       no candles yet
+BREAKOUT   INDIANB        NO_DATA          935.63                                       no candles yet
+PULLBACK   INDUSTOWER     NO_DATA          384.13                                       no candles yet
+PREBREAK   ITCHOTELS      NO_DATA          179.17                                       no candles yet
+PULLBACK   JAYKAY         NO_DATA          209.01                                       no candles yet
+PULLBACK   JINDALPOLY     NO_DATA          695.29                                       no candles yet
+PULLBACK   KOLTEPATIL     NO_DATA          457.91                                       no candles yet
+PULLBACK   KOPRAN         NO_DATA           271.8                                       no candles yet
+BREAKOUT   KPL            NO_DATA         3891.09                                       no candles yet
+PULLBACK   LALITHAA       NO_DATA          372.82                                       no candles yet
+BREAKOUT   LAURUSLABS     NO_DATA         2482.48                                       no candles yet
+BREAKOUT   MAHABANK       NO_DATA           88.21                                       no candles yet
+PREBREAK   MAHLOG         NO_DATA          445.04                                       no candles yet
+BREAKOUT   MANKIND        NO_DATA          2707.7                                       no candles yet
+PULLBACK   MOLBIO         NO_DATA         1371.97                                       no candles yet
+PULLBACK   MPHASIS        NO_DATA         2526.52                                       no candles yet
+PULLBACK   MRPL           NO_DATA          179.46                                       no candles yet
+PULLBACK   NPST           NO_DATA         1796.79                                       no candles yet
+PULLBACK   ONEPOINT       NO_DATA           78.29                                       no candles yet
+PREBREAK   ONESOURCE      NO_DATA         1651.45                                       no candles yet
+BREAKOUT   PNB            NO_DATA          132.61                                       no candles yet
+BREAKOUT   SAILIFE        NO_DATA          1899.2                                       no candles yet
+BREAKOUT   SANSERA        NO_DATA         4719.71                                       no candles yet
+PULLBACK   SHILPAMED      NO_DATA          977.98                                       no candles yet
+BREAKOUT   STYLEBAAZA     NO_DATA          421.42                                       no candles yet
+BREAKOUT   SYMBIOTEC      NO_DATA         1610.61                                       no candles yet
+PULLBACK   TARIL          NO_DATA          315.06                                       no candles yet
+BREAKOUT   UNOMINDA       NO_DATA         1369.37                                       no candles yet
 Status guide: TRIGGERED = price crossed trigger and is within 1.5%; WAIT = not yet; SKIP_* / RUNAWAY = do not enter. Not financial advice.

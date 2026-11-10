@@ -1,28 +1,5 @@
 {
  "debug": {
-  "pledge_keys": [
-   "broadcastDt",
-   "comName",
-   "compBroadcastDate",
-   "disclosureFromDate",
-   "disclosureToDate",
-   "nbfcNonPromoShare",
-   "nbfcPromoShare",
-   "noOfPledgeShare",
-   "noOfSecPledgeShare",
-   "numSharesPledged",
-   "percPromoterHolding",
-   "percPromoterShares",
-   "percSharesPledged",
-   "percTotShares",
-   "sharesCollateral",
-   "shp",
-   "totDematShares",
-   "totIssuedShares",
-   "totPromoterHolding",
-   "totPromoterShares",
-   "totPublicHolding"
-  ],
   "shp_keys": [
    "broadcastDate",
    "cgTimeStamp",
@@ -733,15 +710,15 @@
    "sector": "Basic Materials"
   },
   "APLAPOLLO": {
-   "at": "2026-11-03",
+   "at": "2026-11-10",
    "de": 0.17,
    "de_src": "yahoo",
    "eg": 25.3,
    "eps": 47.16,
    "industry": "Steel",
-   "pe": 45.65,
-   "pledge": 0.0,
-   "pledge_date": "2026-09-30",
+   "pe": 46.25,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 28.18,
    "prom_date": "2026-09-30",
    "prom_prev": 28.25,
@@ -771,15 +748,15 @@
    "sector": "Healthcare"
   },
   "APOLLO": {
-   "at": "2026-11-03",
+   "at": "2026-11-10",
    "de": 0.44,
    "de_src": "yahoo",
    "eg": 50.0,
    "eps": 3.82,
    "industry": "Aerospace & Defense",
-   "pe": 105.03,
-   "pledge": 35.57,
-   "pledge_date": "2026-09-30",
+   "pe": 108.39,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 49.98,
    "prom_date": "2026-09-30",
    "prom_prev": 49.98,
@@ -1262,7 +1239,7 @@
    "qv": 3
   },
   "BANKNIFTY1": {
-   "at": "2026-11-09",
+   "at": "2026-11-10",
    "err": [
     "shp",
     "de"
@@ -1351,22 +1328,22 @@
    "sector": "Consumer Cyclical"
   },
   "BEML": {
-   "at": "2026-11-03",
-   "de": 0.11,
+   "at": "2026-11-10",
+   "de": 0.22,
    "de_src": "yahoo",
-   "eps": 71.42,
+   "eg": -30.6,
+   "eps": 69.66,
    "industry": "Conglomerates",
-   "pe": 28.73,
-   "pledge": 0.0,
-   "pledge_date": "2026-09-30",
+   "pe": 28.59,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 54.03,
    "prom_date": "2026-09-30",
    "prom_prev": 54.03,
    "prom_yr": 54.03,
    "qv": 3,
-   "rg": 29.3,
-   "roe": 4.83,
-   "roe_src": "annual",
+   "rg": 42.8,
+   "roe": 5.77,
    "sector": "Industrials"
   },
   "BERGEPAINT": {
@@ -1486,15 +1463,15 @@
    "sector": "Basic Materials"
   },
   "BLUESTARCO": {
-   "at": "2026-11-03",
+   "at": "2026-11-10",
    "de": 0.22,
    "de_src": "yahoo",
    "eg": 25.6,
    "eps": 25.98,
    "industry": "Building Products & Equipment",
-   "pe": 60.53,
-   "pledge": 0.0,
-   "pledge_date": "2026-09-30",
+   "pe": 60.72,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 36.5,
    "prom_date": "2026-09-30",
    "prom_prev": 36.5,
@@ -4010,15 +3987,12 @@
    "sector": "Real Estate"
   },
   "ICICIBANK": {
-   "at": "2026-11-09",
+   "at": "2026-11-10",
    "de": 0.57,
    "de_date": "2026-03-31",
    "de_src": "yahoo-annual",
-   "err": [
-    "pledge"
-   ],
    "pledge": null,
-   "pledge_date": "2026-09-30",
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 0.0,
    "prom_date": "2026-09-30",
    "prom_prev": 0.0,
@@ -5206,7 +5180,7 @@
    "sector": "Industrials"
   },
   "KPL": {
-   "at": "2026-11-09",
+   "at": "2026-11-10",
    "de": 0.4,
    "de_src": "yahoo",
    "eg": 114.9,
@@ -6793,17 +6767,17 @@
    "sector": "Healthcare"
   },
   "ONEPOINT": {
-   "at": "2026-11-03",
+   "at": "2026-11-10",
    "de": 0.48,
    "de_src": "yahoo",
    "eg": 72.2,
    "eps": 1.71,
    "industry": "Specialty Business Services",
-   "pe": 42.73,
-   "pledge": 39.44,
-   "pledge_date": "2026-09-30",
-   "prom": 52.31,
-   "prom_date": "2026-09-30",
+   "pe": 43.33,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 52.28,
+   "prom_date": "2026-11-07",
    "prom_prev": 52.31,
    "prom_yr": 52.29,
    "qv": 3,
@@ -11014,13 +10988,13 @@
  "log": [
   "candidates: 72",
   "warmup fail: HTTP Error 403: Forbidden",
-  "status: {\"shp\": \"52/54\", \"pledge\": \"53/54\", \"de\": \"53/54\", \"cached\": 18}"
+  "status: {\"shp\": \"6/8\", \"pledge\": \"8/8\", \"de\": \"7/8\", \"cached\": 64}"
  ],
  "status": {
-  "cached": 18,
-  "de": "53/54",
-  "pledge": "53/54",
-  "shp": "52/54"
+  "cached": 64,
+  "de": "7/8",
+  "pledge": "8/8",
+  "shp": "6/8"
  },
- "updated": "2026-11-09 14:44 UTC"
+ "updated": "2026-11-10 14:38 UTC"
 }

@@ -1,70 +1,70 @@
 setup,symbol,flags,next_event,last_announcement,headlines
-BREAKOUT,KALYANKJIL,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,Kalyan Jewellers Share Price Rallies 33% in Seven Sessions; Stock Jumps 6.67% Today | Kalyan Jewellers shares jump 15% in 2 days as target prices go up to Rs 900. Should you bu
-BREAKOUT,SBIN,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,State Bank of India Valuation Shifts Signal Changing Market Sentiment | San Antonio investors buy 113-year-old Citizens State Bank
-BREAKOUT,PNB,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month | PNB Share Price
-BREAKOUT,MEESHO,IN_NEWS,,,"Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment | MSCI Nov rejig: LIC, Adani Green, Meesho among 4 additions; PI Inds exits"
+BREAKOUT,KALYANKJIL,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,Kalyan Jewellers shares fall nearly 2% after 16% rally in two sessions; stock retreats fro
+BREAKOUT,SBIN,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,SBI Share Price - Live NSE: SBIN Stock Price & Chart
+BREAKOUT,PNB,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,"Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda a | Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month"
+BREAKOUT,MEESHO,IN_NEWS,,,"LIC, Meesho, Coforge stocks on radar amid MSCI Nov rejig; what charts say? | Looking for stocks to buy for 2027? HDFC Bank, Meesho, Paytm, Park Medi, LG Electronics - "
 BREAKOUT,CDSL,IN_NEWS,,,"Breakout stock: CDSL gains 4%, up 30% from 52-week low; more upside ahead?"
-BREAKOUT,MOTILALOFS,IN_NEWS,,,Motilal Oswal shares jump 5% to a record high; stock sees best month in over two years - C | Motilal Oswal shares jump 5% to a record high; stock sees best month in over two years
-BREAKOUT,DLF,IN_NEWS,,,"Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high | DLF (NSE: DLF): Rental Venture Income Rises 9 Per Cent With Office Demand in View"
-BREAKOUT,EMCURE,IN_NEWS,,,Emcure Pharmaceuticals Q2FY27 Results: Standalone PAT up 111% YoY
-BREAKOUT,MANAKCOAT,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-11 General Updates,Manaksia Coated Metals & Industries Ltd (BOM:539046) (Q2 2027) Earnings Call Highlights: .
-BREAKOUT,TANLA,IN_NEWS,,,"IT sector stocks today, November 12: Tanla Platforms jumps 2.28%; Wipro declines 0.69%, Te"
-BREAKOUT,PETRONET,IN_NEWS,,2026-11-12 General Updates,"Petronet LNG schedules analyst meets in Mumbai for Nov 17-18, 2026"
+BREAKOUT,MOTILALOFS,IN_NEWS,,,"Buy Hitachi Energy; target of Rs 35,800: Motilal Oswal"
+BREAKOUT,DLF,IN_NEWS,,,"Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high | DTCP seals four buildings in DLF-2, resumes crackdown on illegal commercial use"
+BREAKOUT,EMCURE,IN_NEWS,,,Broad-Based Technical Strength Lifts Emcure Pharmaceuticals Ltd to 52-Week High of Rs 2394 | Emcure Pharmaceuticals Q2FY27 Results: Standalone PAT up 111% YoY
+BREAKOUT,MANAKCOAT,NEW_ANNOUNCEMENT,,2026-11-11 General Updates,
+BREAKOUT,TANLA,none,,,
+BREAKOUT,PETRONET,none,,2026-11-12 General Updates,
 BREAKOUT,AARTIPHARM,none,,,
-BREAKOUT,PRESTIGE,IN_NEWS,,2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates,Buy Prestige Estates Projects; target of Rs 1800: Prabhudas Lilladher
-BREAKOUT,JYOTISTRUC,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-11 Press Release,"With EPS Growth And More, Jyoti Structures (NSE:JYOTISTRUC) Makes An Interesting Case | Trending Stocks Today, November 12, 2026: PC Jeweller, Vodafone Idea, Ola Electric, Jyoti "
-BREAKOUT,KTKBANK,IN_NEWS,,,"Banking sector stocks today, November 12: Tamilnad Mercantile Bank jumps 3.68%, Karnataka "
-BREAKOUT,RKFORGE,IN_NEWS,,,Ramkrishna Forgings: Export Recovery Drives Growth as Capacity Utilisation Improves
-BREAKOUT,STYLEBAAZA,RESULTS_SOON RESULTS_SOON NEW_ANNOUNCEMENT,2026-11-14 Financial Results,2026-11-12 General Updates,
-BREAKOUT,UNIMECH,IN_NEWS,,,Unimech Aerospace stock rallies 110% in six months | Tap to know more | Inshorts | Unimech Aerospace and Manufacturing Ltd Shows Strong Technical Momentum Amid Bullish Shift
+BREAKOUT,PRESTIGE,IN_NEWS,,2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates,"Top stock picks: Analysts recommend buying Prestige Estates, Honasa, AB Capital, Kaynes & "
+BREAKOUT,JYOTISTRUC,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-11 Press Release,"With EPS Growth And More, Jyoti Structures (NSE:JYOTISTRUC) Makes An Interesting Case"
+BREAKOUT,KTKBANK,none,,,
+BREAKOUT,RKFORGE,IN_NEWS,,,Broad-Based Technical Strength Lifts Ramkrishna Forgings Ltd to 52-Week High of Rs 796.95 | Ramkrishna Forgings: Export Recovery Drives Growth as Capacity Utilisation Improves
+BREAKOUT,STYLEBAAZA,RESULTS_SOON RESULTS_SOON NEW_ANNOUNCEMENT IN_NEWS,2026-11-14 Financial Results,2026-11-12 General Updates,Baazar Style Retail climbs on incorporating wholly owned subusidiary
+BREAKOUT,UNIMECH,none,,,
 BREAKOUT,DCBBANK,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,What DCB Bank Buyers Were Betting On
 BREAKOUT,BALUFORGE,RESULTS_SOON,2026-11-14 Financial Results/Fund Raising/Other business matters,,
-BREAKOUT,MANORAMA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Resignation of Director/KMP/SMP,"Manorama Industries Limited posts profit, Rs 245.5831 crore outflow | Manorama Industries Q2 profit up 60%; appoints Deep Saraf as MD"
+BREAKOUT,MANORAMA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Resignation of Director/KMP/SMP,Manorama Industries Limited profit rises 60% as sales grow 41% | Manorama Industries Q2 profit up 60%; appoints Deep Saraf as MD
 BREAKOUT,SIMPLEXINF,none,,2026-11-11 Copy of Newspaper Publication,
 BREAKOUT,EIMCOELECO,none,,,
 BREAKOUT,MOCAPITAL,none,,,
-BREAKOUT,CNL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Updates,Creative Newtech Signs AT&T Brand Licensing Deal for Technology Infrastructure Products; S | Creative Newtech Signs Strategic Licensing Deal With AT&T For Tech Infrastructure
-PREBREAK,APLAPOLLO,IN_NEWS,,,"APL Apollo Tubes Ltd Downgraded to Buy Amid Mixed Technical Signals and Valuation Concerns | Analysts recommend four buy trades; pick Data Patterns, Paytm, Oberoi Realty and APL Apoll"
-PREBREAK,POONAWALLA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Allotment of Securities,Poonawalla Fincorp allots ₹500 crore NCDs at 9.15% coupon | Poonawalla Fincorp approves ₹500 crore NCD allotment
-PREBREAK,SONACOMS,none,,,
-PREBREAK,CUB,IN_NEWS,,,City Union Bank Ltd. Futures Price: Live NSE/BSE Futures Chart & Updates | City Union Bank Sees Significant Open Interest Surge Amid Bullish Market Momentum
+BREAKOUT,CNL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Updates,Creative Newtech (NSE:CNL) Signs Brand Licence for Tech Infrastructure
+PREBREAK,APLAPOLLO,none,,,
+PREBREAK,POONAWALLA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-13 Issue of Securities,POONAWALLA Share Price Today - Poonawalla Fincorp on NSE/BSE | Poonawalla Fincorp approves ₹800 crore zero-coupon NCDs via private placement
+PREBREAK,SONACOMS,IN_NEWS,,2026-11-13 Analysts/Institutional Investor Meet/Con. Call Updates,Sona BLW Notifies Exchange of Investor Meeting Schedule
+PREBREAK,CUB,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-13 Change in Director(s),City Union Bank appoints Sankaran G as Executive Director | City Union Bank Ltd. Futures Price: Live NSE/BSE Futures Chart & Updates
 PREBREAK,JYOTICNC,none,,,
 PREBREAK,SGMART,none,,,
 PREBREAK,ABDL,IN_NEWS,,,Broad-Based Technical Strength Lifts Allied Blenders & Distillers Ltd to 52-Week High of R
 PREBREAK,LTTS,none,,,
 PREBREAK,TIMEX,none,,,
-PREBREAK,ZENTEC,none,,,
+PREBREAK,ZENTEC,IN_NEWS,,,"Zen Technologies Limited (ZENTEC.NS) Stock Price, News, Quote & History"
 PREBREAK,GREAVESCOT,none,,,
 PREBREAK,ITCHOTELS,none,,,
 PREBREAK,KRBL,none,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,
 PREBREAK,SMSPHARMA,none,,,
-PREBREAK,NAZARA,none,,,
-PREBREAK,FDC,none,,,
+PREBREAK,NAZARA,none,,2026-11-13 Analysts/Institutional Investor Meet/Con. Call Updates,
+PREBREAK,FDC,IN_NEWS,,,FDC Consolidated Holdings Limited (FDC.XA) Stock Forum & Discussion - Yahoo Finance
 PREBREAK,BBL,none,,,
 PREBREAK,SAKAR,none,,,
-PREBREAK,NUVOCO,IN_NEWS,,2026-11-12 Analyst / Investor Meet,"Nuvoco Vistas Standalone September 2026 Net Sales at Rs 2,525.11 crore, up 17.83% Y-o-Y | Nuvoco Vistas Corp. (NSE:NUVOCO): What Is Driving Its Analyst Meet on 17 November 2026?"
-PULLBACK,HCLTECH,NEW_ANNOUNCEMENT,,2026-11-12 Updates,
+PREBREAK,NUVOCO,none,,2026-11-12 Analyst / Investor Meet,
+PULLBACK,HCLTECH,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Updates,HCL Technologies (NSE:HCLTECH): Why Did It Rank Among Forbes Top 50 Companies for Women 20
 PULLBACK,TECHNOCRAF,RESULTS_SOON,2026-11-14 Financial Results,,
 PULLBACK,NHPC,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,ICICI Securities Sticks to Their Sell Rating for NHPC Limited (NHPC)
-PULLBACK,MRPL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Press Release,PM to dedicate MRPL's ₹330 crore marketing terminal in Bengaluru | PM Modi to dedicate MRPL’s Devangonthi Marketing Terminal in Bengaluru on November 13
-PULLBACK,BLUESTARCO,IN_NEWS,,,"Blue Star Limited (BLUESTARCO.NS) Stock Price, News, Quote & History | ‘Attempt to justify Operation Blue Star’: Delhi Sikh Gurdwara plans protest against Sonia'"
+PULLBACK,MRPL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Press Release,PM to dedicate MRPL's ₹330 crore marketing terminal in Bengaluru | PM Modi to inaugurate MRPL’s ₹330 crore Devangonthi terminal on November 13
+PULLBACK,BLUESTARCO,IN_NEWS,,,"Blue Star Limited (BLUESTARCO.NS) Stock Price, News, Quote & History"
 PULLBACK,FCL,RESULTS_SOON,2026-11-13 Financial Results,,
 PULLBACK,FSL,none,,,
 PULLBACK,INDSWFTLAB,none,,,
 PULLBACK,ARFIN,none,,,
-PULLBACK,RSYSTEMS,IN_NEWS,,2026-11-12 Shareholders meeting,"R Systems sees AI-native work reshaping revenue mix, coding demand | R Systems seeks shareholder nod for CEO Nitesh Bansal's pay"
+PULLBACK,RSYSTEMS,IN_NEWS,,2026-11-12 Shareholders meeting,R Systems seeks shareholder nod for CEO Nitesh Bansal's pay
 PULLBACK,JAYKAY,RESULTS_SOON,2026-11-13 Financial Results,,
 PULLBACK,JAIBALAJI,IN_NEWS,,2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates,"Jai Balaji Group Proposes INR 6,000 Crore Investment in West Bengal"
-PULLBACK,TCPLPACK,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,"TCPL Packaging enters battery separator films business, targets ₹2,000 crore revenue"
-PULLBACK,MASPTOP50,NEW_ANNOUNCEMENT,,2026-11-12 Mutual Fund Scheme Summary Document,
-PULLBACK,JINDALPOLY,RESULTS_SOON IN_NEWS,2026-11-14 Financial Results,,Jindal Poly Investment NSE:JPOLYINVST Board Meeting November 2026
-DIP,ENNATURE,NEW_ANNOUNCEMENT,,2026-11-12 Updates,
-DIP,EVONILE,none,,,
-DIP,LENSKART,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-11 Monitoring Agency Report,"Lenskart Solutions Limited (LENSKART.NS) stock price, news, quote and history"
+PULLBACK,TCPLPACK,none,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,
+PULLBACK,MASPTOP50,NEW_ANNOUNCEMENT,,2026-11-13 Reg. 90 (1) Declaration of   NAV - Mutual Fund,
+PULLBACK,JINDALPOLY,RESULTS_SOON IN_NEWS,2026-11-14 Financial Results,,ETFs Investing in Jindal Poly Films Limited Stocks | Jindal Poly Investment Q2 profit rises 64% on dividends
+DIP,ENNATURE,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Updates,"ENNATURE BIO PHARMA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes"
+DIP,EVONILE,NEW_ANNOUNCEMENT,,2026-11-13 Postal Ballot,
+DIP,LENSKART,NEW_ANNOUNCEMENT,,2026-11-11 Monitoring Agency Report,
 DIP,LUMAXTECH,none,,,
-DIP,WINDLAS,none,,,
-DIP,BIKAJI,IN_NEWS,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,BIKAJI Share Price Today - Bikaji Foods International on NSE/BSE | Bikaji Foods Q2 EBITDA falls 7.4% on cost pressure; guides 17% growth
+DIP,WINDLAS,none,,2026-11-13 Analysts/Institutional Investor Meet/Con. Call Updates,
+DIP,BIKAJI,none,,2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates,
 DIP,HERITGFOOD,none,,,
-DIP,SPMLINFRA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-12 Cessation,"SPML Infra Q2FY27 Results: Net profit jumps 46% YoY to ₹2,223 lakh | SPML Infra (NSE:SPMLINFRA): What Changed at Its Board Meeting on 12 November 2026?"
+DIP,SPMLINFRA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-13 Monitoring Agency Report,"SPML Infra reports no deviation in use of ₹183.18 crore preferential allotment funds | SPML Infra Q2FY27 Results: Net profit jumps 46% YoY to ₹2,223 lakh"
 LOCKED,PASHUPATI,none,,,
 LOCKED,AURUM,none,,,

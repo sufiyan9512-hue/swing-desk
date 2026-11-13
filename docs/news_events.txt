@@ -1,76 +1,70 @@
-NEWS/EVENTS CHECK 2026-11-13 07:50 IST
+NEWS/EVENTS CHECK 2026-11-13 16:52 IST
 screen data date: 2026-11-12 | candidates: 59
 NSE event calendar FAIL: HTTP Error 403: Forbidden
 NSE event calendar (symbol-wise): OK for 69 symbols
 locked stocks added for announcements: PASHUPATI,AURUM,ENNATURE,EVONILE,LENSKART,LUMAXTECH,WINDLAS,BIKAJI,HERITGFOOD,SPMLINFRA
 NSE announcements fetched for 69 of 69 symbols
-BSE scrip list: 5147 codes
-BSE announcement FAIL (SIMPLEXINF): HTTP Error 400: Bad Request
-BSE announcements: 66 symbols checked, 14 naye (NSE me nahi the)
+BSE announcements: 67 symbols checked, 22 naye (NSE me nahi the)
 RSS ET Markets: OK, 50 items
 RSS Business Standard: OK, 35 items
 RSS Moneycontrol: OK, 15 items
 RSS Moneycontrol: OK, 4 items
 RSS Mint: OK, 35 items
-Google News: 74 of 74 symbols, 164 headlines
-PDF saar: 20 naye bane, 6 nahi bane, 2 pehle ke reuse (AI key: nahi)
-announcements.json: 31 symbols with announcements in last 3 days
-KALYANKJIL   BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | Kalyan Jewellers Share Price Rallies 33% in Seven Sessions; Stock Jumps 6.67% Today | Kalyan Jewellers shares jump 15% in 2 days as target prices go up to Rs 900. Should you bu
-SBIN         BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | State Bank of India Valuation Shifts Signal Changing Market Sentiment | San Antonio investors buy 113-year-old Citizens State Bank
-PNB          BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month | PNB Share Price
-MEESHO       BREAKOUT   IN_NEWS                            |  |  | Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment | MSCI Nov rejig: LIC, Adani Green, Meesho among 4 additions; PI Inds exits
+Google News: 74 of 74 symbols, 167 headlines
+PDF saar: 6 naye bane, 6 nahi bane, 18 pehle ke reuse (AI key: nahi)
+announcements.json: 35 symbols with announcements in last 3 days
+KALYANKJIL   BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | Kalyan Jewellers shares fall nearly 2% after 16% rally in two sessions; stock retreats fro
+SBIN         BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | SBI Share Price - Live NSE: SBIN Stock Price & Chart
+PNB          BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | Nifty PSU Bank logs biggest weekly surge in 7 months; PNB, Bank of India, Bank of Baroda a | Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month
+MEESHO       BREAKOUT   IN_NEWS                            |  |  | LIC, Meesho, Coforge stocks on radar amid MSCI Nov rejig; what charts say? | Looking for stocks to buy for 2027? HDFC Bank, Meesho, Paytm, Park Medi, LG Electronics - 
 CDSL         BREAKOUT   IN_NEWS                            |  |  | Breakout stock: CDSL gains 4%, up 30% from 52-week low; more upside ahead?
-MOTILALOFS   BREAKOUT   IN_NEWS                            |  |  | Motilal Oswal shares jump 5% to a record high; stock sees best month in over two years - C | Motilal Oswal shares jump 5% to a record high; stock sees best month in over two years
-DLF          BREAKOUT   IN_NEWS                            |  |  | Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high | DLF (NSE: DLF): Rental Venture Income Rises 9 Per Cent With Office Demand in View
-EMCURE       BREAKOUT   IN_NEWS                            |  |  | Emcure Pharmaceuticals Q2FY27 Results: Standalone PAT up 111% YoY
-MANAKCOAT    BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-11 General Updates | Manaksia Coated Metals & Industries Ltd (BOM:539046) (Q2 2027) Earnings Call Highlights: .
-TANLA        BREAKOUT   IN_NEWS                            |  |  | IT sector stocks today, November 12: Tanla Platforms jumps 2.28%; Wipro declines 0.69%, Te
-PETRONET     BREAKOUT   IN_NEWS                            |  | 2026-11-12 General Updates | Petronet LNG schedules analyst meets in Mumbai for Nov 17-18, 2026
-PRESTIGE     BREAKOUT   IN_NEWS                            |  | 2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates | Buy Prestige Estates Projects; target of Rs 1800: Prabhudas Lilladher
-JYOTISTRUC   BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-11 Press Release | With EPS Growth And More, Jyoti Structures (NSE:JYOTISTRUC) Makes An Interesting Case | Trending Stocks Today, November 12, 2026: PC Jeweller, Vodafone Idea, Ola Electric, Jyoti 
-KTKBANK      BREAKOUT   IN_NEWS                            |  |  | Banking sector stocks today, November 12: Tamilnad Mercantile Bank jumps 3.68%, Karnataka 
-RKFORGE      BREAKOUT   IN_NEWS                            |  |  | Ramkrishna Forgings: Export Recovery Drives Growth as Capacity Utilisation Improves
-STYLEBAAZA   BREAKOUT   RESULTS_SOON RESULTS_SOON NEW_ANNOUNCEMENT | 2026-11-14 Financial Results | 2026-11-12 General Updates | 
-UNIMECH      BREAKOUT   IN_NEWS                            |  |  | Unimech Aerospace stock rallies 110% in six months | Tap to know more | Inshorts | Unimech Aerospace and Manufacturing Ltd Shows Strong Technical Momentum Amid Bullish Shift
+MOTILALOFS   BREAKOUT   IN_NEWS                            |  |  | Buy Hitachi Energy; target of Rs 35,800: Motilal Oswal
+DLF          BREAKOUT   IN_NEWS                            |  |  | Realty index surges 4%; Oberoi, Sobha, Lodha up 5%; DLF nears 52-week high | DTCP seals four buildings in DLF-2, resumes crackdown on illegal commercial use
+EMCURE       BREAKOUT   IN_NEWS                            |  |  | Broad-Based Technical Strength Lifts Emcure Pharmaceuticals Ltd to 52-Week High of Rs 2394 | Emcure Pharmaceuticals Q2FY27 Results: Standalone PAT up 111% YoY
+MANAKCOAT    BREAKOUT   NEW_ANNOUNCEMENT                   |  | 2026-11-11 General Updates | 
+PRESTIGE     BREAKOUT   IN_NEWS                            |  | 2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates | Top stock picks: Analysts recommend buying Prestige Estates, Honasa, AB Capital, Kaynes & 
+JYOTISTRUC   BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-11 Press Release | With EPS Growth And More, Jyoti Structures (NSE:JYOTISTRUC) Makes An Interesting Case
+RKFORGE      BREAKOUT   IN_NEWS                            |  |  | Broad-Based Technical Strength Lifts Ramkrishna Forgings Ltd to 52-Week High of Rs 796.95 | Ramkrishna Forgings: Export Recovery Drives Growth as Capacity Utilisation Improves
+STYLEBAAZA   BREAKOUT   RESULTS_SOON RESULTS_SOON NEW_ANNOUNCEMENT IN_NEWS | 2026-11-14 Financial Results | 2026-11-12 General Updates | Baazar Style Retail climbs on incorporating wholly owned subusidiary
 DCBBANK      BREAKOUT   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | What DCB Bank Buyers Were Betting On
 BALUFORGE    BREAKOUT   RESULTS_SOON                       | 2026-11-14 Financial Results/Fund Raising/Other business matters |  | 
-MANORAMA     BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Resignation of Director/KMP/SMP | Manorama Industries Limited posts profit, Rs 245.5831 crore outflow | Manorama Industries Q2 profit up 60%; appoints Deep Saraf as MD
-CNL          BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Updates | Creative Newtech Signs AT&T Brand Licensing Deal for Technology Infrastructure Products; S | Creative Newtech Signs Strategic Licensing Deal With AT&T For Tech Infrastructure
-APLAPOLLO    PREBREAK   IN_NEWS                            |  |  | APL Apollo Tubes Ltd Downgraded to Buy Amid Mixed Technical Signals and Valuation Concerns | Analysts recommend four buy trades; pick Data Patterns, Paytm, Oberoi Realty and APL Apoll
-POONAWALLA   PREBREAK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Allotment of Securities | Poonawalla Fincorp allots ₹500 crore NCDs at 9.15% coupon | Poonawalla Fincorp approves ₹500 crore NCD allotment
-CUB          PREBREAK   IN_NEWS                            |  |  | City Union Bank Ltd. Futures Price: Live NSE/BSE Futures Chart & Updates | City Union Bank Sees Significant Open Interest Surge Amid Bullish Market Momentum
+MANORAMA     BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Resignation of Director/KMP/SMP | Manorama Industries Limited profit rises 60% as sales grow 41% | Manorama Industries Q2 profit up 60%; appoints Deep Saraf as MD
+CNL          BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Updates | Creative Newtech (NSE:CNL) Signs Brand Licence for Tech Infrastructure
+POONAWALLA   PREBREAK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-13 Issue of Securities | POONAWALLA Share Price Today - Poonawalla Fincorp on NSE/BSE | Poonawalla Fincorp approves ₹800 crore zero-coupon NCDs via private placement
+SONACOMS     PREBREAK   IN_NEWS                            |  | 2026-11-13 Analysts/Institutional Investor Meet/Con. Call Updates | Sona BLW Notifies Exchange of Investor Meeting Schedule
+CUB          PREBREAK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-13 Change in Director(s) | City Union Bank appoints Sankaran G as Executive Director | City Union Bank Ltd. Futures Price: Live NSE/BSE Futures Chart & Updates
 ABDL         PREBREAK   IN_NEWS                            |  |  | Broad-Based Technical Strength Lifts Allied Blenders & Distillers Ltd to 52-Week High of R
-NUVOCO       PREBREAK   IN_NEWS                            |  | 2026-11-12 Analyst / Investor Meet | Nuvoco Vistas Standalone September 2026 Net Sales at Rs 2,525.11 crore, up 17.83% Y-o-Y | Nuvoco Vistas Corp. (NSE:NUVOCO): What Is Driving Its Analyst Meet on 17 November 2026?
-HCLTECH      PULLBACK   NEW_ANNOUNCEMENT                   |  | 2026-11-12 Updates | 
+ZENTEC       PREBREAK   IN_NEWS                            |  |  | Zen Technologies Limited (ZENTEC.NS) Stock Price, News, Quote & History
+FDC          PREBREAK   IN_NEWS                            |  |  | FDC Consolidated Holdings Limited (FDC.XA) Stock Forum & Discussion - Yahoo Finance
+HCLTECH      PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Updates | HCL Technologies (NSE:HCLTECH): Why Did It Rank Among Forbes Top 50 Companies for Women 20
 TECHNOCRAF   PULLBACK   RESULTS_SOON                       | 2026-11-14 Financial Results |  | 
 NHPC         PULLBACK   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | ICICI Securities Sticks to Their Sell Rating for NHPC Limited (NHPC)
-MRPL         PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Press Release | PM to dedicate MRPL's ₹330 crore marketing terminal in Bengaluru | PM Modi to dedicate MRPL’s Devangonthi Marketing Terminal in Bengaluru on November 13
-BLUESTARCO   PULLBACK   IN_NEWS                            |  |  | Blue Star Limited (BLUESTARCO.NS) Stock Price, News, Quote & History | ‘Attempt to justify Operation Blue Star’: Delhi Sikh Gurdwara plans protest against Sonia'
+MRPL         PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Press Release | PM to dedicate MRPL's ₹330 crore marketing terminal in Bengaluru | PM Modi to inaugurate MRPL’s ₹330 crore Devangonthi terminal on November 13
+BLUESTARCO   PULLBACK   IN_NEWS                            |  |  | Blue Star Limited (BLUESTARCO.NS) Stock Price, News, Quote & History
 FCL          PULLBACK   RESULTS_SOON                       | 2026-11-13 Financial Results |  | 
-RSYSTEMS     PULLBACK   IN_NEWS                            |  | 2026-11-12 Shareholders meeting | R Systems sees AI-native work reshaping revenue mix, coding demand | R Systems seeks shareholder nod for CEO Nitesh Bansal's pay
+RSYSTEMS     PULLBACK   IN_NEWS                            |  | 2026-11-12 Shareholders meeting | R Systems seeks shareholder nod for CEO Nitesh Bansal's pay
 JAYKAY       PULLBACK   RESULTS_SOON                       | 2026-11-13 Financial Results |  | 
 JAIBALAJI    PULLBACK   IN_NEWS                            |  | 2026-11-12 Analysts/Institutional Investor Meet/Con. Call Updates | Jai Balaji Group Proposes INR 6,000 Crore Investment in West Bengal
-TCPLPACK     PULLBACK   IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | TCPL Packaging enters battery separator films business, targets ₹2,000 crore revenue
-MASPTOP50    PULLBACK   NEW_ANNOUNCEMENT                   |  | 2026-11-12 Mutual Fund Scheme Summary Document | 
-JINDALPOLY   PULLBACK   RESULTS_SOON IN_NEWS               | 2026-11-14 Financial Results |  | Jindal Poly Investment NSE:JPOLYINVST Board Meeting November 2026
-ENNATURE     DIP        NEW_ANNOUNCEMENT                   |  | 2026-11-12 Updates | 
-LENSKART     DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-11 Monitoring Agency Report | Lenskart Solutions Limited (LENSKART.NS) stock price, news, quote and history
-BIKAJI       DIP        IN_NEWS                            |  | 2026-11-11 Analysts/Institutional Investor Meet/Con. Call Updates | BIKAJI Share Price Today - Bikaji Foods International on NSE/BSE | Bikaji Foods Q2 EBITDA falls 7.4% on cost pressure; guides 17% growth
-SPMLINFRA    DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Cessation | SPML Infra Q2FY27 Results: Net profit jumps 46% YoY to ₹2,223 lakh | SPML Infra (NSE:SPMLINFRA): What Changed at Its Board Meeting on 12 November 2026?
-Symbols with no flags: 27. Top market headlines:
-  [ET Markets] Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade h
-  [ET Markets] Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month
-  [ET Markets] Zee Entertainment approves Rs 600-crore share buyback at Rs 91 apiece; promoters to stay out
-  [ET Markets] Unique Picks: 9 stocks held by just one MF scheme in October, rally up to 144% YTD
-  [ET Markets] Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern
-  [ET Markets] FIIs are back! Jefferies lists 11 stocks that can be the biggest beneficiaries
-  [ET Markets] From SpaceX to Anthropic, markets have a new playbook for mega-share debuts
-  [ET Markets] Vishal Mega Mart among 5 stocks showing RSI trending up
-  [ET Markets] Oil India among 6 stocks closing above VWAP
-  [ET Markets] Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History
-  [ET Markets] Tata Motors PV Share Price Highlights: Tata Motors PV Stock Price History
-  [ET Markets] Dr Reddys Share Price Highlights: Dr. Reddys Stock Price History
-  [ET Markets] JSW Steel Share Price Highlights: JSW Steel Stock Price History
-  [ET Markets] ITC Share Price Highlights: ITC Stock Price History
-  [ET Markets] Tata Power shares rise 2% after Q2 results. Why brokerages are bullish despite target price cuts
+MASPTOP50    PULLBACK   NEW_ANNOUNCEMENT                   |  | 2026-11-13 Reg. 90 (1) Declaration of   NAV - Mutual Fund | 
+JINDALPOLY   PULLBACK   RESULTS_SOON IN_NEWS               | 2026-11-14 Financial Results |  | ETFs Investing in Jindal Poly Films Limited Stocks | Jindal Poly Investment Q2 profit rises 64% on dividends
+ENNATURE     DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-12 Updates | ENNATURE BIO PHARMA LTD. Stock/Share price , NSE/BSE Forecast News and Live Quotes
+EVONILE      DIP        NEW_ANNOUNCEMENT                   |  | 2026-11-13 Postal Ballot | 
+LENSKART     DIP        NEW_ANNOUNCEMENT                   |  | 2026-11-11 Monitoring Agency Report | 
+SPMLINFRA    DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-13 Monitoring Agency Report | SPML Infra reports no deviation in use of ₹183.18 crore preferential allotment funds | SPML Infra Q2FY27 Results: Net profit jumps 46% YoY to ₹2,223 lakh
+Symbols with no flags: 31. Top market headlines:
+  [ET Markets] MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?
+  [ET Markets] Asian Paints Share Price Live Updates: Asian Paints Volume and Price Insights
+  [ET Markets] Aditya Birla Capital among 9 stocks showing White Marubozu Pattern
+  [ET Markets] One97 Communications among 3 stocks closing above VWAP
+  [ET Markets] Godrej Industries among 4 stocks showing RSI trending up
+  [ET Markets] Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ Daily Price Update
+  [ET Markets] Eicher Motors Share Price Live Updates: Eicher Motors Current Trading Status
+  [ET Markets] ONGC Share Price Live Updates: ONGC's Market Trends
+  [ET Markets] Tata Motors PV Share Price Live Updates: Tata Motors PV's Current Trading Status
+  [ET Markets] Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Stock Performance Overview
+  [ET Markets] HUL Share Price Live Updates: HUL's Stock Activity Today
+  [ET Markets] Infosys Share Price Live Updates: Infosys Trading Volume Insights
+  [ET Markets] HDFC Bank Share Price Live Updates: HDFC Bank's Weekly Performance Overview
+  [ET Markets] NTPC Share Price Live Updates: NTPC Experiences Daily Decline
+  [ET Markets] SBI Share Price Live Updates: SBI's Current Trading Price
 Note: flags come from public feeds and can be incomplete. Verify before acting. Not financial advice.

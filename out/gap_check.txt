@@ -1,63 +1,49 @@
-GAP CHECK 2026-11-13 10:10 IST (screen data date from screen_latest.csv)
-screen data date: 2026-11-12 | candidates: 59
+GAP CHECK 2026-11-16 10:39 IST (screen data date from screen_latest.csv)
+screen data date: 2026-11-13 | candidates: 45
 setup      symbol         status          trigger      open     gap%     ltp      vwap  note
-PULLBACK   ARFIN          TRIGGERED         95.31     94.45    -0.07   94.36     95.75  below VWAP
-PULLBACK   BLUESTARCO     TRIGGERED        1605.1    1588.0     0.35  1606.5   1599.15  
-BREAKOUT   CDSL           TRIGGERED       1462.46    1454.0    -0.07  1479.2   1465.65  
-BREAKOUT   DCBBANK        TRIGGERED        234.23    227.96      0.0   234.0     230.4  
-BREAKOUT   EMCURE         TRIGGERED       2346.74    2325.0     0.46  2378.6   2365.85  
-PREBREAK   GREAVESCOT     TRIGGERED        224.93     223.8     0.28  227.94     227.5  
-PULLBACK   JINDALPOLY     TRIGGERED         705.1    680.65     0.16   703.0    697.27  
-BREAKOUT   KALYANKJIL     TRIGGERED        717.72     718.0      1.0  703.15    699.36  
-BREAKOUT   MOCAPITAL      TRIGGERED         60.55     60.82      2.0   59.97      59.8  
-BREAKOUT   MOTILALOFS     TRIGGERED       1228.73    1206.0    -0.89 1229.35   1222.09  
-PULLBACK   MRPL           TRIGGERED        179.57    176.65      0.0  179.08    178.34  
-PREBREAK   NAZARA         TRIGGERED        426.98     414.0    -0.07  427.45    421.42  
-BREAKOUT   PNB            TRIGGERED        143.94     141.7    -0.06  143.76    143.08  
-BREAKOUT   PRESTIGE       TRIGGERED        1696.9    1687.4    -0.38  1686.6   1687.37  below VWAP
-BREAKOUT   SBIN           TRIGGERED       1090.09    1090.0     0.32 1076.35    1080.3  below VWAP
-BREAKOUT   SIMPLEXINF     TRIGGERED        305.41     308.6     2.12   306.2    304.19  
-PREBREAK   SONACOMS       TRIGGERED        934.83     925.0    -0.11  926.45    929.27  below VWAP
-BREAKOUT   STYLEBAAZA     TRIGGERED        452.75     440.1    -0.77   454.8     451.6  
-PULLBACK   TECHNOCRAF     TRIGGERED        509.91     493.0     0.54   501.8    504.06  below VWAP
-BREAKOUT   AARTIPHARM     WAIT            1020.02    1015.0     0.45  1006.4   1009.79  1.35% below trigger; below VWAP
-PREBREAK   ABDL           WAIT             768.77     761.1     0.41  762.25    760.13  0.86% below trigger
-BREAKOUT   BALUFORGE      WAIT             555.55     551.0     0.07  549.15    547.45  1.17% below trigger
-PREBREAK   BBL            WAIT            2791.79    2720.0    -0.52  2761.0   2751.79  1.12% below trigger
-BREAKOUT   CNL            WAIT            1551.75    1469.9    -0.35  1435.0   1438.99  8.14% below trigger; below VWAP
-PREBREAK   CUB            WAIT             239.24     234.9    -0.42  233.21     232.9  2.59% below trigger
-BREAKOUT   DLF            WAIT             771.22     767.0     -0.3   763.7    763.88  0.98% below trigger; below VWAP
-BREAKOUT   EIMCOELECO     WAIT             2701.7    2626.8      0.0  2603.3   2596.64  3.78% below trigger
-PULLBACK   FCL            WAIT              53.79     52.77     0.27   53.35     53.06  0.82% below trigger
-PULLBACK   FSL            WAIT             295.29     286.7    -0.35  288.75    287.94  2.26% below trigger
-PULLBACK   HCLTECH        WAIT             1400.4    1380.7    -0.01  1391.8   1386.39  0.62% below trigger
-PULLBACK   INDSWFTLAB     WAIT             367.17     359.0    -0.37   360.6    358.91  1.82% below trigger
-PREBREAK   ITCHOTELS      WAIT             179.68     175.3    -0.05   175.9    176.65  2.15% below trigger; below VWAP
-PULLBACK   JAIBALAJI      WAIT              68.77     67.59     0.85   67.36     67.07  2.09% below trigger
-PULLBACK   JAYKAY         WAIT              212.2    201.15    -1.14  205.99     203.5  3.01% below trigger
-PREBREAK   JYOTICNC       WAIT            1086.94    1073.0     0.09 1081.85    1077.9  0.47% below trigger
-BREAKOUT   JYOTISTRUC     WAIT              14.11     13.51     0.37    13.5     13.58  4.52% below trigger; below VWAP
-BREAKOUT   KTKBANK        WAIT             368.37     366.0      0.0  360.55     361.0  2.17% below trigger; below VWAP
-PREBREAK   LTTS           WAIT            4351.75    4272.0     0.12  4267.4   4255.52  1.98% below trigger
-BREAKOUT   MANAKCOAT      WAIT             184.99     176.1    -0.25  176.33    177.91  4.91% below trigger; below VWAP
-PULLBACK   MASPTOP50      WAIT             100.96     99.75     2.32    98.0     98.03  3.02% below trigger; below VWAP
-BREAKOUT   MEESHO         WAIT             259.26    254.05    -0.02  255.71    255.91  1.39% below trigger; below VWAP
-PULLBACK   NHPC           WAIT              78.33     76.31    -0.64   77.13     76.88  1.56% below trigger
-PREBREAK   NUVOCO         WAIT             353.85    345.25    -0.29  342.75     342.9  3.24% below trigger; below VWAP
-BREAKOUT   PETRONET       WAIT             336.64     332.0     -0.9   328.1    328.75  2.60% below trigger; below VWAP
-PREBREAK   POONAWALLA     WAIT             498.35     493.0      0.0  490.75    489.87  1.55% below trigger
-BREAKOUT   RKFORGE        WAIT              797.1     785.6      0.0   792.7    788.68  0.56% below trigger
-PREBREAK   SAKAR          WAIT            1086.08   1061.55     -1.0  1075.0   1074.33  1.03% below trigger
-PREBREAK   SMSPHARMA      WAIT             535.53    525.05     0.23   524.0    526.41  2.20% below trigger; below VWAP
-BREAKOUT   TANLA          WAIT             739.69     730.0     -0.1  731.25    724.88  1.15% below trigger
-PULLBACK   TCPLPACK       WAIT            4432.33    4309.1     0.72  4272.0   4263.96  3.75% below trigger
-PREBREAK   TIMEX          WAIT             767.67     743.0    -1.05   723.1    725.43  6.16% below trigger; below VWAP
-BREAKOUT   UNIMECH        WAIT            2027.63    1986.9     0.32  1959.7   1954.63  3.47% below trigger
-PREBREAK   ZENTEC         WAIT            1807.51    1747.1    -0.44  1762.0   1754.68  2.58% below trigger
-PREBREAK   KRBL           RUNAWAY          424.92     419.9    -0.17   438.8    435.61  LTP >1.5% above trigger
-PREBREAK   SGMART         RUNAWAY          929.38     913.7     0.29  943.65    933.81  LTP >1.5% above trigger
-PREBREAK   APLAPOLLO      API_BUSY        2266.46                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
-PREBREAK   FDC            SKIP_GAPDOWN     397.25     378.0    -3.18   375.2    376.71  gap down; below VWAP
-BREAKOUT   MANORAMA       SKIP_GAPDOWN    2163.16    2022.0    -3.72  2013.0   2016.98  gap down; below VWAP
-PULLBACK   RSYSTEMS       SKIP_STOP_HIT    264.16    257.75    -0.23  254.85    255.03  price at/below stop; below VWAP
+PREBREAK   APLAPOLLO      TRIGGERED       2266.46    2269.0     0.77  2282.0    2289.9  below VWAP
+BREAKOUT   BANKINDIA      TRIGGERED        155.41    154.67     0.37  153.96    154.63  below VWAP
+BREAKOUT   CENTUM         TRIGGERED        4504.5    4484.2     0.07  4384.0   4429.32  below VWAP
+PULLBACK   GRMOVER        TRIGGERED         91.99     92.05      2.2    89.2     89.82  below VWAP
+PULLBACK   HCLTECH        TRIGGERED        1398.1    1390.9     0.94  1384.8   1388.78  below VWAP
+PULLBACK   INDSWFTLAB     TRIGGERED        365.36     367.1     1.61   356.9    362.55  below VWAP
+PULLBACK   MPHASIS        TRIGGERED       2467.26    2455.0      0.0  2416.2   2431.77  below VWAP
+PREBREAK   TATACONSUM     TRIGGERED        1101.0    1079.9     0.08  1099.9   1097.39  
+PREBREAK   ABDL           WAIT             768.77     757.7      0.0   760.2    760.37  1.13% below trigger; below VWAP
+PULLBACK   ACMESOLAR      WAIT             424.82    414.35      0.0   404.2    407.88  5.10% below trigger; below VWAP
+BREAKOUT   ANGELONE       WAIT              353.5    349.65     0.19  346.35    347.84  2.06% below trigger; below VWAP
+PULLBACK   COHANCE        WAIT             476.38     460.4     0.39   456.0    457.59  4.47% below trigger; below VWAP
+PREBREAK   CUB            WAIT             239.24     232.4      0.0  235.88    235.95  1.42% below trigger; below VWAP
+PREBREAK   GRAPHITE       WAIT              804.8    799.95      0.0   789.1    791.45  1.99% below trigger; below VWAP
+PREBREAK   HINDUNILVR     WAIT            2029.03    1987.0     -0.3  1989.0   1990.07  2.01% below trigger; below VWAP
+BREAKOUT   HONASA         WAIT             517.47    504.75     0.56  508.45    509.56  1.77% below trigger; below VWAP
+BREAKOUT   IIFLCAPS       WAIT             361.31     355.0     0.24  350.65    352.37  3.04% below trigger; below VWAP
+PREBREAK   JASH           WAIT             566.07    547.65    -0.38  553.05    553.37  2.35% below trigger; below VWAP
+PREBREAK   JSWSTEEL       WAIT            1371.37    1346.0    -0.15  1332.3   1340.27  2.93% below trigger; below VWAP
+BREAKOUT   KRBL           WAIT             443.39    432.05      0.0  421.25     422.9  5.26% below trigger; below VWAP
+PREBREAK   LTTS           WAIT            4351.75    4245.6    -0.04  4252.8    4253.1  2.33% below trigger; below VWAP
+PREBREAK   POONAWALLA     WAIT             498.35     486.2     0.29  486.75    488.68  2.38% below trigger; below VWAP
+BREAKOUT   RPEL           WAIT            1989.89    1971.0     1.27  1971.9   1961.31  0.91% below trigger
+PULLBACK   SALSTEEL       WAIT              87.88     84.52     0.13   84.47     84.69  4.04% below trigger; below VWAP
+PULLBACK   SHADOWFAX      WAIT              298.1     284.0      0.0   283.2    284.06  5.26% below trigger; below VWAP
+PULLBACK   SMCGLOBAL      WAIT              98.01      95.8     0.17   93.62     94.49  4.69% below trigger; below VWAP
+PREBREAK   SONACOMS       WAIT             935.83    918.35    -0.07  908.05    915.35  3.06% below trigger; below VWAP
+PULLBACK   TCS            WAIT            2452.75    2435.0     1.14  2404.7   2418.89  2.00% below trigger; below VWAP
+PULLBACK   TEXINFRA       WAIT             129.06    124.61     1.33  120.21    121.79  7.36% below trigger; below VWAP
+PULLBACK   WHIRLPOOL      WAIT             841.74     830.0     0.12  827.45    826.88  1.73% below trigger
+PREBREAK   YATHARTH       WAIT            1086.03    1065.0     0.39  1057.3   1060.12  2.72% below trigger; below VWAP
+BREAKOUT   STYLEBAAZA     RUNAWAY          477.48     464.0    -1.01   502.8    487.93  LTP >1.5% above trigger
+BREAKOUT   APOLLO         API_BUSY         478.48                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PREBREAK   CEIGALL        API_BUSY         406.31                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+BREAKOUT   DHANBANK       API_BUSY          42.03                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   FCL            SKIP_GAPDOWN      53.75      51.0    -4.08    50.1     50.11  gap down; below VWAP
+BREAKOUT   GCSL           API_BUSY         824.82                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   HBLENGINE      SKIP_STOP_HIT    809.81     799.0    -0.07   786.5    788.36  price at/below stop; below VWAP
+PULLBACK   MANINDS        API_BUSY         879.88                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   MONQ50         API_BUSY         233.85                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   NHPC           SKIP_STOP_HIT     77.45     75.75    -0.11   75.15      75.4  price at/below stop; below VWAP
+PULLBACK   PCJEWELLER     API_BUSY          15.97                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   PNGSREVA       API_BUSY         683.68                                       no candles yet API: HTTP 403 Access denied because of exceeding access rate
+PULLBACK   SHREEPUSHK     SKIP_STOP_HIT    567.87     552.4      0.5   537.7    542.12  price at/below stop; below VWAP
+PULLBACK   SYNCOMF        SKIP_GAPUP        20.72     21.15     4.24   21.43      21.9  opened >1.5% above trigger; below VWAP
 Status guide: TRIGGERED = price crossed trigger and is within 1.5%; WAIT = not yet; SKIP_* / RUNAWAY = do not enter. Not financial advice.

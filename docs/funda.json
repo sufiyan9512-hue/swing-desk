@@ -287,6 +287,25 @@
    "roe": 15.63,
    "sector": "Industrials"
   },
+  "ADANIPOWER": {
+   "at": "2026-11-17",
+   "de": 0.8,
+   "de_src": "yahoo",
+   "eg": 134.6,
+   "eps": 9.45,
+   "industry": "Utilities - Independent Power Producers",
+   "pe": 22.02,
+   "pledge": 1.81,
+   "pledge_date": "2026-09-30",
+   "prom": 74.96,
+   "prom_date": "2026-09-30",
+   "prom_prev": 74.96,
+   "prom_yr": 74.96,
+   "qv": 3,
+   "rg": 44.5,
+   "roe": 27.02,
+   "sector": "Utilities"
+  },
   "ADOR": {
    "at": "2026-10-22",
    "de": 0.05,
@@ -791,15 +810,15 @@
    "sector": "Basic Materials"
   },
   "APLAPOLLO": {
-   "at": "2026-11-10",
+   "at": "2026-11-17",
    "de": 0.17,
    "de_src": "yahoo",
    "eg": 25.3,
    "eps": 47.16,
    "industry": "Steel",
-   "pe": 46.25,
-   "pledge": null,
-   "pledge_note": "NSE par pledge record nahi",
+   "pe": 46.41,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
    "prom": 28.18,
    "prom_date": "2026-09-30",
    "prom_prev": 28.25,
@@ -960,13 +979,13 @@
    "sector": "Financial Services"
   },
   "ARIS": {
-   "at": "2026-10-30",
-   "de": 0.09,
+   "at": "2026-11-17",
+   "de": 0.33,
    "de_src": "yahoo",
-   "eg": 279.6,
-   "eps": 8.5,
+   "eg": 26.8,
+   "eps": 9.02,
    "industry": "Engineering & Construction",
-   "pe": 16.37,
+   "pe": 16.68,
    "pledge": 5.31,
    "pledge_date": "2026-09-30",
    "prom": 39.68,
@@ -974,9 +993,8 @@
    "prom_prev": 37.58,
    "prom_yr": 37.93,
    "qv": 3,
-   "rg": 37.1,
-   "roe": 7.13,
-   "roe_src": "annual",
+   "rg": 27.6,
+   "roe": 11.47,
    "sector": "Industrials"
   },
   "ARMANFIN": {
@@ -999,13 +1017,13 @@
    "sector": "Financial Services"
   },
   "ARSSBL": {
-   "at": "2026-10-23",
+   "at": "2026-11-17",
    "de": 1.04,
    "de_src": "yahoo",
    "eg": 7.8,
    "eps": 24.97,
    "industry": "Financial Conglomerates",
-   "pe": 17.81,
+   "pe": 20.58,
    "pledge": 6.2,
    "pledge_date": "2026-09-30",
    "prom": 69.58,
@@ -1323,6 +1341,25 @@
    "roe_src": "annual",
    "sector": "Industrials"
   },
+  "BANCOINDIA": {
+   "at": "2026-11-17",
+   "de": 0.28,
+   "de_src": "yahoo",
+   "eg": 19.1,
+   "eps": 36.19,
+   "industry": "Auto Parts",
+   "pe": 19.35,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 67.88,
+   "prom_date": "2026-09-30",
+   "prom_prev": 67.88,
+   "prom_yr": 67.88,
+   "qv": 3,
+   "rg": 21.8,
+   "roe": 29.8,
+   "sector": "Consumer Cyclical"
+  },
   "BANKBARODA": {
    "at": "2026-11-05",
    "de": 0.94,
@@ -1417,6 +1454,25 @@
    "roe": 11.08,
    "roe_src": "annual",
    "sector": "Consumer Defensive"
+  },
+  "BEL": {
+   "at": "2026-11-17",
+   "de": 0.0,
+   "de_src": "yahoo",
+   "eg": 19.9,
+   "eps": 8.75,
+   "industry": "Aerospace & Defense",
+   "pe": 45.66,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 51.14,
+   "prom_date": "2026-09-30",
+   "prom_prev": 51.14,
+   "prom_yr": 51.14,
+   "qv": 3,
+   "rg": 26.5,
+   "roe": 26.75,
+   "sector": "Industrials"
   },
   "BELRISE": {
    "at": "2026-10-23",
@@ -1611,12 +1667,13 @@
    "sector": "Industrials"
   },
   "BLUSPRING": {
-   "at": "2026-10-26",
-   "de": 0.18,
+   "at": "2026-11-17",
+   "de": 0.77,
    "de_src": "yahoo",
-   "eps": 1.93,
+   "eg": 157.1,
+   "eps": 2.49,
    "industry": "Specialty Business Services",
-   "pe": 76.87,
+   "pe": 61.76,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 58.41,
@@ -1624,9 +1681,8 @@
    "prom_prev": 58.05,
    "prom_yr": 58.24,
    "qv": 3,
-   "rg": 19.1,
-   "roe": -2.3,
-   "roe_src": "annual",
+   "rg": 48.3,
+   "roe": -1.05,
    "sector": "Industrials"
   },
   "BOMDYEING": {
@@ -1762,14 +1818,27 @@
    "roe_src": "annual",
    "sector": "Basic Materials"
   },
+  "CANBK": {
+   "at": "2026-11-17",
+   "de": 1.02,
+   "de_date": "2026-03-31",
+   "de_src": "yahoo-annual",
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 62.93,
+   "prom_date": "2026-09-30",
+   "prom_prev": 62.93,
+   "prom_yr": 62.93,
+   "qv": 3
+  },
   "CANFINHOME": {
-   "at": "2026-11-05",
+   "at": "2026-11-17",
    "de": 6.09,
    "de_src": "yahoo",
    "eg": 9.2,
    "eps": 86.59,
    "industry": "Mortgage Finance",
-   "pe": 8.59,
+   "pe": 9.08,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 29.99,
@@ -2129,6 +2198,25 @@
    "roe_src": "annual",
    "sector": "Energy"
   },
+  "COROMANDEL": {
+   "at": "2026-11-17",
+   "de": 0.12,
+   "de_src": "yahoo",
+   "eg": -33.6,
+   "eps": 52.93,
+   "industry": "Agricultural Inputs",
+   "pe": 37.29,
+   "pledge": 0.01,
+   "pledge_date": "2026-09-30",
+   "prom": 56.34,
+   "prom_date": "2026-09-30",
+   "prom_prev": 56.35,
+   "prom_yr": 56.88,
+   "qv": 3,
+   "rg": 6.6,
+   "roe": 11.3,
+   "sector": "Basic Materials"
+  },
   "CORONA": {
    "at": "2026-11-03",
    "de": 0.14,
@@ -2149,13 +2237,13 @@
    "sector": "Healthcare"
   },
   "CPPLUS": {
-   "at": "2026-11-03",
-   "de": 0.1,
+   "at": "2026-11-17",
+   "de": 0.11,
    "de_src": "yahoo",
-   "eg": 303.7,
-   "eps": 40.86,
+   "eg": 151.1,
+   "eps": 50.28,
    "industry": "Building Products & Equipment",
-   "pe": 94.99,
+   "pe": 79.34,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 71.8,
@@ -2163,9 +2251,8 @@
    "prom_prev": 71.8,
    "prom_yr": 76.91,
    "qv": 3,
-   "rg": 89.5,
-   "roe": 19.61,
-   "roe_src": "annual",
+   "rg": 89.9,
+   "roe": 22.56,
    "sector": "Industrials"
   },
   "CREDITACC": {
@@ -2208,7 +2295,7 @@
    "sector": "Financial Services"
   },
   "CUB": {
-   "at": "2026-11-16",
+   "at": "2026-11-17",
    "de": 0.46,
    "de_date": "2026-03-31",
    "de_src": "yahoo-annual",
@@ -2430,7 +2517,7 @@
    "sector": "Energy"
   },
   "DELTACORP": {
-   "at": "2026-10-30",
+   "at": "2026-11-17",
    "de": 0.04,
    "de_src": "yahoo",
    "eps": -10.77,
@@ -2674,6 +2761,26 @@
    "roe_src": "annual",
    "sector": "Technology"
   },
+  "EDELWEISS": {
+   "at": "2026-11-17",
+   "de": 3.2,
+   "de_src": "yahoo",
+   "eg": 27.3,
+   "eps": 7.79,
+   "industry": "Financial Conglomerates",
+   "pe": 16.71,
+   "pledge": 10.18,
+   "pledge_date": "2026-09-30",
+   "prom": 31.54,
+   "prom_date": "2026-09-30",
+   "prom_prev": 32.26,
+   "prom_yr": 32.7,
+   "qv": 3,
+   "rg": 23.0,
+   "roe": 11.82,
+   "roe_src": "annual",
+   "sector": "Financial Services"
+  },
   "EIEL": {
    "at": "2026-10-23",
    "de": 0.34,
@@ -2821,13 +2928,13 @@
    "sector": "Technology"
   },
   "EMUDHRA": {
-   "at": "2026-10-21",
-   "de": 0.03,
+   "at": "2026-11-17",
+   "de": 0.02,
    "de_src": "yahoo",
-   "eg": 29.3,
-   "eps": 13.9,
+   "eg": 29.4,
+   "eps": 14.8,
    "industry": "Software - Application",
-   "pe": 31.08,
+   "pe": 24.3,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 54.4,
@@ -2835,9 +2942,8 @@
    "prom_prev": 54.4,
    "prom_yr": 54.4,
    "qv": 3,
-   "rg": 29.5,
-   "roe": 11.83,
-   "roe_src": "annual",
+   "rg": 19.7,
+   "roe": 13.81,
    "sector": "Technology"
   },
   "ENGINERSIN": {
@@ -3060,13 +3166,13 @@
    "sector": "Industrials"
   },
   "EXIDEIND": {
-   "at": "2026-10-23",
-   "de": 0.11,
+   "at": "2026-11-17",
+   "de": 0.12,
    "de_src": "yahoo",
-   "eg": 28.3,
-   "eps": 10.96,
+   "eg": 66.8,
+   "eps": 12.31,
    "industry": "Auto Parts",
-   "pe": 30.29,
+   "pe": 30.88,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 45.99,
@@ -3074,9 +3180,8 @@
    "prom_prev": 45.99,
    "prom_yr": 45.99,
    "qv": 3,
-   "rg": 17.7,
-   "roe": 6.14,
-   "roe_src": "annual",
+   "rg": 21.2,
+   "roe": 7.34,
    "sector": "Consumer Cyclical"
   },
   "FAIRCHEMOR": {
@@ -3189,13 +3294,13 @@
    "sector": "Financial Services"
   },
   "FILATEX": {
-   "at": "2026-10-22",
+   "at": "2026-11-17",
    "de": 0.1,
    "de_src": "yahoo",
    "eg": 18.5,
    "eps": 4.3,
    "industry": "Textile Manufacturing",
-   "pe": 22.5,
+   "pe": 25.23,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 65.51,
@@ -3579,13 +3684,13 @@
    "sector": "Industrials"
   },
   "GHCLTEXTIL": {
-   "at": "2026-11-09",
+   "at": "2026-11-17",
    "de": 0.04,
    "de_src": "yahoo",
    "eg": 123.2,
-   "eps": 10.07,
+   "eps": 12.14,
    "industry": "Textile Manufacturing",
-   "pe": 13.18,
+   "pe": 11.22,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 19.21,
@@ -3593,7 +3698,7 @@
    "prom_prev": 19.2,
    "prom_yr": 19.16,
    "qv": 3,
-   "rg": 31.9,
+   "rg": 31.8,
    "roe": 7.65,
    "sector": "Consumer Cyclical"
   },
@@ -3714,6 +3819,19 @@
    "roe": 4.8,
    "roe_src": "annual",
    "sector": "Industrials"
+  },
+  "GMRAIRPORT": {
+   "at": "2026-11-17",
+   "err": [
+    "de"
+   ],
+   "pledge": 16.47,
+   "pledge_date": "2026-09-30",
+   "prom": 67.48,
+   "prom_date": "2026-09-30",
+   "prom_prev": 67.16,
+   "prom_yr": 66.24,
+   "qv": 3
   },
   "GNA": {
    "at": "2026-10-29",
@@ -4009,13 +4127,13 @@
    "sector": "Real Estate"
   },
   "HBLENGINE": {
-   "at": "2026-11-09",
-   "de": 0.03,
+   "at": "2026-11-17",
+   "de": 0.02,
    "de_src": "yahoo",
-   "eg": -23.5,
+   "eg": -50.2,
    "eps": 21.16,
    "industry": "Electrical Equipment & Parts",
-   "pe": 37.69,
+   "pe": 37.14,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 59.11,
@@ -4023,9 +4141,8 @@
    "prom_prev": 59.11,
    "prom_yr": 59.11,
    "qv": 3,
-   "rg": 6.0,
-   "roe": 36.8,
-   "roe_src": "annual",
+   "rg": -28.7,
+   "roe": 26.19,
    "sector": "Industrials"
   },
   "HCC": {
@@ -4226,16 +4343,16 @@
    "sector": "Basic Materials"
   },
   "HINDOILEXP": {
-   "at": "2026-11-16",
+   "at": "2026-11-17",
    "de": 0.15,
    "de_src": "yahoo",
    "eg": 581.0,
-   "eps": 1.9,
+   "eps": 3.12,
    "err": [
     "pledge"
    ],
    "industry": "Oil & Gas E&P",
-   "pe": 111.93,
+   "pe": 71.25,
    "pledge": null,
    "pledge_date": "2026-09-30",
    "prom": 0.0,
@@ -4361,13 +4478,13 @@
    "sector": "Real Estate"
   },
   "HSCL": {
-   "at": "2026-10-19",
+   "at": "2026-11-17",
    "de": 0.22,
    "de_src": "yahoo",
    "eg": 29.6,
    "eps": 16.97,
    "industry": "Specialty Chemicals",
-   "pe": 35.7,
+   "pe": 33.07,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 52.49,
@@ -4560,6 +4677,22 @@
    "roe_src": "annual",
    "sector": "Basic Materials"
   },
+  "IGLSPIRITS": {
+   "at": "2026-11-17",
+   "de": 0.74,
+   "de_src": "yahoo",
+   "eps": 8.89,
+   "industry": "Beverages - Wineries & Distilleries",
+   "pe": 83.77,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 59.63,
+   "prom_date": "2026-11-03",
+   "qv": 3,
+   "roe": -35.48,
+   "roe_src": "annual",
+   "sector": "Consumer Defensive"
+  },
   "IIFLCAPS": {
    "at": "2026-11-13",
    "de": 0.65,
@@ -4578,6 +4711,25 @@
    "rg": 24.6,
    "roe": 19.53,
    "sector": "Financial Services"
+  },
+  "IKIO": {
+   "at": "2026-11-17",
+   "de": 0.14,
+   "de_src": "yahoo",
+   "eg": 9.2,
+   "eps": 6.45,
+   "industry": "Electronic Components",
+   "pe": 31.26,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 72.55,
+   "prom_date": "2026-09-30",
+   "prom_prev": 72.55,
+   "prom_yr": 72.5,
+   "qv": 3,
+   "rg": 27.1,
+   "roe": 8.61,
+   "sector": "Technology"
   },
   "INDGN": {
    "at": "2026-10-29",
@@ -4651,13 +4803,13 @@
    "sector": "Basic Materials"
   },
   "INDOMIM": {
-   "at": "2026-10-28",
+   "at": "2026-11-17",
    "de": 0.49,
    "de_src": "yahoo",
    "eg": 31.6,
    "eps": 12.06,
    "industry": "Metal Fabrication",
-   "pe": 95.27,
+   "pe": 100.95,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 77.65,
@@ -4746,13 +4898,13 @@
    "sector": "Technology"
   },
   "INFY": {
-   "at": "2026-10-30",
+   "at": "2026-11-17",
    "de": 0.09,
    "de_src": "yahoo",
    "eg": -0.0,
    "eps": 75.1,
    "industry": "Information Technology Services",
-   "pe": 15.78,
+   "pe": 15.05,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 13.9,
@@ -5660,7 +5812,7 @@
    "sector": "Industrials"
   },
   "KMCSHIL": {
-   "at": "2026-10-23",
+   "at": "2026-11-17",
    "de": 0.4,
    "de_src": "yahoo",
    "eg": 121.7,
@@ -5669,7 +5821,7 @@
     "shp"
    ],
    "industry": "Medical Care Facilities",
-   "pe": 41.94,
+   "pe": 56.88,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "qv": 3,
@@ -6356,7 +6508,7 @@
    "qv": 3
   },
   "MAHABANK": {
-   "at": "2026-11-09",
+   "at": "2026-11-17",
    "de": 1.06,
    "de_date": "2026-03-31",
    "de_src": "yahoo-annual",
@@ -6387,13 +6539,13 @@
    "sector": "Industrials"
   },
   "MAHSEAMLES": {
-   "at": "2026-10-22",
+   "at": "2026-11-17",
    "de": 0.0,
    "de_src": "yahoo",
    "eg": 15.6,
-   "eps": 55.02,
+   "eps": 51.11,
    "industry": "Steel",
-   "pe": 9.8,
+   "pe": 9.86,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 70.3,
@@ -6521,13 +6673,13 @@
    "sector": "Healthcare"
   },
   "MANOMAY": {
-   "at": "2026-11-02",
+   "at": "2026-11-17",
    "de": 2.03,
    "de_src": "yahoo",
    "eg": 11.4,
-   "eps": 11.16,
+   "eps": 11.18,
    "industry": "Textile Manufacturing",
-   "pe": 22.06,
+   "pe": 24.33,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 57.31,
@@ -6669,6 +6821,25 @@
    "roe_src": "annual",
    "sector": "Real Estate"
   },
+  "MAYURUNIQ": {
+   "at": "2026-11-17",
+   "de": 0.0,
+   "de_src": "yahoo",
+   "eg": 42.0,
+   "eps": 51.62,
+   "industry": "Textile Manufacturing",
+   "pe": 14.19,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 58.8,
+   "prom_date": "2026-09-30",
+   "prom_prev": 58.77,
+   "prom_yr": 58.59,
+   "qv": 3,
+   "rg": 17.7,
+   "roe": 20.02,
+   "sector": "Consumer Cyclical"
+  },
   "MAZDOCK": {
    "at": "2026-10-29",
    "de": 0.08,
@@ -6709,23 +6880,41 @@
    "sector": "Basic Materials"
   },
   "MCX": {
-   "at": "2026-11-03",
+   "at": "2026-11-17",
    "de": 0.0,
    "de_src": "yahoo",
-   "eg": 103.4,
-   "eps": 47.88,
+   "eg": 130.2,
+   "eps": 57.97,
    "err": [
     "shp"
    ],
    "industry": "Financial Data & Stock Exchanges",
-   "pe": 72.89,
+   "pe": 63.92,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "qv": 3,
-   "rg": 85.3,
-   "roe": 46.75,
-   "roe_src": "annual",
+   "rg": 112.4,
+   "roe": 44.39,
    "sector": "Financial Services"
+  },
+  "MEDANTA": {
+   "at": "2026-11-17",
+   "de": 0.31,
+   "de_src": "yahoo",
+   "eg": 39.2,
+   "eps": 22.98,
+   "industry": "Medical Care Facilities",
+   "pe": 62.85,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 33.0,
+   "prom_date": "2026-09-30",
+   "prom_prev": 33.0,
+   "prom_yr": 33.01,
+   "qv": 3,
+   "rg": 33.6,
+   "roe": 15.23,
+   "sector": "Healthcare"
   },
   "MEESHO": {
    "at": "2026-11-11",
@@ -7264,6 +7453,25 @@
    "roe": 3.06,
    "sector": "Technology"
   },
+  "NH": {
+   "at": "2026-11-17",
+   "de": 1.21,
+   "de_src": "yahoo",
+   "eg": 16.5,
+   "eps": 42.54,
+   "industry": "Medical Care Facilities",
+   "pe": 44.84,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 63.27,
+   "prom_date": "2026-09-30",
+   "prom_prev": 63.27,
+   "prom_yr": 63.85,
+   "qv": 3,
+   "rg": 73.0,
+   "roe": 19.07,
+   "sector": "Healthcare"
+  },
   "NHPC": {
    "at": "2026-11-12",
    "de": 1.18,
@@ -7394,6 +7602,44 @@
    "roe": 0.45,
    "roe_src": "annual",
    "sector": "Basic Materials"
+  },
+  "NTPC": {
+   "at": "2026-11-17",
+   "de": 1.26,
+   "de_src": "yahoo",
+   "eg": 38.6,
+   "eps": 30.65,
+   "industry": "Utilities - Regulated Electric",
+   "pe": 10.5,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 51.1,
+   "prom_date": "2026-09-30",
+   "prom_prev": 51.1,
+   "prom_yr": 51.1,
+   "qv": 3,
+   "rg": 21.2,
+   "roe": 14.46,
+   "sector": "Utilities"
+  },
+  "NUVAMA": {
+   "at": "2026-11-17",
+   "de": 2.92,
+   "de_src": "yahoo",
+   "eg": 19.2,
+   "eps": 60.76,
+   "industry": "Asset Management",
+   "pe": 31.08,
+   "pledge": 62.8,
+   "pledge_date": "2026-09-30",
+   "prom": 53.4,
+   "prom_date": "2026-09-30",
+   "prom_prev": 53.98,
+   "prom_yr": 54.65,
+   "qv": 3,
+   "rg": 19.3,
+   "roe": 27.12,
+   "sector": "Financial Services"
   },
   "NUVOCO": {
    "at": "2026-11-12",
@@ -8024,7 +8270,7 @@
    "sector": "Industrials"
   },
   "PNB": {
-   "at": "2026-11-09",
+   "at": "2026-11-17",
    "de": 0.58,
    "de_date": "2026-03-31",
    "de_src": "yahoo-annual",
@@ -8389,12 +8635,13 @@
    "sector": "Communication Services"
   },
   "PWL": {
-   "at": "2026-11-02",
-   "de": 0.23,
+   "at": "2026-11-17",
+   "de": 0.21,
    "de_src": "yahoo",
-   "eps": 0.08,
+   "eg": 77.8,
+   "eps": 0.29,
    "industry": "Education & Training Services",
-   "pe": 1617.25,
+   "pe": 448.52,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 71.17,
@@ -8402,9 +8649,8 @@
    "prom_prev": 71.27,
    "prom_yr": 72.3,
    "qv": 3,
-   "rg": 23.9,
-   "roe": -0.5,
-   "roe_src": "annual",
+   "rg": 18.2,
+   "roe": 2.87,
    "sector": "Consumer Defensive"
   },
   "QPOWER": {
@@ -8913,6 +9159,25 @@
    "roe_src": "annual",
    "sector": "Utilities"
   },
+  "RPTECH": {
+   "at": "2026-11-17",
+   "de": 0.83,
+   "de_src": "yahoo",
+   "eg": 111.5,
+   "eps": 57.67,
+   "industry": "Electronics & Computer Distribution",
+   "pe": 10.98,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 63.54,
+   "prom_date": "2026-09-30",
+   "prom_prev": 64.03,
+   "prom_yr": 63.79,
+   "qv": 3,
+   "rg": 48.8,
+   "roe": 18.56,
+   "sector": "Technology"
+  },
   "RRKABEL": {
    "at": "2026-11-02",
    "de": 0.19,
@@ -9401,13 +9666,13 @@
    "sector": "Consumer Cyclical"
   },
   "SGFIN": {
-   "at": "2026-10-19",
-   "de": 1.85,
+   "at": "2026-11-17",
+   "de": 2.73,
    "de_src": "yahoo",
-   "eg": 119.3,
+   "eg": 105.4,
    "eps": 29.1,
    "industry": "Capital Markets",
-   "pe": 22.56,
+   "pe": 27.28,
    "pledge": null,
    "pledge_note": "NSE par pledge record nahi",
    "prom": 56.95,
@@ -9415,9 +9680,8 @@
    "prom_prev": 56.95,
    "prom_yr": 52.96,
    "qv": 3,
-   "rg": 101.4,
-   "roe": 8.74,
-   "roe_src": "annual",
+   "rg": 115.4,
+   "roe": 14.01,
    "sector": "Financial Services"
   },
   "SGMART": {
@@ -9586,10 +9850,10 @@
    "sector": "Healthcare"
   },
   "SHOPERSTOP": {
-   "at": "2026-10-21",
+   "at": "2026-11-17",
    "de": 12.25,
    "de_src": "yahoo",
-   "eps": -1.04,
+   "eps": -1.03,
    "industry": "Department Stores",
    "pledge": 9.73,
    "pledge_date": "2026-09-30",
@@ -9915,13 +10179,13 @@
    "sector": "Financial Services"
   },
   "SMLMAH": {
-   "at": "2026-10-23",
+   "at": "2026-11-17",
    "de": 0.07,
    "de_src": "yahoo",
    "eg": -44.4,
    "eps": 101.62,
    "industry": "Auto Manufacturers",
-   "pe": 47.66,
+   "pe": 52.62,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 58.97,
@@ -10256,6 +10520,25 @@
    "roe_src": "annual",
    "sector": "Basic Materials"
   },
+  "SUDEEPPHRM": {
+   "at": "2026-11-17",
+   "de": 0.19,
+   "de_src": "yahoo",
+   "eg": 9.3,
+   "eps": 16.85,
+   "industry": "Drug Manufacturers - Specialty & Generic",
+   "pe": 72.26,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
+   "prom": 76.15,
+   "prom_date": "2026-09-30",
+   "prom_prev": 76.15,
+   "prom_yr": 76.15,
+   "qv": 3,
+   "rg": 20.9,
+   "roe": 22.04,
+   "sector": "Healthcare"
+  },
   "SUMICHEM": {
    "at": "2026-10-29",
    "de": 0.02,
@@ -10346,6 +10629,26 @@
    "qv": 3,
    "rg": 3.2,
    "roe": 15.25,
+   "sector": "Healthcare"
+  },
+  "SURAKSHA": {
+   "at": "2026-11-17",
+   "de": 0.54,
+   "de_src": "yahoo",
+   "eg": 38.9,
+   "eps": 6.88,
+   "industry": "Diagnostics & Research",
+   "pe": 51.38,
+   "pledge": 0.1,
+   "pledge_date": "2026-09-30",
+   "prom": 49.1,
+   "prom_date": "2026-09-30",
+   "prom_prev": 49.1,
+   "prom_yr": 48.98,
+   "qv": 3,
+   "rg": 20.7,
+   "roe": 13.15,
+   "roe_src": "annual",
    "sector": "Healthcare"
   },
   "SURYAROSNI": {
@@ -10629,6 +10932,25 @@
    "roe": 7.59,
    "sector": "Consumer Defensive"
   },
+  "TATAELXSI": {
+   "at": "2026-11-17",
+   "de": 0.05,
+   "de_src": "yahoo",
+   "eg": 10.0,
+   "eps": 107.57,
+   "industry": "Software - Application",
+   "pe": 34.5,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 43.89,
+   "prom_date": "2026-09-30",
+   "prom_prev": 43.9,
+   "prom_yr": 43.9,
+   "qv": 3,
+   "rg": 15.0,
+   "roe": 23.87,
+   "sector": "Technology"
+  },
   "TATAINVEST": {
    "at": "2026-10-23",
    "de": 0.0,
@@ -10889,13 +11211,13 @@
    "sector": "Industrials"
   },
   "THOMASCOOK": {
-   "at": "2026-10-26",
-   "de": 0.21,
+   "at": "2026-11-17",
+   "de": 0.22,
    "de_src": "yahoo",
-   "eg": -0.6,
-   "eps": 4.5,
+   "eg": -21.8,
+   "eps": 4.38,
    "industry": "Travel Services",
-   "pe": 19.87,
+   "pe": 26.26,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 64.77,
@@ -10903,9 +11225,8 @@
    "prom_prev": 64.77,
    "prom_yr": 63.83,
    "qv": 3,
-   "rg": -13.1,
-   "roe": 8.59,
-   "roe_src": "annual",
+   "rg": -6.3,
+   "roe": 7.81,
    "sector": "Consumer Cyclical"
   },
   "THYROCARE": {
@@ -11187,8 +11508,27 @@
    "roe": 14.52,
    "sector": "Energy"
   },
+  "TTKPRESTIG": {
+   "at": "2026-11-17",
+   "de": 0.09,
+   "de_src": "yahoo",
+   "eg": 72.7,
+   "eps": 17.52,
+   "industry": "Furnishings, Fixtures & Appliances",
+   "pe": 31.68,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 70.51,
+   "prom_date": "2026-09-30",
+   "prom_prev": 70.52,
+   "prom_yr": 70.52,
+   "qv": 3,
+   "rg": 21.0,
+   "roe": 11.76,
+   "sector": "Consumer Cyclical"
+  },
   "TTML": {
-   "at": "2026-11-16",
+   "at": "2026-11-17",
    "err": [
     "de"
    ],
@@ -11688,13 +12028,13 @@
    "qv": 3
   },
   "VRLLOG": {
-   "at": "2026-11-04",
-   "de": 1.01,
+   "at": "2026-11-17",
+   "de": 0.99,
    "de_src": "yahoo",
-   "eg": 60.8,
-   "eps": 15.27,
+   "eg": 106.7,
+   "eps": 18.31,
    "industry": "Trucking",
-   "pe": 21.69,
+   "pe": 18.52,
    "pledge": 0.0,
    "pledge_date": "2026-09-30",
    "prom": 60.24,
@@ -11702,9 +12042,8 @@
    "prom_prev": 60.24,
    "prom_yr": 60.24,
    "qv": 3,
-   "rg": 18.1,
-   "roe": 20.73,
-   "roe_src": "annual",
+   "rg": 19.7,
+   "roe": 26.48,
    "sector": "Industrials"
   },
   "WAAREERTL": {
@@ -11961,6 +12300,25 @@
    "roe_src": "annual",
    "sector": "Basic Materials"
   },
+  "XPROINDIA": {
+   "at": "2026-11-17",
+   "de": 0.39,
+   "de_src": "yahoo",
+   "eg": 50.5,
+   "eps": 15.15,
+   "industry": "Specialty Chemicals",
+   "pe": 84.3,
+   "pledge": 0.0,
+   "pledge_date": "2026-09-30",
+   "prom": 40.31,
+   "prom_date": "2026-09-30",
+   "prom_prev": 40.31,
+   "prom_yr": 40.31,
+   "qv": 3,
+   "rg": 47.4,
+   "roe": 4.66,
+   "sector": "Basic Materials"
+  },
   "XTRANET": {
    "at": "2026-11-04",
    "de": 0.21,
@@ -12192,15 +12550,15 @@
   }
  },
  "log": [
-  "candidates: 72",
+  "candidates: 82",
   "warmup fail: HTTP Error 403: Forbidden",
-  "status: {\"shp\": \"44/55\", \"pledge\": \"52/55\", \"de\": \"44/55\", \"cached\": 17}"
+  "status: {\"shp\": \"48/50\", \"pledge\": \"48/50\", \"de\": \"48/50\", \"cached\": 32}"
  ],
  "status": {
-  "cached": 17,
-  "de": "44/55",
-  "pledge": "52/55",
-  "shp": "44/55"
+  "cached": 32,
+  "de": "48/50",
+  "pledge": "48/50",
+  "shp": "48/50"
  },
- "updated": "2026-11-16 16:04 UTC"
+ "updated": "2026-11-17 14:45 UTC"
 }

@@ -1,68 +1,74 @@
-NEWS/EVENTS CHECK 2026-11-17 08:00 IST
+NEWS/EVENTS CHECK 2026-11-17 16:50 IST
 screen data date: 2026-11-16 | candidates: 45
 NSE event calendar FAIL: HTTP Error 403: Forbidden
 NSE event calendar (symbol-wise): OK for 72 symbols
 locked stocks added for announcements: PASHUPATI,AURUM,V2RETAIL,PRICOLLTD,MAHLOG,KAYNES,LALITHAA,BONDADA,HDFCSILVER,SILVER1,SILVERAG,SILVER,SILVERBETA,SBISILVER,SILVERAXIS,SILVERCASE,TATSILV,RHIM,INNOVACAP,AARTISURF,SUPRIYA,POWERGRID,TRENT,FLUOROCHEM,ONEPOINT,DODLA,ETERNAL
 NSE announcements fetched for 72 of 72 symbols
-BSE announcements: 61 symbols checked, 7 naye (NSE me nahi the)
+BSE announcements: 61 symbols checked, 8 naye (NSE me nahi the)
 RSS ET Markets: OK, 50 items
 RSS Business Standard: OK, 35 items
 RSS Moneycontrol: OK, 15 items
 RSS Moneycontrol: OK, 4 items
 RSS Mint: OK, 35 items
-Google News FAIL (LICHSGFIN): HTTP Error 429: Too Many Requests
-Google News: 59 of 79 symbols, 101 headlines
-PDF saar: 1 naye bane, 18 nahi bane, 0 pehle ke reuse (AI key: nahi)
-announcements.json: 23 symbols with announcements in last 3 days
-ITC          BREAKOUT   IN_NEWS                            |  |  | ITC Share Price Highlights: ITC Stock Price History | ITC Share Price
-DHANBANK     BREAKOUT   IN_NEWS                            |  |  | Trending Stocks Today, November 16, 2026: Vodafone Idea, PC Jeweller, YES Bank, Dhanlaxmi  | Banking sector stocks today, November 16: Dhanlaxmi Bank jumps 7.23%, PNB gains 2.25%, Cit
+Google News: 79 of 79 symbols, 162 headlines
+PDF saar: 0 naye bane, 23 nahi bane, 1 pehle ke reuse (AI key: nahi)
+announcements.json: 26 symbols with announcements in last 3 days
+ITC          BREAKOUT   IN_NEWS                            |  |  | ITC among 6 stocks showing White Marubozu pattern | ITC stock reclaims 200-DMA after a year; is it a rebound or fresh uptrend?
+DHANBANK     BREAKOUT   NEW_ANNOUNCEMENT                   |  | 2026-11-17 Price movement | 
+LICHSGFIN    BREAKOUT   IN_NEWS                            |  |  | Broad-Based Technical Strength Lifts LIC Housing Finance Ltd to 52-Week High of Rs 609.1 | LIC Housing Finance directed to pay INR 2.2 lakh over CIBIL reporting failure
 HDFCLIFE     BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Updates | HDFC Life approves terms for ₹500 crore subordinated NCD issuance | HDFC Life Insurance to raise up to ₹500 crore through 10-year subordinated NCD issue
-BOROLTD      BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Spurt in Volume | Borosil Ltd Share Price Target, Forecast for Long Term Equity. | Borosil Share Price Today: Rs 338.00, Up 8.73%
-KPRMILL      BREAKOUT   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | KPR Mill schedules analyst and institutional investor meetings for Nov 19-20
-ABDL         BREAKOUT   IN_NEWS                            |  |  | Broad-Based Technical Strength Lifts Allied Blenders & Distillers Ltd to 52-Week High of R | Geojit analyst bullish on Allied Blenders, 2 pharma stocks; here's why
-HINDOILEXP   BREAKOUT   IN_NEWS                            |  |  | Hindustan Oil Exploration Share Price Rises 9.28% Today | Hindustan Oil Exploration shares zoom 35% in four sessions; what analysts say
-ASAHIINDIA   BREAKOUT   IN_NEWS                            |  |  | Asahi India Glass Share Price: Fresh 52-Week High Analysis | Broad-Based Technical Strength Lifts Asahi India Glass Ltd to 52-Week High of Rs 1126.95
+BOROLTD      BREAKOUT   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-17 Spurt in Volume | Borosil Limited: Building a Premium Consumer Kitchenware Brand in India
+SGMART       BREAKOUT   IN_NEWS                            |  |  | SG Mart (SGMART) 52 Week High Streak Extends to a Second Straight Session
+ABDL         BREAKOUT   IN_NEWS                            |  |  | Allied Blenders And Distillers 52 Week High Streak Update
+HINDOILEXP   BREAKOUT   IN_NEWS                            |  |  | Hindustan Oil Exploration shares zoom 35% in four sessions; what analysts say
+STYLEBAAZA   BREAKOUT   IN_NEWS                            |  | 2026-11-15 Copy of Newspaper Publication | Baazar Style Retail (STYLEBAAZA) 52 Week High Streak: Stock Hits Fresh High for Second Str | Baazar Style Retail shares rally 6% despite Q2 loss
 SYNGENE      PREBREAK   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Syngene International schedules analyst meetings for Nov 17-20 | Syngene International SYNGENE Investor Meetings November 2026
-RAYMOND      PREBREAK   IN_NEWS                            |  |  | Deere stock price target maintained at $730 by Raymond James By Investing.com | Raymond James Financial, Inc. (RJF) Stock Price, News, Quote & History
+CUB          PREBREAK   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | City Union Bank Technical Momentum Shifts Amid Mixed Indicator Signals
+RAYMOND      PREBREAK   IN_NEWS                            |  |  | Raymond James reiterates QXO stock rating on earnings beat By Investing.com | Raymond Realty Share Price Rise: Rs 614.80, Up 8.46% Today
+360ONE       PREBREAK   IN_NEWS                            |  |  | 360 ONE appoints Srikrishnan KN as Chief Operating Officer – Capital Markets & Global Asse | 360 ONE appoints Srikrishnan KN as Chief Operating Officer – Capital Markets & Global Asse
 QPOWER       PREBREAK   IN_NEWS                            |  |  | Quality Power Electrical Equipments subsidiary wins Rs 17.7 crore order for instrument tra
-POONAWALLA   PREBREAK   NEW_ANNOUNCEMENT                   |  | 2026-11-16 Shareholders meeting | 
+POONAWALLA   PREBREAK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Shareholders meeting | Poonawalla Fincorp shareholders approve Kemisha Soni’s second term
+NITINSPIN    PREBREAK   IN_NEWS                            |  |  | Nitin Spinners Ltd is Rated Buy by MarketsMOJO
 JASH         PREBREAK   IN_NEWS                            |  |  | Jash Engineering wins Rs 63 crore order from Jindal Steel for industrial projects | Jash Engineering Ltd (NSE:JASH) (Q2 2027) Earnings Call Highligh
-TCS          PULLBACK   IN_NEWS                            |  |  | TCS Share Price Highlights: TCS Stock Price History | Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history
-LGEINDIA     PULLBACK   IN_NEWS                            |  | 2026-11-16 Shareholders meeting | LG Electronics Inc (LGLG.HA) Stock Price, News, Quote & History | LG Electronics India seeks shareholder nod to enter vehicle solutions business
-TECHNOCRAF   PULLBACK   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Technocraft Ventures (NSE:TECHNOCRAF) H1 FY27 PAT Up 39.51%
-MRPL         PULLBACK   IN_NEWS                            |  |  | PM dedicates MRPL's INR 330-crore Bengaluru marketing terminal
-MARINE       PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Bagging/Receiving of orders/contracts | Marine Electricals wins Rs 26.1 crore order for Battery Electric Tug and Power Distributio | Marine Electricals MARINE: Rs 233 Crore Orders Won in Nov 2026
+TCS          PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-17 Updates | TCS vs Infosys: Better IT stock to buy amid anti-AI trade buzz | Experts' views, target pr | Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history
+LGEINDIA     PULLBACK   IN_NEWS                            |  | 2026-11-16 Shareholders meeting | LG Electronics India seeks shareholder nod to enter vehicle solutions business
+TECHNOCRAF   PULLBACK   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Technocraft Ventures Ltd. Share Price Today - Technocraft Ventures Ltd. Stock Price Live N
+MRPL         PULLBACK   IN_NEWS                            |  |  | PM dedicates MRPL's INR 330-crore Bengaluru marketing terminal | PM to Dedicate MRPL’s Rs. 3.3 bn Fuel Terminal in Bengaluru
+BSOFT        PULLBACK   IN_NEWS                            |  |  | Birlasoft wants to measure skills by deployment, not learning hours
+MARINE       PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Bagging/Receiving of orders/contracts | Marine Electricals wins Rs 26.1 crore order for Battery Electric Tug and Power Distributio
+KDDL         PULLBACK   IN_NEWS                            |  |  | KDDL. Share Price Today Up 12% | KDDL Share Price Rise: Fundamentals and Sector Analysis
 SAMBHV       PULLBACK   IN_NEWS                            |  |  | Sambhv Steel’s Big Expansion Plan: ₹3,000 Crore Capex, 2 Million Tonnes Capacity By 2030 |
-MOBIKWIK     PULLBACK   IN_NEWS                            |  |  | One Mobikwik Systems Fined ₹9 Lakh by RBI for PPI and Fraud Reporting Violations
 FEDFINA      PULLBACK   IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Fedbank Financial holds investor meets with Dymon Asia, LIC MF | Fedbank Financial Services (NSE:FEDFINA): What Happened at Its Analyst Meets on 16 Novembe
+AVADHSUGAR   PULLBACK   NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-17 Change in Management | Avadh Sugar & Energy appoints Rahul Murarka as CFO from Jan 2027 | Avadh Sugar & Energy CFO Change: Rahul Murarka Appointed
+HLEGLAS      PULLBACK   IN_NEWS                            |  |  | Hle Glascoat wins Rs 45 crore work order from international energy storage entity
 ARIHANTCAP   PULLBACK   EVENT_7D                           | 2026-11-18 Other business matters |  | 
 V2RETAIL     DIP        IN_NEWS                            |  |  | V2 Retail Share Price and Technical Outlook
-PRICOLLTD    DIP        IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Pricol sinks 20% after Street's thumbs down to auto electronics arm sale
-MAHLOG       DIP        IN_NEWS                            |  |  | Mahindra Logistics shares plunge 14% after MD and CEO Hemant Sikka resigns | Mahindra Logistics falls 1.4% on Rs 11.9 crore net loss in Q4
-KAYNES       DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-15 Press Release | Kaynes Technology shares tank 18% as Q2 PAT plunges 65%, margin shrinks | Amber Enterprises shares resume losing run, tank over 8% after weak Q2 from peer Kaynes Te
-LALITHAA     DIP        IN_NEWS                            |  |  | Lalithaa Jewellery Mart Ltd. Share Price Live Today
-BONDADA      DIP        IN_NEWS                            |  |  | Bondada Engineering Reports 9.8% Growth in Q2 FY27 Revenue
-RHIM         DIP        IN_NEWS                            |  | 2026-11-16 Copy of Newspaper Publication | RHI Magnesita India Limited (NSE:RHIM) Just Reported, And Analysts Assigned A ₹484 Price T | RHI Magnesita India expects volumes to pick up after product mix reset
-AARTISURF    DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Cessation | Aarti Surfactants Share Price Today: Rs 581.10, Up 9.99%
-POWERGRID    DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 General Updates | Power Grid Share Price Highlights: Power Grid Stock Price History
-TRENT        DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Credit Rating | Universal Store Holdings Director Trent Peterson Sells 250,000 Shares Across Three Days in | Can Severn Trent (LSE:SVT) Turn Attention Into Delivery?
-ONEPOINT     DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Press Release | One Point One Solutions Ltd has secured a mandate from NSDL
-ETERNAL      DIP        IN_NEWS                            |  |  | Swiggy vs Zomato parent Eternal: Which stock has the stronger growth and better earnings o | Swiggy vs Eternal: Which stock has the stronger growth and better earnings outlook after Q
-PASHUPATI    LOCKED     NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 General Updates | Pashupati Cotspin allots 23.67 crore bonus shares in 3:2 ratio
-Symbols with no flags: 37. Top market headlines:
-  [ET Markets] Sebi sets up sub-group under PMAC to review key IPO norms; NSE's Chauhan to head panel
-  [ET Markets] Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28
-  [ET Markets] Sebi forms panel to simplify capital-raising rules
-  [ET Markets] India's investments in US Treasuries jump USD 38.4 bn in Jun-Aug amid FCNR flows
-  [ET Markets] PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month
-  [ET Markets] Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper
-  [ET Markets] Swiggy among 10 midcap stocks that dropped up to 50% in CY26
-  [ET Markets] UPL Share Price Highlights: UPL Stock Price History
-  [ET Markets] Technical picks:  ABB India among 5 stocks to buy this week for healthy returns
-  [ET Markets] Sun Pharma Share Price Highlights: Sun Pharma Stock Price History
-  [ET Markets] Maruti Suzuki Share Price Highlights: Maruti Suzuki Stock Price History
-  [ET Markets] BPCL Share Price Highlights: BPCL Stock Price History
-  [ET Markets] Coal India Share Price Highlights: Coal India Ltd Stock Price History
-  [ET Markets] Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History
-  [ET Markets] Nestle India Share Price Highlights: Nestle India Stock Price History
+MAHLOG       DIP        IN_NEWS                            |  |  | Mahindra Logistics falls 1.4% on Rs 11.9 crore net loss in Q4 | Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahi
+KAYNES       DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-15 Press Release | Kaynes Technology stock in pain as Street falls out of love | Kaynes Technology shares extend losses, fall another 4%; should investors worry about its 
+LALITHAA     DIP        IN_NEWS                            |  |  | LALITHAA JEWELLERY MART L Share Price
+SILVER       DIP        IN_NEWS                            |  |  | DISCOVERY SILVER CORP (DSV.NE) Stock Price, News, Quote & History
+RHIM         DIP        IN_NEWS                            |  | 2026-11-16 Copy of Newspaper Publication | RHI Magnesita India Limited (NSE:RHIM) Just Reported, And Analysts Assigned A ₹484 Price T | REG - Verition Fund Mgmt RHI Magnesita N.V. Vesuvius plc - Form 8.3 - RHI MAGNESITA NV
+INNOVACAP    DIP        IN_NEWS                            |  | 2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates | Innova Captab Q2FY27 Results: Net profit up 43% YoY to ₹42.4 crore
+AARTISURF    DIP        NEW_ANNOUNCEMENT                   |  | 2026-11-16 Cessation | 
+POWERGRID    DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 General Updates | Power Grid Share Price Live Updates: Power Grid's Current Trading Price | Power Grid approves ₹220 crore for Gooty-Tumkur 400kV line reconductoring
+TRENT        DIP        NEW_ANNOUNCEMENT IN_NEWS           |  | 2026-11-16 Credit Rating | Trent discloses investor meeting schedule from Nov 25 to Dec 4 | Trent Limited (NSE:TRENT) Announces Meetings with Global Investors from November 25 to Dec
+ONEPOINT     DIP        NEW_ANNOUNCEMENT                   |  | 2026-11-16 Press Release | 
+ETERNAL      DIP        IN_NEWS                            |  |  | Swiggy vs Eternal: Which stock has the stronger growth and better earnings outlook after Q | Zomato (ETERNAL) 52 Week High Streak: Fresh One-Year High for Second Straight Session
+PASHUPATI    LOCKED     NEW_ANNOUNCEMENT                   |  | 2026-11-16 General Updates | 
+Symbols with no flags: 30. Top market headlines:
+  [ET Markets] Sebi may limit leveraged stock bets to curb volatility: Report
+  [ET Markets] FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%
+  [ET Markets] Tata Consumer Share Price Live Updates: Tata Consumer Price Movement
+  [ET Markets] Adani Ports SEZ Share Price Live Updates: Adani Ports SEZ records a gain in closing price
+  [ET Markets] Traders pour cash into BlackRock’s India ETF as AI rout deepens
+  [ET Markets] Blue Star among 4 stocks closing above VWAP
+  [ET Markets] ITC among 6 stocks showing White Marubozu pattern
+  [ET Markets] Adani Ent Share Price Live Updates: Adani Enterprises Ends Day at Rs 2738.00
+  [ET Markets] HUL Share Price Live Updates: HUL's Price Movement Today
+  [ET Markets] Yes Bank among 4 stocks showing RSI Trending Up
+  [ET Markets] Positive Breakout: 6 stocks close above their 200 DMAs
+  [ET Markets] BPCL Share Price Live Updates: BPCL's Current Market Position
+  [ET Markets] Hindalco Share Price Live Updates: Hindalco's Current Market Position
+  [ET Markets] Dr Reddys Share Price Live Updates: Dr. Reddys records a small rise in share price
+  [ET Markets] Bajaj Finance Share Price Live Updates: Bajaj Finance Trading Update
 Note: flags come from public feeds and can be incomplete. Verify before acting. Not financial advice.

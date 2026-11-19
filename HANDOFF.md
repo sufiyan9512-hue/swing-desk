@@ -11,6 +11,28 @@
 - **Positions (11 Nov ka screenshot, purana ho sakta hai):** BANCOINDIA 35 @675.50 (T1, delivery baaki), TATASTEEL 100 @190.40. Koi setup nahi tha (Telegram tip / "plus me tha"). Suggested SL closing basis ~655 / ~182, target ~700 / ~198. Naya paisa lagake average mat karo.
 - **Rule:** default branch me seedha push nahi; naya branch + PR.
 
+## OPTION + ZERODHA RECORD (17-19 Nov 2026) - "Handoff documentation" session se
+**Zerodha/connectors (19 Nov subah):** Kite MCP, NSE Live, NSE Bhavcopy, Tapetide jude. Kite se: live quote/ltp, 1-min/5-min history (NIFTY token 256265, SENSEX 265; mahino peeche tak), option chain, portfolio/positions/margin, price alerts, orders.
+- **Order sirf tumhari approval ke baad** (browser approval link; approve na karo to kuch nahi lagta). Abhi tak koi option order Claude ne nahi lagaya.
+- **Kite alerts lage:** Nifty >= 25,391 (CE), Sensex >= 82,579 (CE). PE alerts (Nifty < 25,142, Sensex < 81,780) Kite error "condition already met" se nahi lage; Kite app me khud lagao ya futures par try.
+- Alert tick price par chalta hai, 5-min close par nahi; entry hamesha 1-min option chart se.
+
+**Kya hua:** 17 Nov index daily analysis + Telegram alerts + paper record shuru. 18 Nov ~Rs5,000 option loss, "AB SE OPTION BAND". 19 Nov option watch phir se (max 2 alert/din, koi order nahi), Nifty PE 25200 ka SL 9:37 par laga = paper record me 3 SL. Watch band, notification ab Kite alerts se (Telegram cron late chalta hai).
+
+**Tests (sab negative, koi tested option edge NAHI):**
+- Option buyers average me overpay (VIX test, straddle ratio 0.82); VIX/Vega reel FAIL.
+- Strike: ITM ka break-even accuracy sabse kam; 0-2 din expiry bahut bura; 3-7 din sabse theek.
+- 54 indicator rules aur 2-3 indicator combos: koi robust edge nahi, walk-forward ~52%. Crude/global cues/gap sirf gap batate hain, open->close direction nahi.
+- OI max-strike S/R khaas nahi; writer/PCR signal predictive nahi.
+- PDH/PDL 5-min close break (60 din): ~30% jeet, 63% stop, random levels se alag nahi (z 0.8).
+- Files: `out/indicator_study.txt`, `out/indicator_combo.txt`, `out/level_break_study.txt`, `out/option_paper.csv`; scripts `indicator_study.py`, `indicator_combo.py`, `level_break_study.py`, `option_paper.py`, `chain_snap.py`, `collect_intraday.py`.
+- Note: `index_daily.py` ka T1 kabhi trigger se neeche aa sakta hai (pivot purane close par); watch me R2/S2 target liye gaye.
+
+**Stock positions (19 Nov 9:31, Kite):** SHRINGARMS 47 @248.10 (stop 230.6 daily close, 5 din time-stop, ~Rs820 risk); TATASTEEL 50 bache (50 bika @178.24, ~Rs608 loss book; exit 170 daily close ke neeche); SOBHA 20 @1,294.97 (exit 1,250 close ke neeche); SUPREMEENG-BZ 10 (junk); cash ~Rs6.7k. Koi stop/GTT order laga hai ya nahi, confirm nahi.
+**Tested stock setups (4 saal):** Dip A (WEAK +0.15R), Oversold bounce VWEAK +0.26R, Structure deep VWEAK +0.37R; MIXED me pakka kuch nahi; ~Rs6-10k/saal Rs50k par, guarantee nahi.
+
+**Pending:** Kite minute history se level/breakout tests lambe data par dobara (offer kiya tha, tumne haan nahi bola).
+
 ---
 
 Owner: Sufiyan (Surat, part-time NSE swing trader). Capital Rs 50,000, max loss/day Rs 500-1,000, max 2 trades/day,

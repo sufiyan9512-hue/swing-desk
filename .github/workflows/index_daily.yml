@@ -1,0 +1,35 @@
+name: index_daily
+# Roz ka index analysis: Som/Mangal/Shukra = Nifty 50, Budh/Guru = Sensex. Writes docs/index_daily.json (+ Telegram subah).
+# Run manually: Actions > index_daily > Run workflow.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "15 3 * * 1-5"    # 08:45 IST (aaj ka plan, Telegram bhi)
+    - cron: "30 10 * * 1-5"   # 16:00 IST (agle din ka plan)
+permissions:
+  contents: write
+jobs:
+  index_daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: App card jodo (ek baar)
+        run: python patch_ix.py
+      - name: Index analysis
+        run: python index_daily.py --notify
+      - name: Commit result
+        run: |
+          git config user.name "swing-bot"
+          git config user.email "swing-bot@users.noreply.github.com"
+          git add docs/index_daily.json docs/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "index_daily $(date -u +%F-%H%M)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin ${{ github.ref_name }} && git push && exit 0
+            sleep 5
+          done
+          exit 1

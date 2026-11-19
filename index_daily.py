@@ -190,8 +190,14 @@ def option_setup(res):
             if m['key'] != 'NIFTY':       # opt_pick/NSE chain sirf NIFTY
                 continue
             lot = m['lot']
-            d.update(index=m['key'], name=m['name'], lot=lot, entry=m[lo + '_trigger'], idx_stop=m[lo + '_stop'],
-                     t1=m[lo + '_t1'], t2=m[lo + '_t2'])
+            entry = m[lo + '_trigger']
+            # target entry ke AAGE hone chahiye: R1/R2 (CE) ya S1/S2 (PE) me se jo entry ke us paar ho; T2 na ho to T1 + 0.5 ATR
+            lv = sorted([x for x in (m['r1'], m['r2'])] if side == 'CE' else [x for x in (m['s1'], m['s2'])], reverse=(side == 'PE'))
+            lv = [x for x in lv if (x > entry if side == 'CE' else x < entry)]
+            t1 = lv[0] if lv else entry + (1 if side == 'CE' else -1) * 0.5 * m['atr14']
+            t2 = lv[1] if len(lv) > 1 else t1 + (1 if side == 'CE' else -1) * 0.5 * m['atr14']
+            d.update(index=m['key'], name=m['name'], lot=lot, entry=entry, idx_stop=m[lo + '_stop'],
+                     t1=round(t1, 1), t2=round(t2, 1))
             try:
                 exp = _pick_expiry(m['key'])
                 if not exp:

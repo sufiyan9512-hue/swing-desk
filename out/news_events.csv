@@ -1,83 +1,79 @@
 setup,symbol,flags,next_event,last_announcement,headlines
-BREAKOUT,PNB,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 General Updates,Punjab National Bank Share Price Today Near 52-Week High | Broad-Based Technical Strength Lifts Punjab National Bank to 52-Week High of Rs 151.8
-BREAKOUT,CANBK,IN_NEWS,,,Stock Radar: Canara Bank stock showing signs of reversal; trades above crucial moving aver
-BREAKOUT,LICHSGFIN,IN_NEWS,,,"India new issue-LIC Housing Finance to issue over 2-year bonds, bankers say | LIC Housing Finance Share Price Analysis Near 52-Week High"
-BREAKOUT,KDDL,IN_NEWS,,2026-11-17 Copy of Newspaper Publication,KDDL Q2FY27 results: PAT rises 47.5% to ₹48.2 crore | KDDL Ltd Surges 7.71% to Day's High of Rs 4160.6 — Outperforms Sector by 5.56 Percentage P
-BREAKOUT,BANKINDIA,IN_NEWS,,,"Bank of Georgia Group PLC (BGEO.L) stock price, news, quote and history | Bank of Baroda to host investor meet with BofA Securities on Nov 23"
-BREAKOUT,MOTILALOFS,IN_NEWS,,,Buy TBO Tek; target of Rs 1912: Motilal Oswal | Buy TBO Tek; target of Rs 1912: Motilal Oswal
-BREAKOUT,GMRAIRPORT,IN_NEWS,,,GMR Airports Ltd Sees Sharp Open Interest Surge Amid Rising Investor Confidence
-BREAKOUT,FILATEX,IN_NEWS,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,Filatex India Investor Analysis | StockIQ | Filatex India Ltd (BOM:526227) (Q2 2027) Earnings Call Highlight
-BREAKOUT,STYLEBAAZA,none,,,
+BREAKOUT,SBIN,IN_NEWS,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,State Bank Of India Share Price Today: price rise explained | State Bank of India rises 2.38% in Wednesday's session
+BREAKOUT,KDDL,IN_NEWS,,2026-11-17 Copy of Newspaper Publication,"If EPS Growth Is Important To You, KDDL (NSE:KDDL) Presents An Opportunity"
+BREAKOUT,GAIL,IN_NEWS,,,"GAIL Share Price at one-year high: price action and ratios | Five Stocks To Buy Today November 19: Sun TV, GAIL, Adani Power And More"
 BREAKOUT,HINDOILEXP,IN_NEWS,,,"Hindustan Oil Exploration shares rally 9% as government relaxes oil, gas contract extensio | Hindustan Oil Exploration Company (HINDOILEXP) Share Price Near 52-Week High on Strong Ses"
+BREAKOUT,FAZE3Q,IN_NEWS,,,"Faze Three Ltd. Share Price Near 52-Week High, Up 13.11%"
 BREAKOUT,HONASA,IN_NEWS,,,"Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, I | Honasa Consumer Ltd. 52 Week High Streak: What It Means"
+BREAKOUT,SUNTV,IN_NEWS,,,"Five Stocks To Buy Today November 19: Sun TV, GAIL, Adani Power And More"
+BREAKOUT,STYLEBAAZA,none,,,
 BREAKOUT,SGFIN,IN_NEWS,,,"SG Finserve Share Price Near 52-Week High, SGFIN Update"
-BREAKOUT,BANCOINDIA,none,,,
-BREAKOUT,THOMASCOOK,IN_NEWS,,,"Thomas Cook Elliott, III, Neshannock Township, PA"
-BREAKOUT,GHCLTEXTIL,IN_NEWS,,,GHCL Textiles Investor Analysis | StockIQ
-BREAKOUT,MANOMAY,IN_NEWS,,,Manomay Tex India Investor Analysis | StockIQ
-BREAKOUT,GREAVESCOT,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-16 Press Release,Greaves Cotton Ltd. Valuation Shifts Signal Heightened Price Premium
-BREAKOUT,MAHABANK,IN_NEWS,,,"Bank of Georgia Group PLC (BGEO.L) stock price, news, quote and history | Bank of Baroda to host investor meet with BofA Securities on Nov 23"
-BREAKOUT,KMCSHIL,IN_NEWS,,,KMC Speciality Investor Analysis | StockIQ
-BREAKOUT,XPROINDIA,none,,,
-PREBREAK,MCX,IN_NEWS,,2026-11-18 Analyst / Investor Meet,MCX schedules one-on-one meeting with BlackRock for Nov 25
-PREBREAK,ADANIPOWER,none,,2026-11-17 Investor Presentation,
-PREBREAK,BEL,IN_NEWS,,,BEL Share Price
-PREBREAK,HINDUNILVR,none,,2026-11-16 Copy of Newspaper Publication,
+BREAKOUT,EASEMYTRIP,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Press Release,Easy Trip Planners Ltd Surges 9.75% to Day's High — Outperforms Sector by 11.79 Percentage
+BREAKOUT,VIJAYA,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,"Vijaya Diagnostic to host analyst meet in Chennai on Dec 11 | Top stock picks: Analysts recommend buying Vijaya Diagnostic, Inox India, GAIL, Phoenix Mi"
+BREAKOUT,FINEORG,IN_NEWS,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,Fine Organic Industries Ltd. Share Price Rise and Valuation
+BREAKOUT,SUNSHINE,IN_NEWS,,,Sunshine Pictures celebrates 10 years of action Thriller Force 2
+BREAKOUT,FREDUN,none,,,
+BREAKOUT,GREAVESCOT,IN_NEWS,,,Greaves Cotton Share Price: price action near 52-week peak
+PREBREAK,MARICO,IN_NEWS,,,Marico Share Price News: Near Yearly High and Valuation
+PREBREAK,HINDUNILVR,IN_NEWS,,,"Hindustan Unilever falls Wednesday, underperforms market | Hindustan Unilever (NSE:HINDUNILVR) in Focus"
+PREBREAK,CUB,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 General Updates,"City Union Bank shuts NEFT, RTGS gateways after unauthorised customer account transaction | City Union Bank participates in Avendus Spark INDX 2026 on Nov 18"
 PREBREAK,POONAWALLA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Allotment of Securities,Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal | Poonawalla Fincorp allots ₹600 crore zero-coupon NCDs for five-year tenure
-PREBREAK,CUB,IN_NEWS,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,City Union Bank Investor Analysis | StockIQ
-PREBREAK,GRAPHITE,IN_NEWS,,,"REG - Total Graphite PLC - Notice of Annual General Meeting | Exclusive: China dominates battery graphite, but this startup could break the monopoly"
-PREBREAK,MEDANTA,IN_NEWS,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,How will global health innovations shape tomorrow? Take the quiz | WHO DG Candidate Gevorg Tamamyan Says Global Health Inequality Is Costing Lives
-PREBREAK,NH,none,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,
-PREBREAK,VRLLOG,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Change in Director(s),VRL Logistics Ltd. Share Price: price action and valuation | VRL Logistics Ltd is Rated Hold by MarketsMOJO
-PREBREAK,CEATLTD,none,,2026-11-16 Loss of Share Certificates,
-PREBREAK,JSWCEMENT,IN_NEWS,,,JSW Cement Investor Analysis | StockIQ
-PREBREAK,JASH,IN_NEWS,,,Jash Engineering Investor Analysis | StockIQ
-PREBREAK,NITINSPIN,IN_NEWS,,,Nitin Spinners Share Price Near 52-Week High: Fundamentals | Nitin Spinners Investor Analysis | StockIQ
-PULLBACK,INFY,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Updates,"Infosys Share Price Live Updates: Infosys ends the day at Rs 1108.8 | Infosys share price: Lost 1/4th investor wealth in 1 year, should you still buy the IT maj"
-PULLBACK,TCS,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Updates,TCS Share Price Live Updates: TCS Experiences a Minor Decline in Today's Market | TCS share price down 26% in 2026: Is this a buying opportunity? What do technical charts s
+PREBREAK,THELEELA,none,,,
+PREBREAK,MEDANTA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Credit Rating,How will global health innovations shape tomorrow? Take the quiz | Global Health Care AG: Impairment of EUR 107.0 million on milon investment – net loss for 
+PREBREAK,KNACK,none,,,
+PREBREAK,EMAMILTD,IN_NEWS,,,Emami Realty Ltd is Rated Strong Sell
+PREBREAK,CEATLTD,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Updates,CEAT Ltd (NSE:CEATLTD) Updates on Court's Cancellation of Attendance Warrant in 2012 Facto | CEAT Ltd CEATLTD Court Warrant Cancelled in 2012 Factory Case
+PREBREAK,NITINSPIN,IN_NEWS,,,Nitin Spinners Share Price Near 52-Week High: Fundamentals
+PREBREAK,SMARTWORKS,IN_NEWS,,,Smartworks Coworking Spaces Ltd Valuation Shifts Signal Caution for Investors
+PREBREAK,ORIENTCEM,none,,,
+PULLBACK,BHEL,IN_NEWS,,,Bharat Heavy Electricals falls 2.08% in Wednesday's session
+PULLBACK,TECHM,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History | Tech Mahindra to host JP Morgan fireside chat on November 25
+PULLBACK,PERSISTENT,IN_NEWS,,,"Persistent Systems posts ₹4,830.4 million profit in Q1FY27, approves Nagarro acquisition"
+PULLBACK,TTML,none,,,
 PULLBACK,INDOMIM,NEW_ANNOUNCEMENT,,2026-11-18 Acquisition,
-PULLBACK,APLAPOLLO,IN_NEWS,,,"Metal stocks to buy! APL Apollo Tubes, Hindalco: Axis Sec lists 2 conviction picks post Q2 | APL Apollo Tubes falls 2.74% in Tuesday's session"
-PULLBACK,HBLENGINE,none,,,
-PULLBACK,PWL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Press Release,"PhysicsWallah to present investor day deck on November 18, 2026"
-PULLBACK,MRPL,IN_NEWS,,,PM to Dedicate MRPL’s Rs. 3.3 bn Fuel Terminal in Bengaluru | MRPL Investor Analysis | StockIQ
-PULLBACK,LGEINDIA,none,,2026-11-16 Shareholders meeting,
-PULLBACK,CPPLUS,IN_NEWS,,,"Aditya Infotech, Persistent Systems & 3 Other Nifty 500 Stocks Trading Above Their 50-DMA  | Aditya Infotech Investor Analysis | StockIQ"
-PULLBACK,EDELWEISS,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Credit Rating- Revision,Edelweiss Financial Services Q2FY27 Results: Net profit up 50% to ₹193 crore | Edelweiss Financial Services Ltd: Valuation Shifts Signal Renewed Price Attractiveness
-PULLBACK,TATAELXSI,IN_NEWS,,,Accumulate Tata Elxsi; target of Rs 3790: Prabhudas Lilladher | Tata Elxsi Investor Analysis | StockIQ
-PULLBACK,TARIL,none,,,
-PULLBACK,IOLCP,IN_NEWS,,,IOL Chemicals Investor Analysis | StockIQ
-PULLBACK,SYNCOMF,none,,,
-PULLBACK,TTKPRESTIG,IN_NEWS,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,TTK Prestige Q2 Results Show 21.9 Pc Revenue Growth at Rs 959.3 Cr
-PULLBACK,TTML,IN_NEWS,,,Tata Teleservices Investor Analysis | StockIQ
-PULLBACK,WHIRLPOOL,none,,2026-11-18 Copy of Newspaper Publication,
-PULLBACK,ARFIN,IN_NEWS,,,Arfin India Investor Analysis | StockIQ
-PULLBACK,FSL,none,,,
-PULLBACK,FEDFINA,IN_NEWS,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,Fedbank Financial Investor Analysis | StockIQ
-PULLBACK,CEIGALL,IN_NEWS,,,Ceigall India Investor Analysis | StockIQ
-PULLBACK,HLEGLAS,none,,,
-PULLBACK,AVADHSUGAR,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Change in Management,Avadh Sugar & Energy Ltd Technical Momentum Shifts Amid Mixed Indicator Signals | Avadh Sugar & Energy Limited Announces CFO Changes
-PULLBACK,ZOTA,none,,,
-PULLBACK,BLUSPRING,none,,,
-DIP,IGLSPIRITS,NEW_ANNOUNCEMENT,,2026-11-17 Press Release / Media Release,
-DIP,MAHSEAMLES,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-16 General Updates,Maharashtra Seamless Limited (MAHSEAMLES.BO) Seasonal Returns Chart - Yahoo Finance
-DIP,LALITHAA,IN_NEWS,,,LALITHAA JEWELLERY MART L Share Price | Lalithaa Jewellery Investor Analysis | StockIQ
+PULLBACK,MRPL,IN_NEWS,,,Panel to address issues related to MRPL blast: Khader | MRPL Trader Analysis | StockIQ
+PULLBACK,DHOOTTRANS,IN_NEWS,,,Dhoot Transmission Ltd. Share Price Today - Dhoot Transmission Ltd. Stock Price Live NSE/B
+PULLBACK,APLAPOLLO,IN_NEWS,,,"Metal stocks to buy! APL Apollo Tubes, Hindalco: Axis Sec lists 2 conviction picks post Q2"
+PULLBACK,ACMESOLAR,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Bagging/Receiving of orders/contracts,"Multibagger ACME Solar jumps 3% on order win, trades 113% up from Jan lows | Acme Solar inks 150 MW hybrid power deal with NTPC at ₹3.21/Unit"
+PULLBACK,AXISCADES,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Acquisition,AXISCADES Technologies (NSE:AXISCADES) Completes German Acquisition
+PULLBACK,HBLENGINE,IN_NEWS,,,Cochin Shipyard Forms Joint Venture With HBL Engineering For Green Maritime Technology | HBL Engineering Technical Momentum Shifts Amid Mixed Market Returns
+PULLBACK,KROSS,IN_NEWS,,,"The KROSS Esker Gen 3 – the next generation of gravel. More features, greater ground clear | Parents of Jon-Kross Perez come face-to-face with person accused pf killing their son"
+PULLBACK,BEML,none,,,
+PULLBACK,JAMNAAUTO,none,,,
+PULLBACK,IOLCP,none,,,
+PULLBACK,FEDDERSHOL,IN_NEWS,,2026-11-18 Newspaper Publication,Fedders Holding files Q2FY27 standalone and consolidated results
+PULLBACK,SAMBHV,none,,,
+PULLBACK,SAMHI,none,,,
+PULLBACK,KISSHT,IN_NEWS,,2026-11-18 Shareholders meeting,KISSHT Share Price Today - OnEMI Technology Solutions on NSE/BSE | OnEMI Technology Share Price: What's Behind the Kissht Rally
+PULLBACK,COHANCE,none,,,
+PULLBACK,TATACAP,IN_NEWS,,,"NBFC Sector PAT Jumps 43% In Q2; Aditya Birla Capital, Tata Capital Among Top Picks By Amb"
+PULLBACK,RUBICON,none,,,
+PULLBACK,METROPOLIS,none,,,
+PULLBACK,WHEELS,IN_NEWS,,,"Newmen Unveils Streem G.48 Carbon Gravel Wheels, With 30.5- and 32-Inch Versions on the Wa | Chinese SUV Tows 180-Ton Boeing 747-400 With Just Two Wheels on One Side"
+PULLBACK,TTKPRESTIG,none,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,
+DIP,SHRINGARMS,none,,,
+DIP,JSLL,NEW_ANNOUNCEMENT,,2026-11-18 Commencement of commercial production/operations,
+DIP,CAPLIPOINT,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 General Updates,Caplin Point slides 13% in 3 sessions after US FDA flags plant for action | Caplin Point shares decline 10% in two sessions after USFDA issues OAI classification for 
+DIP,SFCTECH,EVENT_7D NEW_ANNOUNCEMENT,2026-11-23 Financial Results,2026-11-18 Board Meeting,
+DIP,PARASHLTH,IN_NEWS,,,PARAS HEALTHCARE LIMITED Share Price | Paras Healthcare Share Price Falls 5.49% | Valuation View
+DIP,ZETWERK,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,ZETWERK MANUFACTURING B L Share Price | ZETWERK Share Price Today - Zetwerk Manufacturing Business on NSE/BSE
 DIP,RPTECH,none,,,
+DIP,DEEPA,IN_NEWS,,,Deepa Jewellers Limited (DEEPA.BO) cash flow | Deepa Jewellers Investor Analysis | StockIQ
+DIP,FUSIONCX,IN_NEWS,,,"Fusion CX Limited (FUSIONCX.NS) stock price, news, quote and history"
+DIP,LATENTVIEW,none,,,
+DIP,SSRETAIL,IN_NEWS,,,SS Retail Ltd. Share Price Today - SS Retail Ltd. Stock Price Live NSE/BSE | SS Retail Ltd is Rated Hold by MarketsMOJO
+DIP,LUMINO,IN_NEWS,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,Lumino Industries to invest ₹180 crore in Ranihati capacity expansion
+DIP,HDFIRE,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Bagging/Receiving of orders/contracts,HD FIRE PROTECT LIMITED Share Price | HD Fire expects export share to rise 5-6 percentage points
+DIP,RRKABEL,IN_NEWS,,,"Polycab, KEI, RR Kabel & others fall up to 3% as copper plunges for 5th day | Copper prices at five-month low - Here's how Polycab, Finolex, RR Kabel shares reacted"
+DIP,DIVGIITTS,IN_NEWS,,,Divgi Torqtransfer Investor Analysis | StockIQ
+DIP,PIIND,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,PI Industries among 5 stocks hitting 52-week low; slipped up to 26% in a month
 DIP,SUPRIYA,none,,,
-DIP,CANFINHOME,IN_NEWS,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,Can Fin Homes Investor Analysis | StockIQ
-DIP,COROMANDEL,none,,,
-DIP,EMUDHRA,IN_NEWS,,,Here we go again: eMudhra revoked the certificates it said were safe
-DIP,NTPC,IN_NEWS,,,ACME Solar shares rally 3% as subsidiary signs 150 MW hybrid power project PPA with NTPC | NTPC to JSW Energy: Axis Securities’ top power picks with up to 19% upside
-DIP,HSCL,IN_NEWS,,,Himadri Speciality Investor Analysis | StockIQ
-DIP,EXIDEIND,IN_NEWS,,2026-11-18 General Updates,Exide Industries Ltd. Share Price Rise Streak and Valuation | Exide Industries - Tata Motors among 5 stocks closing above 200-DMA
-DIP,NUVAMA,IN_NEWS,,2026-11-16 Investor Presentation,Nuvama Wealth Mgmt Investor Analysis | StockIQ
-DIP,MAYURUNIQ,none,,,
-DIP,SHOPERSTOP,none,,2026-11-16 Analysts/Institutional Investor Meet/Con. Call Updates,
-DIP,ARIS,NEW_ANNOUNCEMENT IN_NEWS,,"2026-11-18 Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011","Arisinfra Solutions promoter buys 5,00,000 shares; stake rises to 21.01% | Arisinfra Solutions Co-Promoter Purchases 5,00,000 Equity Shares On November 17"
-DIP,SUDEEPPHRM,IN_NEWS,,,"Sudeep Pharma - 16 microcap stocks surge up to 390% in CY26, emerge as multibaggers"
-DIP,ARSSBL,IN_NEWS,,,"NSE's deep liquidity, market grip fuel bullish call; Anand Rathi sees 15% upside | NSE shares surge 17% since listing in September; Anand Rathi sees 15% more upside - Check "
-DIP,DELTACORP,IN_NEWS,,,Delta Corp Investor Analysis | StockIQ
-DIP,IKIO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Updates,IKIO Technologies NSE:IKIO Volume Clarification Filing | IKIO Technologies NSE:IKIO Volume Surge Clarification
-DIP,SMLMAH,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 Updates,"SML Mahindra rights issue: Price, record date and eligibility details | SML Mahindra Limited targets Rs 1,449.65 crore for MTBD"
-DIP,SURAKSHA,IN_NEWS,,,Suraksha Diagnostic Investor Analysis | StockIQ
-LOCKED,PASHUPATI,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-16 General Updates,Pashupati Cotspin shareholders approve 3:2 bonus issue via postal ballot
+DIP,ACUTAAS,none,,,
+DIP,EIHOTEL,none,,,
+DIP,ROTO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 General Updates,Roto Pumps (NSE:ROTO) Wins Export Star Performer Award FY2023-24
+DIP,SPLPETRO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 Action(s) initiated or orders passed,SPLPETRO Share Price Today - Supreme Petrochem on NSE/BSE | Supreme Petrochem receives GST inspection notice at Mumbai office
+DIP,CIPLA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-17 General Updates,Cipla Share Price Highlights: Cipla Stock Price History | US FDA Gives Cipla’s Unit in New York a Clean Chit; Shares Rise Marginally
+DIP,ORCHPHARMA,none,,2026-11-17 Analysts/Institutional Investor Meet/Con. Call Updates,
+DIP,KPL,IN_NEWS,,,Kwality Pharmaceuticals Share Price Hits Fresh Yearly High
+LOCKED,PASHUPATI,IN_NEWS,,,Pashupati Cotspin shareholders approve 3:2 bonus issue via postal ballot
 LOCKED,AURUM,none,,,

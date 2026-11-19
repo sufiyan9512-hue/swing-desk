@@ -7,6 +7,7 @@
   Ye levels + filter hain, **tested signal NAHI** (60 din: PDH/PDL break ~30% jeet, 63% stop, random se alag nahi; paper record 3 SL). Koi order automatically nahi lagta.
 - **Workflow `index_daily`:** 08:45, 09:10 (strike ke liye, NSE chain 9:00 ke baad), 16:00 IST, Mon-Fri; teeno `--notify` se Telegram bhejte hain. `patch_ix.py` app me card ek baar jodta hai (idempotent).
 - **Option files (zip se):** opt_pick, option_paper, chain_snap, collect_intraday, indicator_study/combo, level_break_study, intraday.yml. Studies ke output `out/` me.
+- **Option ke notes:** `OPTION_NOTES.md` me hain (tests, paper record, alert rules, sources). Raw data `data/chain/` (option chain snapshots) aur `data/intraday/` (Nifty/Sensex/BankNifty 1-min, 5-min) me.
 - **Positions (11 Nov ka screenshot, purana ho sakta hai):** BANCOINDIA 35 @675.50 (T1, delivery baaki), TATASTEEL 100 @190.40. Koi setup nahi tha (Telegram tip / "plus me tha"). Suggested SL closing basis ~655 / ~182, target ~700 / ~198. Naya paisa lagake average mat karo.
 - **Rule:** default branch me seedha push nahi; naya branch + PR.
 

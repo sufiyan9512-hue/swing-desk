@@ -163,6 +163,60 @@ def lines_for(m, tgt):
     return s
 
 
+def _pick_expiry(sym):
+    """NSE chain ke expiries me se wo jisme 3-7 din bache hon (0-2 din me theta tez = avoid)."""
+    import results_study as r
+    exps = r.nse('https://www.nseindia.com/api/option-chain-contract-info?symbol=%s' % sym)['expiryDates']
+    now = datetime.datetime.now(IST)
+    for e in exps:
+        days = (datetime.datetime.strptime(e, '%d-%b-%Y').replace(hour=15, minute=30, tzinfo=IST) - now).total_seconds() / 86400.0
+        if 3 <= days <= 7:
+            return e
+    return None
+
+
+def option_setup(res):
+    """Har side (CE/PE) ka 1 option: index levels (index_daily) + strike (opt_pick filter). Chain na mile to strike khaali, levels phir bhi.
+    Sirf NIFTY ki chain NSE me hai; SENSEX ki nahi (Kite/Angel me dekho)."""
+    import opt_pick
+    ms = {m['key']: m for m in (res.get('main'), res.get('other')) if m}
+    out = {}
+    for side in ('CE', 'PE'):
+        lo = side.lower()
+        # jiska setup behtar: CE ke liye ooncha trend score, PE ke liye neecha
+        order = sorted(ms.values(), key=lambda m: -m['score'] if side == 'CE' else m['score'])
+        d = dict(side=side, why='strike roz subah 9:00 ke baad')
+        for m in order:
+            if m['key'] != 'NIFTY':       # opt_pick/NSE chain sirf NIFTY
+                continue
+            lot = m['lot']
+            d.update(index=m['key'], name=m['name'], lot=lot, entry=m[lo + '_trigger'], idx_stop=m[lo + '_stop'],
+                     t1=m[lo + '_t1'], t2=m[lo + '_t2'])
+            try:
+                exp = _pick_expiry(m['key'])
+                if not exp:
+                    d['why'] = 'expiry 3-7 din wala nahi mila'
+                    break
+                spot, expiry, days, top = opt_pick.pick(m['key'], side, exp, 1)
+                if not top:
+                    d['why'] = 'strike roz subah 9:00 ke baad (filter pass nahi / market band)'
+                    break
+                c = top[0]
+                d.update(strike=int(c['k']), expiry=expiry, days=round(days, 1), spot=round(spot, 1), ltp=c['ltp'],
+                         bid=c['bid'], ask=c['ask'], spread=round(c['spread'], 2), delta=round(c['delta'], 2),
+                         vol=int(c['vol']), oi=int(c['oi']), cost=round(c['cost']), sl_prem=c['sl_prem'],
+                         sl_risk=int(opt_pick.RISK))
+                d.pop('why', None)
+            except Exception as e:
+                d['why'] = 'strike roz subah 9:00 ke baad (chain nahi mili)'
+                d['err'] = str(e)[:60]
+            break
+        if 'index' not in d:
+            d['why'] = 'NIFTY ka data nahi mila'
+        out[lo] = d
+    return out
+
+
 def main():
     notify = '--notify' in sys.argv
     now = datetime.datetime.now(IST)
@@ -180,6 +234,11 @@ def main():
         print('main fail:', res['errors'])
         sys.exit(1)
     res['text'] = lines_for(res['main'], tgt)
+    try:
+        res['option_pick'] = option_setup(res)
+    except Exception as e:
+        res['option_pick'] = dict(err=str(e)[:60])
+    print('option_pick', json.dumps(res['option_pick'], ensure_ascii=False))
     os.makedirs('docs', exist_ok=True)
     with open('docs/index_daily.json', 'w', encoding='utf-8') as h:
         json.dump(res, h, ensure_ascii=False)

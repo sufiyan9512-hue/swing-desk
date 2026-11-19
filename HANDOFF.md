@@ -269,4 +269,4 @@ do the coding yourself (edit, test, commit, merge to main). Do not make him uplo
 - Purana GitHub (sufikipl-ops/swing-auto) suspend. Restore -> sufiyan9512-hue/swing-desk.
 - Halka schedule: live.yml ka schedule band (sirf manual; aage Cloudflare Worker), global 3x/din, news 2x/din.
 - Apps Script timer: GH_REPO naya; abhi live kick band rakho jab tak Cloudflare live feed na bane.
-- docs/handoff/* (naye repo ka skeleton) saath me rakha.
+- docs/handoff/* (khali skeleton) 19 Nov ko hata diya; ye file hi single handoff hai.

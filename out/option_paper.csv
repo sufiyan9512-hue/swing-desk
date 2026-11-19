@@ -1,0 +1,5 @@
+ts,index,side,strike,expiry,entry_prem,sl_prem,idx_stop,idx_t1,idx_t2,idx_entry,status,exit_idx,exit_prem,idx_pts,est_rs_1lot,max_prem,min_prem,closed_at,note
+2026-11-18 09:47,NIFTY,PE,25300,23-Nov-2026,222.8,215.1,25383,25151,25050,25231.5,SL,25292.2,189.1,-60.8,-2369,222.8,189.1,09:56,imb=bid195/ask1105 sellerbhaari; total buyer 6.7x; long-buildup
+2026-11-18 10:11,SENSEX,PE,NA,NA,0,0,82472,81702,81600,82051,EOD,,,,,0,0,,late signal: 9:40 candle close 82051 <82092; Yahoo feed delay; entry user ne nahi li
+2026-11-18 10:22,NIFTY,PE,25300,23-Nov-2026,200.4,192.8,25383,25151,25050,25266.3,SL,25281.9,187.2,-15.6,-610,218.05,187.2,11:21,re-entry after SL; marginal close 0.7pt below 25267; best bid 910 vs ask 260 buyer 3.5x; long-buildup; put writing 25250/25200
+2026-11-19 09:33,NIFTY,PE,25200,23-Nov-2026,190.0,182.3,25253,25004,24900,25116,SL,25195.3,165.2,-79.3,-3095,190.0,165.25,09:38,kite5m close 25115.9<25142; late-ish 9:33

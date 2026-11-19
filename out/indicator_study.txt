@@ -1,0 +1,57 @@
+Nifty 2017-10-05 se 2026-11-16 (2246 din), 54 rules, open->close, entry open par
+Bonferroni z-threshold ~3.3 (p<0.05/54). 50% = sikka, option break-even ~51-56% (pehle wale test se)
+rule                                             n   acc%   mean%      t     z   acc h1 acc h2
+RSI14<30 long (bounce)                          66  56.1 +0.063  +0.2  +1.0     nan   nan
+RSI14>70 short (fade)                          256  55.5 +0.091  +2.5  +1.8    55.2  55.9
+NR7 day: follow gap                            354  54.8 +0.042  +1.0  +1.8    58.5  51.4
+VIX jumped >5% -> short                        292  54.5 +0.072  +1.0  +1.5    58.7  50.0
+Thu always short                               452  54.4 +0.069  +2.0  +1.9    52.0  56.9
+Tue always short                               449  53.9 +0.047  +1.3  +1.7    50.0  57.8
+Stoch<20 long / >80 short (fade)              1167  53.6 +0.068  +2.6  +2.4    52.0  55.2
+prev close top25% -> short (fade)              742  53.5 +0.072  +2.8  +1.9    53.3  53.7
+inside day: follow gap                         214  53.3 +0.031  +0.5  +1.0    61.5  46.6
+MACD cross up long / down short                169  53.3 -0.002  -0.0  +0.8    52.4  54.0
+Wed always short                               450  53.1 +0.058  +1.4  +1.3    56.6  49.6
+open>prev high -> short (fade)                 937  52.8 +0.066  +2.3  +1.7    51.2  54.4
+Bollinger %B<0 long / >1 short (fade)          198  52.5 +0.012  +0.1  +0.7    52.2  52.8
+ROC5 contrarian                               2240  52.2 +0.033  +1.8  +2.1    51.1  53.3
+ALWAYS short (open PE)                        2246  52.1 +0.057  +3.2  +2.0    52.2  52.0
+prev close bottom25% -> long (fade)            590  51.7 +0.012  +0.3  +0.8    52.2  51.2
+open>R1 fade short / <S1 fade long             664  51.5 +0.062  +1.8  +0.8    50.0  53.1
+Fri always long                                444  51.4 -0.010  -0.2  +0.6    52.5  50.2
+gap>0.3% fade, <-0.3% fade                    1050  50.9 +0.055  +1.8  +0.6    49.0  53.1
+prev day up -> short (reverse)                2243  50.7 +0.007  +0.4  +0.7    49.5  51.9
+S&P>+0.5% short / < -0.5% long (fade)         1185  50.3 +0.032  +1.2  +0.2    47.3  53.2
+Mon always short                               450  50.2 +0.098  +2.4  +0.1    54.7  45.8
+Mon always long                                450  49.8 -0.098  -2.4  -0.1    45.3  54.2
+S&P>+0.5% long / < -0.5% short                1185  49.7 -0.032  -1.2  -0.2    52.7  46.8
+VIX high (top20%) -> long                      393  49.6 -0.034  -0.5  -0.2    46.4  52.4
+3 down days long / 3 up days short             689  49.5 -0.007  -0.2  -0.3    51.0  48.0
+open<prev low -> short                         289  49.5 +0.006  +0.1  -0.2    56.5  44.8
+prev day up -> long (continue)                2243  49.3 -0.007  -0.4  -0.7    50.4  48.1
+gap>0.3% follow, <-0.3% follow                1050  49.1 -0.055  -1.8  -0.6    51.0  46.9
+C>SMA50                                       2196  49.1 -0.013  -0.7  -0.9    48.5  49.7
+open>pivot long / <pivot short                2245  49.0 -0.022  -1.2  -1.0    50.0  47.9
+MACD hist>0 trend                             2244  48.9 -0.012  -0.7  -1.1    49.2  48.6
+SMA20>SMA50                                   2196  48.8 -0.017  -0.9  -1.1    49.1  48.5
+Fri always short                               444  48.6 +0.010  +0.2  -0.6    47.5  49.8
+EMA9>EMA21                                    2244  48.5 -0.021  -1.2  -1.4    48.4  48.6
+open>R1 trend long / <S1 trend short           664  48.5 -0.062  -1.8  -0.8    50.0  46.9
+C>SMA20 (long) / C<SMA20 (short)              2226  48.4 -0.021  -1.2  -1.5    48.1  48.7
+RSI14>50 trend                                2244  48.4 -0.024  -1.3  -1.6    47.4  49.3
+prev close bottom25% -> short                  590  48.3 -0.012  -0.3  -0.8    47.8  48.8
+S&P<-1% short                                  262  48.1 -0.019  -0.3  -0.6    48.8  47.4
+ALWAYS long (open buy)                        2246  47.9 -0.057  -3.2  -2.0    47.7  48.0
+C>SMA200                                      2046  47.8 -0.060  -3.1  -2.0    48.0  47.6
+ROC5>0 momentum                               2240  47.7 -0.033  -1.8  -2.2    48.8  46.7
+Bollinger breakout trend                       198  47.5 -0.012  -0.1  -0.7    47.8  47.2
+Wed always long                                450  46.9 -0.058  -1.4  -1.3    43.4  50.4
+prev close top25% -> long                      742  46.5 -0.072  -2.8  -1.9    46.7  46.3
+open>prev high -> long                         648  46.1 -0.098  -3.4  -2.0    46.3  46.0
+Tue always long                                449  45.9 -0.047  -1.3  -1.7    49.6  42.2
+Thu always long                                452  45.6 -0.069  -2.0  -1.9    48.0  43.1
+VIX jumped >5% -> long (rebound)               292  45.5 -0.072  -1.0  -1.5    41.3  50.0
+S&P>+1% long                                   315  44.8 -0.107  -1.8  -1.9    47.8  41.6
+RSI14>70 long (trend)                          256  44.5 -0.091  -2.5  -1.8    44.8  44.1
+RSI14<30 short (trend)                          66  43.9 -0.063  -0.2  -1.0     nan   nan
+bull engulf long / bear engulf short           151  43.0 -0.098  -1.5  -1.7    44.9  41.5

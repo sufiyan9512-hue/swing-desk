@@ -1,0 +1,36 @@
+Nifty 2017-10-05 -> 2026-11-16 | train 1347 din (2023-03-21 tak), test 899 din
+
+=== 2-indicator combo (sab ek direction): 372 combo me se train par top-25 ===
+ASLI   : train acc 57.7% -> TEST acc 50.6%
+NAKLI(shuffle): train acc 57.2% -> test acc 47.8%  (yeh chance ka benchmark hai)
+combo                                                                                   n_tr acc_tr |  n_te acc_te mean%te
+VIX jumped >5% -> short + prev close bottom25% -> sh                                      88  63.6% |     -     -       -
+prev day up -> long (conti + VIX jumped >5% -> short                                     148  62.8% |    87 44.8%  -0.077
+open>pivot long / <pivot s + prev close bottom25% -> lo                                  125  60.8% |     -     -       -
+MACD hist>0 trend + VIX jumped >5% -> short                                              114  60.5% |     -     -       -
+ROC5>0 momentum + VIX jumped >5% -> short                                                121  60.3% |     -     -       -
+VIX jumped >5% -> short + open>pivot long / <pivot s                                      85  60.0% |     -     -       -
+SMA20>SMA50 + NR7 day: follow gap                                                        113  59.3% |     -     -       -
+3 down days long / 3 up da + S&P>+0.5% short / < -0.5%                                   132  59.1% |     -     -       -
+C>SMA20 (long) / C<SMA20 ( + VIX jumped >5% -> short                                     112  58.9% |     -     -       -
+C>SMA50 + NR7 day: follow gap                                                            111  58.6% |    83 54.2%  +0.035
+
+=== 3-indicator combo (sab ek direction): 1291 combo me se train par top-25 ===
+ASLI   : train acc 59.5% -> TEST acc 44.3%
+NAKLI(shuffle): train acc 60.7% -> test acc 50.9%  (yeh chance ka benchmark hai)
+combo                                                                                   n_tr acc_tr |  n_te acc_te mean%te
+prev day up -> long (conti + VIX jumped >5% -> short + prev close bottom25% -> sh         88  63.6% |     -     -       -
+ROC5>0 momentum + prev day up -> long (conti + VIX jumped >5% -> short                   115  61.7% |     -     -       -
+MACD hist>0 trend + prev day up -> long (conti + VIX jumped >5% -> short                 109  61.5% |     -     -       -
+prev day up -> long (conti + VIX jumped >5% -> short + open>pivot long / <pivot s         82  61.0% |     -     -       -
+MACD hist>0 trend + ROC5>0 momentum + VIX jumped >5% -> short                            104  60.6% |     -     -       -
+C>SMA20 (long) / C<SMA20 ( + prev day up -> long (conti + VIX jumped >5% -> short        106  60.4% |     -     -       -
+gap>0.3% follow, <-0.3% fo + open>pivot long / <pivot s + prev close bottom25% -> lo     100  60.0% |     -     -       -
+ROC5>0 momentum + prev day up -> short (reve + S&P>+0.5% long / < -0.5% s                102  59.8% |     -     -       -
+C>SMA20 (long) / C<SMA20 ( + open>pivot long / <pivot s + prev close bottom25% -> sh     126  59.5% |   106 44.3%  -0.097
+prev day up -> short (reve + 3 down days long / 3 up da + S&P>+0.5% short / < -0.5%      132  59.1% |     -     -       -
+
+=== Walk-forward ML (har saal tak ke data par train, agle saal par test) ===
+Logistic       test 2021-26: 768 trades (confident), accuracy 52.5%, mean +0.071%/trade, z +1.4
+Tree(depth3)   test 2021-26: 909 trades (confident), accuracy 52.3%, mean +0.070%/trade, z +1.4
+Forest         test 2021-26: 278 trades (confident), accuracy 51.1%, mean +0.046%/trade, z +0.4

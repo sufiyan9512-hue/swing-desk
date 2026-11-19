@@ -1,0 +1,16 @@
+== NIFTY
+ASLI level (PDH/PDL break)         n= 53  jeet 32%  avg +0.066% (se 0.060)  stop hit 60%  MFE>=0.25%: 36%  MFE>=0.40%: 26%
+CONTROL (nakli levels)             n=212  jeet 35%  avg +0.047% (se 0.031)  stop hit 54%  MFE>=0.25%: 45%  MFE>=0.40%: 30%
+   faraq (asli - control) avg +0.019%, z +0.3
+== SENSEX
+ASLI level (PDH/PDL break)         n= 46  jeet 28%  avg +0.086% (se 0.073)  stop hit 63%  MFE>=0.25%: 35%  MFE>=0.40%: 28%
+CONTROL (nakli levels)             n=189  jeet 31%  avg +0.018% (se 0.037)  stop hit 60%  MFE>=0.25%: 44%  MFE>=0.40%: 30%
+   faraq (asli - control) avg +0.068%, z +0.8
+== BANKNIFTY
+ASLI level (PDH/PDL break)         n= 49  jeet 29%  avg +0.004% (se 0.058)  stop hit 65%  MFE>=0.25%: 39%  MFE>=0.40%: 27%
+CONTROL (nakli levels)             n=207  jeet 33%  avg -0.007% (se 0.036)  stop hit 60%  MFE>=0.25%: 43%  MFE>=0.40%: 28%
+   faraq (asli - control) avg +0.011%, z +0.2
+== SAB (3 index)
+ASLI level (PDH/PDL break)         n=148  jeet 30%  avg +0.051% (se 0.037)  stop hit 63%  MFE>=0.25%: 36%  MFE>=0.40%: 27%
+CONTROL (nakli levels)             n=608  jeet 33%  avg +0.020% (se 0.020)  stop hit 58%  MFE>=0.25%: 44%  MFE>=0.40%: 29%
+   faraq (asli - control) avg +0.032%, z +0.8

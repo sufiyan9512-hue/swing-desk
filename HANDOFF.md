@@ -1,7 +1,19 @@
 # Swing Desk: handoff for a new Claude session
 
+## STATUS (19 Nov 2026) - yahi sabse pehle padho, baaki file purani history hai
+- **Repo:** sufiyan9512-hue/swing-desk (8 Nov se naya ghar; purana sufikipl-ops/swing-auto suspend). **Default branch = `claude/handsoff-documents-swing-trade-ocnb25`** (main nahi hai).
+- **Ek hi handoff file:** ye `HANDOFF.md`. `docs/handoff/` ke khali templates hata diye (wo kabhi bhare nahi gaye the).
+- **Aaj ka index + Option setup card:** Picks > Market tab. `index_daily.py` roz `docs/index_daily.json` likhta hai (levels + `option_pick`: 1 CE + 1 PE, Nifty chain se, `opt_pick.py` ka liquidity/risk filter, expiry 3-7 din). Sensex ka strike NSE chain me nahi, isliye sirf Nifty.
+  Ye levels + filter hain, **tested signal NAHI** (60 din: PDH/PDL break ~30% jeet, 63% stop, random se alag nahi; paper record 3 SL). Koi order automatically nahi lagta.
+- **Workflow `index_daily`:** 08:45, 09:10 (strike ke liye, NSE chain 9:00 ke baad), 16:00 IST, Mon-Fri; teeno `--notify` se Telegram bhejte hain. `patch_ix.py` app me card ek baar jodta hai (idempotent).
+- **Option files (zip se):** opt_pick, option_paper, chain_snap, collect_intraday, indicator_study/combo, level_break_study, intraday.yml. Studies ke output `out/` me.
+- **Positions (11 Nov ka screenshot, purana ho sakta hai):** BANCOINDIA 35 @675.50 (T1, delivery baaki), TATASTEEL 100 @190.40. Koi setup nahi tha (Telegram tip / "plus me tha"). Suggested SL closing basis ~655 / ~182, target ~700 / ~198. Naya paisa lagake average mat karo.
+- **Rule:** default branch me seedha push nahi; naya branch + PR.
+
+---
+
 Owner: Sufiyan (Surat, part-time NSE swing trader). Capital Rs 50,000, max loss/day Rs 500-1,000, max 2 trades/day,
-delivery holds 2-5 days, never options. Speaks Hinglish: reply in simple Hinglish, give click-level steps,
+delivery holds 2-5 days, options normally avoided (only the 'Option setup' card exists, see STATUS below). Speaks Hinglish: reply in simple Hinglish, give click-level steps,
 do the coding yourself (edit, test, commit, merge to main). Do not make him upload files.
 
 ## Pieces
@@ -257,4 +269,4 @@ do the coding yourself (edit, test, commit, merge to main). Do not make him uplo
 - Purana GitHub (sufikipl-ops/swing-auto) suspend. Restore -> sufiyan9512-hue/swing-desk.
 - Halka schedule: live.yml ka schedule band (sirf manual; aage Cloudflare Worker), global 3x/din, news 2x/din.
 - Apps Script timer: GH_REPO naya; abhi live kick band rakho jab tak Cloudflare live feed na bane.
-- docs/handoff/* (naye repo ka skeleton) saath me rakha.
+- docs/handoff/* (khali skeleton) 19 Nov ko hata diya; ye file hi single handoff hai.

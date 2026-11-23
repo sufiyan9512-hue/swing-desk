@@ -1,91 +1,99 @@
 setup,symbol,flags,next_event,last_announcement,headlines
-BREAKOUT,SBIN,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,"State Bank of India (SBIN.NS) Stock Price, News, Quote & History"
-BREAKOUT,M&M,IN_NEWS,,2026-11-18 Analyst / Investor Meet,Mahindra & Mahindra Share Price - Live NSE: M&M Stock Price & Chart | M&M Duplicate Share Certificate Notice Nov 2026
-BREAKOUT,PNB,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 Credit Rating- Revision,"SBI, PNB, 3 other PSBs zoom up to 27% in Nov; here's what tech analysts say | Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB"
-BREAKOUT,URBANCO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-20 Press Release,"Urban Company shares dip 4% after  ₹2,500 crore fundraising; opportunity to buy on the dip | Urban Company Raises Rs 2,500 Cr via QIP; Draws Over Rs 15,000 Cr Demand"
-BREAKOUT,HYUNDAI,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-20 Updates,"Hyundai Motor India to host analyst meeting on November 26, 2026 | Hyundai Motor Company (005387.KS) Stock Price, News, Quote & History"
-BREAKOUT,SHADOWFAX,IN_NEWS,,,Shadowfax Technologies Ltd Hits All-Time High of Rs 304.95 as Momentum Builds Across Timef
-BREAKOUT,ITCHOTELS,IN_NEWS,,,"ITC Hotels Share Price Target 2027: 19.7% Upside, Bull Rs 255"
-BREAKOUT,FLUOROCHEM,IN_NEWS,,,Gujarat Fluorochemicals Share Price: Fresh 52-Week High | Gujarat Fluorochemicals Ltd Sees Bullish Momentum Amid Technical Upgrades
-BREAKOUT,KWIL,IN_NEWS,,2026-11-18 Copy of Newspaper Publication,Kwality Wall's Investor Analysis | StockIQ
-BREAKOUT,MSUMI,IN_NEWS,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,Motherson Sumi Wiring India Investor Analysis | StockIQ
-BREAKOUT,CENTRALBK,IN_NEWS,,,Central Bank of India Technical Momentum Shifts Amid Mixed Market Signals | Central Bank warns on AI stock risks to Ireland as Anthropic floats
-BREAKOUT,GHCLTEXTIL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-20 Spurt in Volume,GHCL Textiles NSE:GHCLTEXTIL Volume Surge Clarification | GHCL Textiles Investor Analysis | StockIQ
-BREAKOUT,ARIS,NEW_ANNOUNCEMENT,,"2026-11-20 Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
-BREAKOUT,SUNSHINE,none,,,
-BREAKOUT,MINDACORP,IN_NEWS,,,"Minda Corporation 52 Week High Streak and Valuation View | Minda Corporation Appoints Amit Srivastava As CEO Of Security Systems Division, ASEAN Busi"
-BREAKOUT,PSUBANK,none,,,
-BREAKOUT,FREDUN,none,,2026-11-19 Earnings Call Transcript,
-BREAKOUT,IREDA,none,,,
-BREAKOUT,BANKBARODA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 Credit Rating,"M&amp;M, Bank of Baroda shares: Top 2 stocks to buy; check expected returns, ratings, targ | State Bank of India (SBIN.NS) Stock Price, News, Quote & History"
-BREAKOUT,HINDUNILVR,IN_NEWS,,,Hindustan Unilever vs Nestle India 2027: P/E and Growth | Hindustan Unilever Ltd Sees Significant Open Interest Surge Amidst Bullish Market Signals
-BREAKOUT,BLUESTARCO,IN_NEWS,,,Blue Star Ltd. Sees Significant Open Interest Surge Amid Positive Market Momentum
-BREAKOUT,WOCKPHARMA,IN_NEWS,,,"Arvind Fashions, Aptus, Wockhardt among Geojit's 3 stock picks | Zee Business. . Wockhardt में शानदार तेजी 'लेटर' से रॉकेट बना Wockhardt #Wockhardt #Wockha"
-PREBREAK,SUNPHARMA,IN_NEWS,,,Sun Pharmaceutical Industries Ltd Technical Momentum Shifts Amid Mixed Indicator Signals
-PREBREAK,LENSKART,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-20 General Updates,Lenskart Solutions Investor Analysis | StockIQ
-PREBREAK,BEL,IN_NEWS,,,"BEL Share Price | HAL, BEL to Lead Spending Gains as L&T, BEML and Bharat Forge Emerge as Potential Benefici"
-PREBREAK,RADICO,IN_NEWS,,2026-11-20 Analysts/Institutional Investor Meet/Con. Call Updates,Radico Khaitan schedules BNPP investor meet in New Delhi on November 25
-PREBREAK,IOC,IN_NEWS,,,Indian Oil Corporation Sees Significant Open Interest Surge Amid Bullish Market Signals
-PREBREAK,ABCAPITAL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 Allotment of Securities,Aditya Birla Money seeks shareholder nod for ₹290 crore RPT and ₹200 crore preference shar
-PREBREAK,PETRONET,IN_NEWS,,,Petronet LNG Investor Analysis | StockIQ
-PREBREAK,360ONE,none,,,
-PREBREAK,CUB,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-18 General Updates,how Fair Value spotted City Union Bank’s 61% gain in 27 months | City Union Bank Ltd. Surges 7.0% to Day's High of Rs 249.55 — Outperforms Sector by 4.32 P
+BREAKOUT,ADANIPOWER,IN_NEWS,,,"TMC questions 25-year Adani power deal with Bengal government, alleges favouritism"
+BREAKOUT,BANKBARODA,IN_NEWS,,,"Bank of Jiangsu Declares Cash Dividend for Suyin You 1 Preference Share | Central Bank of India Share Price Target 2027, 2028 and 2030"
+BREAKOUT,CANBK,none,,,
+BREAKOUT,WELSPUNLIV,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-21 General Updates,"Textiles shares hit new high; Indo Count, Welspun Living rally up to 8% | Welspun Living shares, up 100% in 2026, are in focus after ₹3,200 crore capex plan"
+BREAKOUT,NUVOCO,none,,,
+BREAKOUT,DLF,IN_NEWS,,,"Monday Watchlist: Why FIIs added 23% more shorts; DLF, M&M among 6 stocks near breakout"
+BREAKOUT,POONAWALLA,none,,,
+BREAKOUT,BLUESTARCO,IN_NEWS,,,"Voltas, Blue Star, Havells Shares Rally Up To 8% As Copper Prices Hit 7-month Low"
+BREAKOUT,EIHOTEL,none,,,
+BREAKOUT,ICICIGI,none,,,
+BREAKOUT,CENTRALBK,IN_NEWS,,,"Central Bank of India Share Price Target 2027, 2028 and 2030 | Czech Central Bank Lifts Rates Again as Energy Costs Threaten to Reheat Inflation"
+BREAKOUT,AJMERA,none,,,
+BREAKOUT,ALICON,IN_NEWS,,,"Six Stocks To Buy Today, November 23: CEAT, Alicon Castalloy, Welspun Living, And More"
+BREAKOUT,ARIS,none,,,
+BREAKOUT,VIJAYA,none,,2026-11-21 Analysts/Institutional Investor Meet/Con. Call Updates,
+BREAKOUT,KIMS,none,,,
+BREAKOUT,JKCEMENT,none,,,
+BREAKOUT,NITINSPIN,none,,,
+BREAKOUT,ACC,IN_NEWS,,,"How the ACC did in Week 12: Conference title game is set, playoff stock rises | Miami rallies past Virginia Tech, clinches spot in ACC title game"
+BREAKOUT,HDFCNIFTY,NEW_ANNOUNCEMENT,,2026-11-21 Reg. 90 (2) (a) - Movement in unit Capital of Schemes (listed),
+BREAKOUT,MARATHON,none,,,
+BREAKOUT,BANKBETA,none,,,
+BREAKOUT,HDFCBANK,IN_NEWS,,,HDFC Bank Share Price Highlights: HDFC Bank Stock Price History | HDFC Bank regains ₹13 trillion market-cap; stock hits 8-month high
+BREAKOUT,AXISBANK,IN_NEWS,,,Axis Bank Share Price Highlights: Axis Bank Stock Price History
+BREAKOUT,MAXHEALTH,IN_NEWS,,,"Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% i"
+PREBREAK,HINDPETRO,none,,,
+PREBREAK,BEL,none,,,
+PREBREAK,MARICO,IN_NEWS,,,Marico imposes ₹3 lakh penalty on director over wife's share purchase | He joined Marico a
+PREBREAK,GLENMARK,none,,,
+PREBREAK,ASIANPAINT,IN_NEWS,,,Asian Paints Share Price Highlights: Asian Paints Stock Price History | Smiti Holding pledges 4.03 Cr Asian Paints shares to Bajaj Finance
+PREBREAK,PETRONET,none,,,
+PREBREAK,COROMANDEL,none,,,
 PREBREAK,THELEELA,none,,,
-PREBREAK,VRLLOG,NEW_ANNOUNCEMENT,,2026-11-19 Buy back,
-PREBREAK,GRAPHITE,IN_NEWS,,,"First Canadian Graphite Inc. (FCI.V) Stock Price, News, Quote & History"
-PREBREAK,CEATLTD,NEW_ANNOUNCEMENT,,2026-11-18 Updates,
-PREBREAK,NITINSPIN,IN_NEWS,,,Nitin Spinners fixes Sep 14 record date for ₹3 dividend | Nitin Spinners Ltd is Rated Buy by MarketsMOJO
-PREBREAK,AEROENTER,none,,,
-PREBREAK,ORIENTELEC,IN_NEWS,,,Orient Electric Investor Analysis | StockIQ
-PREBREAK,SMARTWORKS,none,,,
-PREBREAK,GULFOILLUB,IN_NEWS,,,China’s Persian Gulf oil imports hit high since start of Iran war as producers cut prices | Goldman Sachs Estimates Gulf Oil Exports at 15 Million to 16 Million Bpd
-PULLBACK,PERSISTENT,IN_NEWS,,,"TCS, Infosys, Persistent Systems, other IT stocks rally up to 4% on AI rout despite Anthro | Top stock picks for today: Experts recommend Dabur, JK Cement, Persistent Systems, HDFC Ba"
-PULLBACK,TATASTEEL,IN_NEWS,,,Hindustan Zinc vs Tata Steel vs JSW Steel: Which metal stock to buy amid big fall in the m | Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh
-PULLBACK,LGEINDIA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 Change in Management,"LG Electronics Inc. (066575.KS) Stock Price, News, Quote & History | LG Electronics India announces cessation of two senior management personnel"
-PULLBACK,JINDALSTEL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 General Updates,"Jindal Steel Unit Fined Over Environmental Matters in Australia | Jindal Steel subsidiary Wollongong Resources fined A$252,711 in Australia"
+PREBREAK,CEATLTD,none,,,
+PREBREAK,JSWCEMENT,none,,,
+PREBREAK,CELLO,none,,,
+PREBREAK,VRLLOG,none,,,
+PULLBACK,IIFL,none,,,
+PULLBACK,TCS,IN_NEWS,,,TCS Share Price Highlights: TCS Stock Price History
+PULLBACK,TECHM,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-21 Amendment to AOA/MOA,Tech Mahindra Share Price Highlights: Tech Mahindra Stock Price History
+PULLBACK,APOLLO,IN_NEWS,,,"Apollo Micro Systems lists 1.4 crore shares at ₹114 following warrant conversion | Apollo Micro Systems schedules investor meets with Citi, Nuvama in August"
+PULLBACK,VBL,none,,,
+PULLBACK,KISSHT,none,,,
 PULLBACK,INDUSTOWER,IN_NEWS,,,Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO | Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO
-PULLBACK,MVELECTRO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 General Updates,MV Electrosystems receives land allotment LOI for 9.9-acre manufacturing unit in Madhya Pr
-PULLBACK,CYIENT,NEW_ANNOUNCEMENT,,2026-11-19 Press Release,
-PULLBACK,MRPL,none,,,
-PULLBACK,WHIRLPOOL,IN_NEWS,,2026-11-18 Copy of Newspaper Publication,"Earnings call transcript: Whirlpool of India posts Q2 2026 revenue beat, EPS miss By Inves | Whirlpool of India Ltd (BOM:500238) (Q2 2027) Earnings Call High"
-PULLBACK,DELTACORP,IN_NEWS,,,Delta Corp Investor Analysis | StockIQ
-PULLBACK,LTTS,none,,,
-PULLBACK,MARINE,none,,,
-PULLBACK,AXISCADES,none,,2026-11-20 Analysts/Institutional Investor Meet/Con. Call Updates,
 PULLBACK,CPPLUS,none,,,
-PULLBACK,TECHNOCRAF,IN_NEWS,,2026-11-19 Analysts/Institutional Investor Meet/Con. Call Updates,Technocraft Ventures releases audio recording for Q2FY27 earnings call
-PULLBACK,BEML,IN_NEWS,,,"HAL, BEL to Lead Spending Gains as L&T, BEML and Bharat Forge Emerge as Potential Benefici | Beyond BEL and HAL: L&T, Bharat Forge, BEML among 5 defence stocks that could benefit from"
-PULLBACK,IOLCP,IN_NEWS,,,IOL Chemicals Investor Analysis | StockIQ
-PULLBACK,TARIL,none,,,
-PULLBACK,KISSHT,none,,2026-11-18 Shareholders meeting,
-PULLBACK,TTML,IN_NEWS,,,Tata Teleservices Investor Analysis | StockIQ
-PULLBACK,SAMBHV,IN_NEWS,,,Sambhv Steel Tubes Investor Analysis | StockIQ
-PULLBACK,KROSS,IN_NEWS,,,Kross L Investor Analysis | StockIQ
-PULLBACK,SMSPHARMA,none,,,
-PULLBACK,MACPOWER,none,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,
-PULLBACK,SAMHI,none,,,
-DIP,DCAL,IN_NEWS,,,Seven-Day Slide Pushes Dishman Carbogen Amcis Ltd to 52-Week Low of Rs 115.2 | Dishman Carbogen Amcis 52 Week Low Streak And Valuation
-DIP,CREDITACC,IN_NEWS,,2026-11-19 ESOP/ESOS/ESPS,CreditAccess Grameen among 7 stocks closing below VWAP | CreditAccess Grameen 52 Week Low Streak and Market View
-DIP,CAPLIPOINT,none,,2026-11-19 Analysts/Institutional Investor Meet/Con. Call Updates,
-DIP,SHANKESH,IN_NEWS,,,Shankesh Jewellers Trader Analysis | StockIQ
-DIP,PIIND,none,,2026-11-18 Analysts/Institutional Investor Meet/Con. Call Updates,
-DIP,BOROLTD,IN_NEWS,,,Borosil Renewables Share Price Near Low With Sector Context | Borosil Renewables BORORENEW SEBI Special Demat Window 2026
-DIP,GODFRYPHLP,IN_NEWS,,,"GODFREY PHILLIPS INDIA LT Option Chain - Live GODFREY PHILLIPS INDIA LT Option Chain Data,"
-DIP,MIDHANI,IN_NEWS,,2026-11-19 Analysts/Institutional Investor Meet/Con. Call Updates,Mishra Dhatu Nigam Ltd (NSE:MIDHANI) Q2 2027 Earnings Call Highl
-DIP,KSB,IN_NEWS,,2026-11-20 Analysts/Institutional Investor Meet/Con. Call Updates,"KSB shares transcript of institutional investors meet held in November | KSB SE & Co. KGaA (KSBV.VI) stock price, news, quote and history"
-DIP,PFC,IN_NEWS,,,Power Finance Corporation stock set for INR 4.10 interim dividend | Power Finance Corp Investor Analysis | StockIQ
-DIP,PARAGMILK,NEW_ANNOUNCEMENT,,2026-11-18 Press Release,
-DIP,IRCON,none,,,
-DIP,NIFTY1,none,,,
-DIP,TIINDIA,none,,2026-11-18 Updates,
-DIP,SIEMENS,IN_NEWS,,2026-11-19 Analysts/Institutional Investor Meet/Con. Call Updates,"Siemens Energy CEO Sees Data Center Boom Lasting on Power Needs | Siemens Ltd cancels analyst call scheduled for November 20, 2026"
-DIP,CERA,none,,2026-11-18 Shareholders meeting,
-DIP,SYMPHONY,IN_NEWS,,,"Dudamel conducts Mahler’s Symphony No. 5, Adagietto | Symphony Environmental Technologies Plc (LSE:SYM): Why This Small-Cap Growth Stock Is Tren"
-DIP,VGUARD,none,,,
-DIP,RUBICON,none,,,
-DIP,ABDL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-19 Pendency of Litigation(s)/dispute(s) or the outcome impacting the Company,Allied Blenders appeals Bombay HC order terminating CSD arbitration | Allied Blenders takes military canteen whisky payment row to Bombay High Court
-DIP,AETHER,IN_NEWS,,2026-11-20 General Updates,Aether Industries ESOP Allotment 25381 Shares November 2026
-DIP,TATACHEM,none,,,
-DIP,GABRIEL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-20 Change in Company Secretary/Compliance Officer,Gabriel India appoints Dimple Chauhan as interim KMP and compliance officer | Gabriel India Appoints Ms. Dimple Chauhan as Interim Compliance Officer Effective November
+PULLBACK,MVELECTRO,none,,,
+PULLBACK,EDELWEISS,none,,,
+PULLBACK,MRPL,none,,,
+PULLBACK,UNIMECH,none,,,
+PULLBACK,STLNETWORK,none,,,
+PULLBACK,AETHER,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-22 Analysts/Institutional Investor Meet/Con. Call Updates,Aether Industries to hold investor meet with Antifragile Thinking on Nov 25
+PULLBACK,NUVAMA,none,,,
+PULLBACK,ASTRAMICRO,none,,,
+PULLBACK,TATACOMM,IN_NEWS,,,"Singtel, Tata Communications among the big winners Frost & Sullivan’s 2026 Best Practices "
+PULLBACK,JAMNAAUTO,IN_NEWS,,,Jamna Auto Industries' (NSE:JAMNAAUTO) Earnings Are Weaker Than They Seem
+PULLBACK,ETHOSLTD,NEW_ANNOUNCEMENT,,2026-11-21 Action(s) taken or orders passed,
+PULLBACK,MSTCLTD,none,,,
+PULLBACK,SAKAR,IN_NEWS,,,Sakar Healthcare Ltd. Share Price Rise Streak: Key update
+PULLBACK,KSHINTL,none,,,
+PULLBACK,CMLL,none,,,
+PULLBACK,KNACK,IN_NEWS,,,"Knack Packaging Q2FY27 Results: Revenue up 52.52%, EBITDA margin dips to 16.35%"
+PULLBACK,MUFIN,none,,,
+DIP,MKJEWELS,RESULTS_SOON,2026-11-24 Financial Results,,
+DIP,SHANTIGOLD,none,,,
+DIP,DCAL,none,,,
+DIP,IIFLCAPS,none,,,
+DIP,EBGNG,none,,,
+DIP,SKYWAYS,IN_NEWS,,2026-11-21 Updates,Skyways Air Services (NSEI:SKYWAYS) - Stock Analysis
+DIP,DEEPA,none,,,
+DIP,CAPLIPOINT,IN_NEWS,,,Caplin Point Laboratories Limited (CAPLIPOINT.BO) Seasonal Returns Chart - Yahoo Finance
+DIP,SBISILVER,none,,,
+DIP,SILVER1,none,,,
+DIP,SILVERCASE,none,,,
+DIP,HDFCSILVER,none,,,
+DIP,TATSILV,none,,,
+DIP,SOTL,none,,,
+DIP,SHANKESH,none,,,
+DIP,SILVERAXIS,none,,,
+DIP,SILVERBETA,none,,,
+DIP,MOMSBELIEF,none,,,
+DIP,SILVER,none,,,
+DIP,SILVERAG,none,,,
+DIP,GROWWSLVR,none,,,
+DIP,TONBO,none,,,
+DIP,SMLMAH,none,,,
+DIP,BECTORFOOD,none,,,
+DIP,CAMS,none,,,
+DIP,BALMLAWRIE,IN_NEWS,,,Balmer Lawrie Investments declares ₹2.27 per share final dividend for FY26
+DIP,NMDC,none,,,
+DIP,BEML,none,,,
+DIP,MANIPALHOS,none,,,
+DIP,WAAREEENER,IN_NEWS,,,"Top stocks to watch today: Tata Steel, APL Apollo Tubes, Maruti Suzuki, RVNL, Waaree Energ | Stocks to Watch Today, November 23, 2026: Waaree Energies, Ujjivan Small Finance Bank, Sha"
+DIP,JSFB,none,,,
+DIP,TTKHLTCARE,none,,,
+DIP,LALPATHLAB,none,,,
+DIP,ATHERENERG,IN_NEWS,,,"Ather Energy Limited (ATHERENERG.NS) Stock Price, News, Quote & History | Ather Energy to attend BofA, Citi investor meets"
 LOCKED,PASHUPATI,none,,,
 LOCKED,AURUM,none,,,

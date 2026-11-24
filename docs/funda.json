@@ -1,28 +1,5 @@
 {
  "debug": {
-  "pledge_keys": [
-   "broadcastDt",
-   "comName",
-   "compBroadcastDate",
-   "disclosureFromDate",
-   "disclosureToDate",
-   "nbfcNonPromoShare",
-   "nbfcPromoShare",
-   "noOfPledgeShare",
-   "noOfSecPledgeShare",
-   "numSharesPledged",
-   "percPromoterHolding",
-   "percPromoterShares",
-   "percSharesPledged",
-   "percTotShares",
-   "sharesCollateral",
-   "shp",
-   "totDematShares",
-   "totIssuedShares",
-   "totPromoterHolding",
-   "totPromoterShares",
-   "totPublicHolding"
-  ],
   "shp_keys": [
    "broadcastDate",
    "cgTimeStamp",
@@ -860,15 +837,15 @@
    "sector": "Basic Materials"
   },
   "APLAPOLLO": {
-   "at": "2026-11-17",
+   "at": "2026-11-24",
    "de": 0.17,
    "de_src": "yahoo",
    "eg": 25.3,
    "eps": 47.16,
    "industry": "Steel",
-   "pe": 46.41,
-   "pledge": 0.0,
-   "pledge_date": "2026-09-30",
+   "pe": 35.41,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 28.18,
    "prom_date": "2026-09-30",
    "prom_prev": 28.25,
@@ -3857,7 +3834,7 @@
    "sector": "Financial Services"
   },
   "GROWWSLVR": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -4082,7 +4059,7 @@
    "qv": 3
   },
   "HDFCSILVER": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -6652,7 +6629,7 @@
    "sector": "Consumer Cyclical"
   },
   "MKJEWELS": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "de": 0.43,
    "de_src": "yahoo",
    "eps": 9.2,
@@ -7552,7 +7529,7 @@
    "sector": "Consumer Cyclical"
   },
   "PERMAGN": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "de": 0.55,
    "de_src": "yahoo",
    "eg": 216.3,
@@ -8671,7 +8648,7 @@
    "qv": 3
   },
   "SBISILVER": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9048,7 +9025,7 @@
    "sector": "Industrials"
   },
   "SILVER": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9058,7 +9035,7 @@
    "qv": 3
   },
   "SILVER1": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9068,7 +9045,7 @@
    "qv": 3
   },
   "SILVERAG": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9078,7 +9055,7 @@
    "qv": 3
   },
   "SILVERAXIS": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9088,7 +9065,7 @@
    "qv": 3
   },
   "SILVERBETA": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9098,7 +9075,7 @@
    "qv": 3
   },
   "SILVERCASE": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -9936,7 +9913,7 @@
    "sector": "Basic Materials"
   },
   "TATSILV": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "err": [
     "shp",
     "de"
@@ -10119,15 +10096,15 @@
    "sector": "Industrials"
   },
   "THOMASCOOK": {
-   "at": "2026-11-17",
+   "at": "2026-11-24",
    "de": 0.22,
    "de_src": "yahoo",
    "eg": -21.8,
    "eps": 4.38,
    "industry": "Travel Services",
-   "pe": 26.26,
-   "pledge": 0.0,
-   "pledge_date": "2026-09-30",
+   "pe": 29.54,
+   "pledge": null,
+   "pledge_note": "NSE par pledge record nahi",
    "prom": 64.77,
    "prom_date": "2026-09-30",
    "prom_prev": 64.77,
@@ -10195,7 +10172,7 @@
    "sector": "Industrials"
   },
   "TIMEX": {
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "de": 0.21,
    "de_src": "yahoo",
    "eg": 61.0,
@@ -11169,13 +11146,13 @@
  "log": [
   "candidates: 79",
   "warmup fail: HTTP Error 403: Forbidden",
-  "status: {\"shp\": \"41/54\", \"pledge\": \"54/54\", \"de\": \"44/54\", \"cached\": 25}"
+  "status: {\"shp\": \"2/15\", \"pledge\": \"15/15\", \"de\": \"5/15\", \"cached\": 64}"
  ],
  "status": {
-  "cached": 25,
-  "de": "44/54",
-  "pledge": "54/54",
-  "shp": "41/54"
+  "cached": 64,
+  "de": "5/15",
+  "pledge": "15/15",
+  "shp": "2/15"
  },
- "updated": "2026-11-23 14:50 UTC"
+ "updated": "2026-11-24 14:46 UTC"
 }

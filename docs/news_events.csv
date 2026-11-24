@@ -1,63 +1,63 @@
 setup,symbol,flags,next_event,last_announcement,headlines
 BREAKOUT,RATNAVEER,IN_NEWS,,,Ratnaveer Precision surges 10% on huge volume; zooms 215% thus far in FY27 | Ratnaveer Precision secures orders for 50% of new CCL capacity
-BREAKOUT,JSWINFRA,IN_NEWS,,,Adani Ports vs JSW Infrastructure: Port Stocks Compared
-BREAKOUT,ICICIGI,IN_NEWS,,,"ICICI Lombard Unveils 4th India Risk Report, Launches Parametric Insurance Solutions and ‘ | COVID-19 Wasn't on the List, But Claim Still Valid? Consumer Commission Orders ICICI Lomba"
-BREAKOUT,HONASA,IN_NEWS,,,"6 Stocks Hit 52-Week Highs on NSE: Honasa Consumer, DLF, Eicher Motors, Apollo Hospitals a | Honasa Consumer Ltd. 52 Week High Streak: What It Means"
+BREAKOUT,JSWINFRA,none,,,
+BREAKOUT,ICICIGI,IN_NEWS,,2026-11-24 General,"ICICI Lombard Unveils 4th India Risk Report, Launches Parametric Insurance Solutions and ‘ | IRM India Affiliate and ICICI Lombard Launch 4th India Risk Report, Highlighting Convergen"
+BREAKOUT,HONASA,IN_NEWS,,,"6 Stocks Hit 52-Week Highs on NSE: Honasa Consumer, DLF, Eicher Motors, Apollo Hospitals a"
 BREAKOUT,ASTERDM,none,,,
 BREAKOUT,SPORTKING,none,,,
-BREAKOUT,SUNSHINE,IN_NEWS,,,SUNSHINE Share Price Today Near 52-Week High and Valuation | Sunshine Pictures Investor Analysis | StockIQ
-BREAKOUT,PERMAGN,IN_NEWS,,,"Permanent Magnets Ltd. Share Price Rise and Fundamentals | Permanent Magnets Share Price near 52-week high, valuation"
-BREAKOUT,THOMASCOOK,IN_NEWS,,,"ITI, Premier Explosives, Thomas Cook: 5 stocks surge up to 17% on heavy volumes; check ful | Thomas Cook share price surges 15%, extends three-session rally to 19% | More upside ahead"
-BREAKOUT,HMAAGRO,IN_NEWS,,,"Trending Stocks Today, November 23, 2026: Tata Steel, Vodafone Idea, PC Jeweller, HMA Agro | HMA Agro Industries Upper Circuit Today: Price, Data and Peers"
-BREAKOUT,AJMERA,IN_NEWS,,,Ajmera Realty & Infra India Ltd. (AJMERA) Share Price Rise Streak: 24.97% in Two Sessions | Ajmera Realty & Infra India Ltd Shows Renewed Momentum Amid Mixed Technical Signals
+BREAKOUT,SUNSHINE,IN_NEWS,,,Sunshine Pictures Investor Analysis | StockIQ
+BREAKOUT,PERMAGN,none,,,
+BREAKOUT,THOMASCOOK,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-24 Press Release,Thomas Cook India opens new outlet in Kolkata to expand West Bengal reach
+BREAKOUT,HMAAGRO,IN_NEWS,,,Broad-Based Technical Strength Lifts HMA Agro Industries Ltd to 52-Week High of Rs 36.72
+BREAKOUT,AJMERA,IN_NEWS,,,Ajmera Realty & Infra India Ltd Shows Renewed Momentum Amid Mixed Technical Signals | Ajmera Realty & Infra India Ltd Surges 8.19% to Day's High of Rs 161 — Outperforms Sector 
 BREAKOUT,HITECH,none,,,
-PREBREAK,BHARTIARTL,IN_NEWS,,,"Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History | Bharti Airtel slides Monday, still outperforms market"
-PREBREAK,MARICO,IN_NEWS,,,"Marico fines independent director Bhaskar Bhat Rs 3 lakh over spouse's share purchase | ITC, Marico, GCPL, Nestle India: Will FPIs raise stakes? What Jefferies says"
-PREBREAK,BAJAJFINSV,IN_NEWS,,,"Bajaj Finserv slides Monday, underperforms competitors"
-PREBREAK,RADICO,IN_NEWS,,,Radico Khaitan Q2FY27 Results Net Profit Jumps 66.5% as Premium Spirits Portfolio Drives G
+PREBREAK,BHARTIARTL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-24 Action(s) taken or orders passed,"Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History | Bharti Airtel Limited (BHARTIARTL.NS) stock price, news, quote and history"
+PREBREAK,MARICO,none,,,
+PREBREAK,BAJAJFINSV,IN_NEWS,,,Bajaj Finserv BSE Top 10 Banks ETF (BANK10BETF.NS) latest stock news and headlines | Bajaj Finserv BSE Top 10 Banks ETF (BANK10BETF.NS) stock major holders
+PREBREAK,RADICO,IN_NEWS,,,Radico Khaitan Ltd. is Rated Buy by MarketsMOJO
 PREBREAK,MOTHERSON,none,,,
 PREBREAK,GLENMARK,none,,,
-PREBREAK,LODHA,NEW_ANNOUNCEMENT,,2026-11-22 Cessation,
-PREBREAK,LALPATHLAB,IN_NEWS,,,Dr Lal Pathlabs Investor Analysis | StockIQ
-PREBREAK,PARAGMILK,none,,,
-PREBREAK,THELEELA,none,,,
+PREBREAK,LODHA,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-22 Cessation,"Lodha Developers Shifts Focus: Less Land Buy, More Cash Flow"
+PREBREAK,LALPATHLAB,none,,,
+PREBREAK,PARAGMILK,IN_NEWS,,,Parag Milk Foods expands distribution network with new Bhiwandi facility | Parag Milk Foods Opens New Bhiwandi Distribution Hub
+PREBREAK,THELEELA,IN_NEWS,,,Leela Palaces Hotels & Resorts Ltd is Rated Hold
 PREBREAK,AFFLE,none,,,
-PULLBACK,HCLTECH,IN_NEWS,,,"HCL Technologies climbs Monday, outperforms market"
-PULLBACK,GVT&D,IN_NEWS,,,"GE Vernova stock trades up, here is why | Why is GE Vernova stock surging today?"
-PULLBACK,IIFL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Resignation of Director/KMP/SMP,FIH Mauritius sells 13.64% stake in IIFL Finance via on-market trades | FIH Mauritius exits IIFL Finance with 13.64% stake sale
-PULLBACK,WIPRO,IN_NEWS,,,"Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahi | Wipro rallies Monday, underperforms competitors"
-PULLBACK,63MOONS,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Press Release,"NSEL OTS payment update: 63 Moons Technologies-backed firm releases  ₹1,950 cr payout afte | 63 Moons-backed National Spot Exchange releases ₹1,950 crore settlement payout to claimant"
-PULLBACK,BPCL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Change in Management,BPCL Share Price Highlights: BPCL Stock Price History | Bharat Petroleum appoints Mohan B Mate as Kochi Refinery chief
-PULLBACK,VBL,IN_NEWS,,,"Bisleri water found unsafe: FSSAI sanctions prosecution, and Varun Beverages and Tata Cons"
-PULLBACK,QPOWER,IN_NEWS,,,Nashik exporters demand cold storage with quality power & roads ahead of peak export seaso | Quality Power Electr Trader Analysis | StockIQ
-PULLBACK,IRFC,IN_NEWS,,,"Railway PSU stocks stage selective comeback: IRFC, IRCON gain over 10% in a month, but RVN"
-PULLBACK,MVELECTRO,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,MV Electrosystems targets 40 propulsion sets monthly; maintains FY27 revenue guidance | MV Electrosystems says refurbishment could match new systems
-PULLBACK,BBOX,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Action(s) taken or orders passed,Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations | Johnson Releases FDA Records on Vaccine Deaths and a Deferred Black Box Warning
-PULLBACK,MRPL,IN_NEWS,,,Chennai Petroleum vs MRPL: PSU Refinery Stocks 2027 | MRPL Trader Analysis | StockIQ
+PULLBACK,HCLTECH,IN_NEWS,,,HCL Technologies Share Price Today: Price Rise Analysis | HCL Technologies (NSE: HCLTECH) : Why technology services and chips matters
+PULLBACK,GVT&D,IN_NEWS,,,"GE Vernova Inc. (GEV) Stock Price, News, Quote & History | GE Vernova stock trades up, here is why"
+PULLBACK,IIFL,NEW_ANNOUNCEMENT,,2026-11-23 Resignation of Director/KMP/SMP,
+PULLBACK,WIPRO,IN_NEWS,,,"Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahi | Pune Infosys techie beats Wipro software engineer girlfriend to death, sits beside her bod"
+PULLBACK,63MOONS,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Press Release,"NSEL OTS payment update: 63 Moons Technologies-backed firm releases  ₹1,950 cr payout afte | 63 moons (NSE:63MOONS) Confirms NSEL Settlement Payout Released"
+PULLBACK,BPCL,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Change in Management,"BPCL Share Price Highlights: BPCL Stock Price History | 5 energy stocks with attractive dividend yield - Hindustan Petroleum, Indian Oil, Bharat P"
+PULLBACK,VBL,IN_NEWS,,,Varun Beverages introduces new juice varieties
+PULLBACK,QPOWER,IN_NEWS,,,Nashik exporters demand cold storage with quality power & roads ahead of peak export seaso
+PULLBACK,IRFC,IN_NEWS,,,IRFC Share Price
+PULLBACK,MVELECTRO,none,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,
+PULLBACK,BBOX,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Action(s) taken or orders passed,Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations | [AI Black Box] Washington University and Toronto Team Map How Training Data Shape LLMs
+PULLBACK,MRPL,IN_NEWS,,,MRPL Trader Analysis | StockIQ
 PULLBACK,KPIGREEN,none,,,
-PULLBACK,BEML,IN_NEWS,,,BEML vs Titagarh Rail: Railway Equipment Stocks 2027 | BEML Land Assets Investor Analysis | StockIQ
+PULLBACK,BEML,IN_NEWS,,,First driverless metro trains from India’s BEML enter service | BEML Land Assets Investor Analysis | StockIQ
 PULLBACK,JAMNAAUTO,none,,,
 PULLBACK,TIMEX,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Change in Management,Timex Group India appoints Sumeet Shiv Jhunjhunwala as VP
 PULLBACK,NAZARA,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,Nazara Technologies to join Kotak Midcap Conference on November 27 | Nazara Technologies To Join Kotak Midcap Conference On November 27
-PULLBACK,OPTIEMUS,none,,,
+PULLBACK,OPTIEMUS,IN_NEWS,,,Optiemus Infracom Ltd is Rated Buy
 PULLBACK,ALIVUS,none,,,
-PULLBACK,CMLL,none,,,
-PULLBACK,MGL,none,,,
+PULLBACK,CMLL,IN_NEWS,,,CALIBER MINING AND LOG L Share Price
+PULLBACK,MGL,IN_NEWS,,,Mahanagar Gas Share Price Target 2026: Analyst Forecast
 PULLBACK,BLKASHYAP,none,,,
 PULLBACK,METROPOLIS,none,,,
 PULLBACK,KSHINTL,none,,,
-PULLBACK,AGL,none,,,
-DIP,APLAPOLLO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Public Announcement-Open Offer,"Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg | APL Apollo tanks 22% on Tata Steel deal: Why analysts see near-term pain"
-DIP,APLAPOLLO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Public Announcement-Open Offer,"Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg | APL Apollo tanks 22% on Tata Steel deal: Why analysts see near-term pain"
+PULLBACK,AGL,IN_NEWS,,,"Allcargo Global Ltd Share Price Today,, AGL Share Price NSE, BSE"
+DIP,APLAPOLLO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Public Announcement-Open Offer,"Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg | Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion"
+DIP,APLAPOLLO,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Public Announcement-Open Offer,"Stocks at 52-week low: Tata Power, Cochin Shipyard, APL Apollo, Aadhar Hsg | Tata Steel to Acquire 26.4% in APL Apollo Tubes for $1.7 Billion"
 DIP,SHANTIGOLD,none,,,
-DIP,ESDS,IN_NEWS,,,"ESDS Software Solution Ltd. Share Price Live Today | Nasdaq plunges 5% on Friday: E2E Networks, ESDS Software, other AI-related stocks fall up "
+DIP,ESDS,none,,,
 DIP,ADROITIND,IN_NEWS,,,"ADROIT INDUSTRIES (I) LTD Share Price | Adroit Industries (India) Ltd Share Price Today,, ADROITIND Share Price NSE, BSE"
-DIP,SHIPROCKET,IN_NEWS,,,SHIPROCKET LIMITED Share Price | SHIPROCKET Share Price: Price Action After Fresh Yearly Low
-DIP,SKYWAYS,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,"SKYWAYS AIR SERVICES LTD Share Price | Skyways Air CFO Himanshu Chhabra acquires 8,782 equity shares on NSE"
+DIP,SHIPROCKET,none,,,
+DIP,SKYWAYS,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,SKYWAYS AIR SERVICES LTD Share Price | Skyways Air Services (NSEI:SKYWAYS) - Stock Analysis
 DIP,MKJEWELS,RESULTS_SOON,2026-11-24 Financial Results,,
-DIP,IIFLCAPS,NEW_ANNOUNCEMENT IN_NEWS,,"2026-11-23 Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",IIFL Capital: FIH Mauritius stake rises to 53.09% after secondary purchase | IIFL Capital promoters reduce diluted stake to 10.20% in block trade
-DIP,DEEPA,IN_NEWS,,,Deepa Jewellers Investor Analysis | StockIQ
-DIP,VISHNU,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-23 Press Release,Vishnu Chemicals subsidiary expands solar capacity by 4.19 MW | Vishnu Chemicals Expands Subsidiary Solar Capacity To 8.49 MW Target Q4 FY27
+DIP,IIFLCAPS,NEW_ANNOUNCEMENT IN_NEWS,,"2026-11-23 Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",IIFL Capital: FIH Mauritius stake rises to 53.09% after secondary purchase
+DIP,DEEPA,none,,,
+DIP,VISHNU,NEW_ANNOUNCEMENT IN_NEWS,,2026-11-24 Analyst / Investor Meet,Vishnu Chemicals subsidiary expands solar capacity by 4.19 MW | Vishnu Chemicals Expands Subsidiary Solar Capacity To 8.49 MW Target Q4 FY27
 DIP,SOTL,none,,,
 DIP,BONDADA,none,,,
 DIP,SHILCTECH,none,,,
@@ -71,11 +71,11 @@ DIP,SILVERAG,none,,,
 DIP,GROWWSLVR,none,,,
 DIP,TATSILV,none,,,
 DIP,HDFCSILVER,none,,,
-DIP,RAYMOND,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,Raymond James reiterates Doximity stock rating on engagement growth By Investing.com | Raymond Lifestyle to present Q2 FY27 results at Kotak MidCap Conference
-DIP,KPRMILL,IN_NEWS,,,KPR Mill vs Vardhman Textiles: Textile Stocks 2027
-DIP,HINDZINC,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,"Hindustan Zinc Limited approves Rs 80,000 crore capacity plan | Hindustan Zinc’s Rs 80,000 Crore Bet: Doubling Capacity to Chase the Global Crown"
-DIP,KALYANKJIL,IN_NEWS,,,"Kalyan Jewellers Shares Rise Nearly 3% as Gold Prices Rebound; Titan, PC Jeweller Also Gai | Kalyan Jewellers shares jump 5% on news of Rs 2,000-crore fundraising talks with Warburg P"
-DIP,ASHOKA,IN_NEWS,,,"Ashoka Buildcon Shares Jump 7% After Winning Two Orders Worth ₹4,200 Crore from NHAI and J | Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details"
-DIP,ABLBL,IN_NEWS,,,Aditya Birla Real Estate shareholders approve ESOP Scheme 2026 | Aditya Birla Sun Life AMC Ltd is Rated Sell
+DIP,RAYMOND,IN_NEWS,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,"Raymond James reiterates Doximity stock rating on engagement growth By Investing.com | Raymond Stell Obituary November 23, 2026"
+DIP,KPRMILL,none,,,
+DIP,HINDZINC,none,,2026-11-23 Analysts/Institutional Investor Meet/Con. Call Updates,
+DIP,KALYANKJIL,none,,,
+DIP,ASHOKA,IN_NEWS,,,Ashoka Buildcon Falls 5% After Saudi Arabia Cancels Rs 846 Cr Diriyah Project
+DIP,ABLBL,IN_NEWS,,,Aditya Birla Real Estate shareholders approve ESOP Scheme 2026 | Aditya Birla Real Estate Shareholders Clear ESOP & PSU Scheme 2026
 LOCKED,PASHUPATI,IN_NEWS,,,"Pashupati Cotspin Ltd Forms Death Cross, Signalling Potential Bearish Trend | Pashupati Cotspin Interim Dividend Ex-Date In Focus"
 LOCKED,AURUM,none,,,

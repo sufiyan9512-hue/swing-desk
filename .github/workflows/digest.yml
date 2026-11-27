@@ -1,0 +1,21 @@
+name: digest
+# Roz 15:20 IST: holdings status + kal ke liye naya swing setup (Telegram). Holdings badalne ke liye holdings.json edit karo.
+# Run manually: Actions > digest > Run workflow.
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "50 9 * * 1-5"    # 15:20 IST
+permissions:
+  contents: read
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas
+      - name: Digest
+        run: python daily_digest.py --notify
